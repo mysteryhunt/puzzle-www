@@ -1,0 +1,19 @@
+AddType audio/ogg oga ogg
+AddType video/ogg ogv
+
+AddHandler server-parsed .html
+
+# Use four-digit years
+RedirectMatch permanent ^(/~?puzzle(/www)?)/([8-9][0-9](/.*)?)$ $1/19$3
+RedirectMatch permanent ^(/~?puzzle(/www)?)/([0-1][0-9](/.*)?)$ $1/20$3
+
+RedirectMatch permanent ^(/~?puzzle(/www)?)/currhunt-11/PaintedPotsherds\.html$ $1/2011/puzzles/civilization/painted_potsherds/
+RedirectMatch permanent ^(/~?puzzle(/www)?)/currhunt-11/PaintedPotsherds\.html$ $1/2011/puzzles/civilization/painted_potsherds/
+RedirectMatch permanent ^(/~?puzzle(/www)?)/currhunt-11/Timbales\.html$ $1/2011/puzzles/mega_man/timbales/
+RedirectMatch permanent ^(/~?puzzle(/www)?)/currhunt-11/AModernPalimpsest\.html$ $1/2011/puzzles/civilization/a_modern_palimpsest/
+RedirectMatch permanent ^(/~?puzzle(/www)?)/currhunt-11/Pointillisme\.html$ $1/2011/puzzles/mega_man/pointillisme/
+RedirectMatch permanent ^(/~?puzzle(/www)?)/currhunt-11/ToadsList\.html$ $1/2011/puzzles/world1/toads_list/
+
+RedirectMatch permanent ^(/~?puzzle(/www)?)/gamesarticle\.html$ $1/articles/gamesarticle.html
+
+RedirectMatch permanent ^(/~?puzzle(/www)?)/26/lancebishopsqueasyreaction\.png$ $1/2010/puzzles/1926/queasy_reaction/lancebishopsqueasyreaction.png

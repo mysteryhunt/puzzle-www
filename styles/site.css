@@ -1,0 +1,363 @@
+html {
+    background: #1e0808 url('../images/pagebackground.jpg') repeat-y center top;
+    width: 100%;
+    height: 100%;
+    font-family: 'PT Serif', Georgia, "Century Schoolbook", "Times New Roman";
+    color: #ffffff;
+}
+
+a {
+   color: #ffffff;
+   text-decoration: none;
+   border-bottom: 1px solid #888888;
+}
+
+a:hover, a:visited {
+    color: #ffffff;
+}
+
+body {
+    background: url('../images/secondbackground.jpg') no-repeat center top;
+    margin:auto;
+    width: 1000px;
+    height: 100%;
+    min-height:450px;
+}
+
+.innerpage {
+    background: url('../images/thirdbackground.jpg') no-repeat center top;  
+}
+
+#topmenu {
+    position: relative;
+    top: 53px;
+    left: 50px;
+    width:900px;
+    height: 59px;
+    line-height: 59px;
+    z-index: 1;
+    font-size:1.1em;
+}
+
+#leftmenu {
+    width:220px;
+    margin-left:85px;
+    margin-top:200px;
+    padding-bottom:100px;
+}
+
+#leftmenu h1 {
+    font-size: 1em;
+    font-style: italic;
+    padding-top:35px;
+    padding-bottom:10px;
+}
+
+#leftmenu .menuitem {
+    padding-top:10px;
+    padding-bottom:10px;
+    vertical-align:middle;
+}
+
+#leftmenu .menuitem div {
+    display: inline-block;
+    vertical-align:middle;
+    margin-left: 10px;
+}
+
+#leftmenu .menuitem .imagelink {
+    border: none;
+}
+
+#leftmenu img {
+    vertical-align:middle;
+    display:inline-block;
+    padding-right:10px;
+}
+
+#heading {
+  position: relative;
+  text-align: center;
+  width: 520px;
+  left: 280px;
+  top: -60px;
+  font-size: 2.2em;
+  font-style:italic;
+  text-shadow: 1px 1px 1px #666, -2px -2px 1px #000;
+}
+
+#content {
+    width:650px;
+    z-index:3;
+    padding-bottom:100px;
+}
+
+#contenttext {
+    padding-left:35px;
+    padding-right:60px;
+    padding-top:480px;
+}
+
+#contenttext p {
+    margin-bottom: 10px;
+
+}
+
+#headerimage {
+    position: relative;
+    top: -60px;
+    right: 85px;
+    z-index: 2;
+}
+
+em {
+    font-style: italic;
+}
+
+#pagebody {
+    margin-top:-40px;
+}
+
+#innerpagebody {
+  margin-left:120px;
+  margin-right:110px;
+  margin-top:150px;
+  padding-bottom: 100px;
+}
+
+
+.subheading {
+  font-size: 1.4em;
+  font-weight: bold;
+  margin-top:25px;
+  margin-bottom:20px;
+  padding: 5px 0px 5px 10px;
+  background: url('../images/headerbackground.jpg') repeat-x left top;
+  border-right: 1px solid #222;
+  border-bottom: 1px solid #222;
+  border-left: 1px solid #888;
+  border-top: 1px solid #888;
+
+  -webkit-border-radius: 5px;
+  -webkit-border-radius: 5px;
+
+  -moz-border-radius: 5px;
+  -moz-border-radius: 5px;
+
+  -border-radius: 5px;
+  -border-radius: 5px;
+
+  text-shadow: 1px 1px 1px #888, -1px -1px 1px #000;
+}
+
+#innerpagebody h3 {
+  font-size: 1.4em;
+  font-weight: bold;
+  margin-top:25px;
+  margin-bottom:20px;
+  padding: 5px 0px 5px 10px;
+  background: url('../images/headerbackground.jpg') repeat-x left top;
+  border-right: 1px solid #222;
+  border-bottom: 1px solid #222;
+  border-left: 1px solid #888;
+  border-top: 1px solid #888;
+
+  -webkit-border-radius: 5px;
+  -webkit-border-radius: 5px;
+
+  -moz-border-radius: 5px;
+  -moz-border-radius: 5px;
+
+  -border-radius: 5px;
+  -border-radius: 5px;
+
+  text-shadow: 1px 1px 1px #888, -1px -1px 1px #000;
+}
+
+#innerpagebody h4 {
+  font-size: 1.4em;
+  font-weight: bold;
+  margin-top: 25px;
+  margin-bottom: 20px;
+}
+
+#innerpagebody li {
+  margin-left: 10px;
+  list-style-type:square;
+  list-style-position: inside;
+}
+
+#innerpagebody .no-border {
+  border-bottom: 1px solid #888888;  
+}
+
+.photoframe:before {
+  border-right: 1px solid #222;
+  border-bottom: 1px solid #222;
+  border-left: 1px solid #888;
+  border-top: 1px solid #888;
+}
+
+.photoframe {
+  background: url('../images/headerbackground.jpg') left top;
+  padding: 15px;
+  xborder-right: 1px solid #222;
+  xborder-bottom: 1px solid #222;
+  xborder-left: 1px solid #888;
+  xborder-top: 1px solid #888;
+  -webkit-box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.5);
+  -moz-box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.5);
+  -box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.5);
+
+
+}
+
+.photowithlabel {
+  width:100%;
+  text-align: center;
+}
+
+#innerpagebody p {
+  padding-bottom: 1.2em;
+}
+
+#homeicon {
+ display: inline-block;
+ margin-top:-5px;
+}
+
+#coinicon {
+  float: left;
+  border: none;
+  height: 200px;
+  width: 245px;
+  background: none;
+  position: absolute;
+  top: -51px;
+  left: 75px;
+}
+
+#homeicon a {
+ border: none;
+ margin-left: 30px;
+}
+
+#textmenu {
+ position: absolute;
+ left:295px;
+ top: 0px;
+ width: 620px;
+ height: 49px;
+ text-align: center;
+}
+
+#textmenu ul {
+ display: inline-block;
+ }
+
+#textmenu li {
+ display: block;
+ float: left;
+ width: 10em;
+ padding-bottom: 0px;
+ padding-top: 0px;
+ text-shadow: 0 2px 3px #111;
+}
+
+#textmenu li a {
+display: block;
+width: 100%;
+border: none;
+text-align: center;
+line-height: 48px;
+padding-bottom: 1px;
+padding-left: 1px;
+padding-right: 1px;
+}
+
+#textmenu li:hover {
+padding:none;
+}
+
+#textmenu li:hover a {
+  background: url('../images/darkwood.jpg');
+  border-right: 1px solid #111;
+  border-left: 1px solid #555;
+  padding-left: 0px;
+  padding-right: 0px;
+}
+
+#textmenu li ul {
+  position: absolute;
+  background: url('../images/woodplank.jpg');
+  border: 1px solid #111;
+  border-left: 1px solid #555;
+
+  -webkit-border-bottom-right-radius: 5px;
+  -webkit-border-bottom-left-radius: 5px;
+
+  -moz-border-bottom-right-radius: 5px;
+  -moz-border-bottom-left-radius: 5px;
+
+  -border-bottom-right-radius: 5px;
+  -border-bottom-left-radius: 5px;
+
+  width: 10em;
+  left: -999em;
+  xline-height: 1.3em;
+  -moz-box-shadow: 2px 2px 3px #111;
+  -webkit-box-shadow: 2px 2px 3px #111;
+  box-shadow: 2px 2px 3px #111;
+}
+
+#textmenu li ul li {
+  display: block;
+  float: none;
+  margin-top: 0px;
+  margin-bottom: 0px;
+}
+
+#textmenu li ul li a {
+  background: none;
+  border-bottom: 1px solid #111;
+  border-top: 1px solid #555;
+  border-left: none;
+  border-right: none;
+  margin-left: -1px;
+  margin-right: 1px;
+  line-height: 1.3em;
+  padding-top:0.7em;
+  padding-bottom:0.7em;
+
+}
+
+#textmenu li ul li:hover {
+  background: url('../images/darkmenubackground.png');
+  border: 0px;
+}
+
+#textmenu li:hover ul {
+  position: static;
+  left: 0em;
+  margin-left: 0px;
+}
+
+#textmenu li:hover ul a {
+  background: none;
+  border-left: none;
+  border-right: none;
+  xpadding-left: 0px;
+  xpadding-right: 0px;
+  xmargin-left:-2px;
+}
+
+#textmenu .triangle {
+ padding-left: 8px;
+ font-size: 0.7em;
+ }
+ 
+.fileicon {
+ vertical-align: middle;
+ display: inline;
+ border: none;
+}
