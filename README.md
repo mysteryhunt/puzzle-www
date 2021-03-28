@@ -11,9 +11,11 @@ Code for the MIT Mystery Hunt website. On the Puzzle Club Athena locker, /mit/pu
 
 ## Todo
 
-- see if we can get SSI set up?
+- add page for puzzle club
 - rename titles, update meta info to make consistent
 - move pictures to images/, relink
+- actually redesign the site and use MODERN TOOLING
+- figure out what the canonical url should be and write redirects
 - update resources
 - update tools
 - update articles
