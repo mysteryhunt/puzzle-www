@@ -1,0 +1,78 @@
+/* reset */
+
+body,
+h1,
+h2,
+h3,
+h4,
+p,
+ul,
+li,
+figure,
+figcaption,
+blockquote,
+dl,
+dd {
+  font-size: 1rem;
+  margin: 0;
+}
+
+html {
+  font-family: "PT Serif", serif;
+  font-size: 16px;
+  font-size: clamp(16px, 2.4vw, 21px);
+}
+
+body {
+  background: #1e0808;
+  color: #fff;
+  line-height: 1.5;
+}
+
+header {
+  background: url("images/woodplank.jpg");
+  width: 100%;
+}
+
+header h1 {
+  color: #e1ba9c;
+  font: 1.3rem "Syncopate", sans-serif;
+  text-transform: uppercase;
+  text-shadow: 0 1px 1px black;
+}
+
+header #title {
+  display: flex;
+  justify-content: center;
+}
+
+nav {
+  background: repeat-x center / auto 100% url("images/menubackground.png");
+  position: relative;
+  top: 1em;
+  width: 100%;
+}
+
+nav ul {
+  display: flex;
+  justify-content: center;
+  list-style: none;
+  padding: 0;
+  width: 100%;
+}
+
+nav ul li {
+  display: inline-block;
+  padding: 0.5em 1em;
+}
+
+#wrapper {
+  width: 100%;
+}
+
+main {
+  background: center / contain url("images/pagebackground.jpg");
+  margin: 0 auto;
+  min-height: 100vh;
+  max-width: 40rem;
+}

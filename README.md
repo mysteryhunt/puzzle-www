@@ -2,6 +2,12 @@
 
 Code for the MIT Mystery Hunt website. On the Puzzle Club Athena locker, /mit/puzzle/www.
 
+## Development
+
+- From the folder, run `python3 -m http.server`. By default it opens a server at [http://localhost:8000/](http://localhost:8000/).
+- We use a combination of [React](https://reactjs.org/) and [htm](https://github.com/developit/htm).
+- After developing, just put it on the server. It works.
+
 ## Updating new hunt
 
 - Link the hunt website to year/, add it to .gitignore (because we're currently not storing that in the repo, I guess), and update huntsbyyear.
