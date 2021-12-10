@@ -6,11 +6,20 @@
   grid-template-columns: repeat(auto-fill, minmax(min(200px, 100%), 1fr));
 }
 
-.exec img {
-  aspect-ratio: 1;
-  height: auto;
-  object-fit: cover;
+.container {
+  height: 0;
+  padding-bottom: 100%;
+  position: absolute;
   width: 100%;
+}
+
+.exec img {
+  height: 100%;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  width: 100%;
+  top: 0;
 }
 </style>
 <div id="innerpagebody">
@@ -28,32 +37,32 @@ Join our club list: <a href="https://groups.mit.edu/webmoira/list/puzzle-club">p
 <div class="grid">
 <div class="exec">
 <h4>President</h4>
-<img src="images/exec/julia.jpg">
+<div class="container"><img src="images/exec/julia.jpg"></div>
 <p>Julia Wagner</p>
 </div>
 <div class="exec">
 <h4>Treasurer</h4>
-<img src="images/header-coin.png">
+<div class="container"><img src="images/header-coin.png"></div>
 <p>Wayne Zhao</p>
 </div>
 <div class="exec">
 <h4>Secretary</h4>
-<img src="images/exec/walker.jpg">
+<div class="container"><img src="images/exec/walker.jpg"></div>
 <p>Walker Anderson</p>
 </div>
 <div class="exec">
 <h4>Webmaster</h4>
-<img src="images/header-coin.png">
+<div class="container"><img src="images/header-coin.png"></div>
 <p>CJ Quines</p>
 </div>
 <div class="exec">
 <h4>Outreach Chair</h4>
-<img src="images/header-coin.png">
+<div class="container"><img src="images/header-coin.png"></div>
 <p>Mriganka Mandal</p>
 </div>
 <div class="exec">
 <h4>Member-at-Large</h4>
-<img src="images/header-coin.png">
+<div class="container"><img src="images/header-coin.png"></div>
 <p>Yuru Niu</p>
 </div>
 </div>
