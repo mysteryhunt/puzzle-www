@@ -21,25 +21,22 @@
     />
   </head>
   <body>
-    <header>
-      <h1>MIT</h1>
-      <div id="title">
-        <h1 style="text-align: right">Mystery Hunt</h1>
-        <button>switch</button>
-        <h1>Puzzle Club</h1>
-      </div>
-      <nav>
-        <ul>
-          <li>About</li>
-          <li>Archive</li>
-          <li>Resources</li>
-          <li>Contact</li>
-        </ul>
-      </nav>
+    <header id="header">
     </header>
     <div id="wrapper">
-      <main></main>
+      <main id="main">
+        Mystery Hunt!
+      </main>
     </div>
     <footer></footer>
   </body>
+  <script>
+    let state = 1;
+    ["cards"].map((t) => document.getElementById(t)).map((e) => e.addEventListener("click", () => {
+      document.getElementById("cards").className = state ? "club" : "hunt";
+      document.getElementById("main").innerText = state ? "Puzzle Club!" : "Mystery Hunt!";
+      state = 1 - state;
+    }));
+  </script>
+  <script type="module" src="header-include.js"></script>
 </html>
