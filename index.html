@@ -30,17 +30,9 @@
     </div>
     <footer></footer>
   </body>
-  <script>
-    let state = 1;
-    ["cards"].map((t) => document.getElementById(t)).map((e) => e.addEventListener("click", () => {
-      document.getElementById("cards").className = state ? "club" : "hunt";
-      document.getElementById("main").innerText = state ? "Puzzle Club!" : "Mystery Hunt!";
-      state = 1 - state;
-    }));
-  </script>
   <script type="module" src="package.js"></script>
-  <script type="module" src="Cards.js"></script>
+  <script type="module" src="Header.js"></script>
   <script type="module" src="Nav.js"></script>
   <script type="module" src="Title.js"></script>
-  <script type="module" src="Header.js"></script>
+  <script type="module" src="Toggle.js"></script>
 </html>
