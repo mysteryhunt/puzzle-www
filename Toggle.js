@@ -1,10 +1,44 @@
 import { html, render, React, css } from "./package.js";
 
+const ToggleStatic = () => {
+  const toggleCss = css`
+    height: 2.3rem;
+    position: relative;
+    top: -0.5rem;
+    width: 4.5rem;
+
+    @media (max-width: 600px) {
+      top: 0;
+    }
+  `;
+
+  const img = css`
+    height: 2.25rem;
+    position: absolute;
+    width: 2.25rem;
+  `;
+
+  const img1 = css`
+    left: 0.4rem;
+  `;
+
+  const img2 = css`
+    right: 0.2rem;
+  `;
+
+  return html`<div class=${toggleCss}>
+    <img class="${img} ${img1}" src="images/coin.png" />
+    <img class="${img} ${img2}" src="images/tools.png" />
+  </div>`;
+};
+
 /**
  * hunt: true if Hunt side should be shown, false if Club side
  * toggle: function for toggling hunt. if falsy, show non-interactive version
  */
 const Toggle = ({ hunt, toggle }) => {
+  if (!toggle) return ToggleStatic();
+
   const toggleCss = css`
     background: #39170d;
     border-radius: 1.15rem;

@@ -3,7 +3,7 @@ import { html, render, React, css } from "./package.js";
 import { Nav } from "./Nav.js";
 import { Title } from "./Title.js";
 
-const Header = () => {
+const Header = ({ hunt, setHunt }) => {
   const header = css`
     background: radial-gradient(circle, transparent, #1e0808),
       url("images/woodplank.jpg");
@@ -27,10 +27,10 @@ const Header = () => {
   return html`
     <header class=${header}>
       <h2 class=${headerH2}>MIT</h2>
-      <${Title} />
+      <${Title} hunt=${hunt} setHunt=${setHunt} />
       <${Nav} />
     </header>
   `;
 };
 
-render(html`<${Header} />`, document.getElementById("header"));
+export { Header };
