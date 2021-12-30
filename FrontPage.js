@@ -2,6 +2,14 @@ import { html, render, React, css } from "./package.js";
 
 import { Header } from "./Header.js";
 
+const Hunt = () => {
+
+};
+
+const Club = () => {
+
+};
+
 const FrontPage = () => {
   const [hunt, setHunt] = React.useState(true);
 
