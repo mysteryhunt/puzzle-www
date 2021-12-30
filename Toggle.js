@@ -49,7 +49,7 @@ const Toggle = ({ hunt, toggle }) => {
     transition: 0.2s box-shadow;
     width: 4.5rem;
 
-    div:hover & {
+    div:hover > & {
       box-shadow: inset 0 0.1rem 0.2rem 0.4rem #1f0c0a47, 0 0 0.5rem #b5815c;
     }
 
@@ -76,12 +76,24 @@ const Toggle = ({ hunt, toggle }) => {
       top: 0.65rem;
       transition: background 0.3s, box-shadow 0.3s, left 0.3s;
       width: 1rem;
+      z-index: 1;
     }
 
     &[aria-pressed="true"]::after {
       background: #798a91;
       box-shadow: 0 0 0.4rem 0.5rem #798a91;
       left: 2.8rem;
+    }
+
+    &:focus {
+      background: #fff;
+      font-size: 1rem;
+      z-index: 2;
+    }
+
+    &:focus::after {
+      background: none;
+      box-shadow: none;
     }
   `;
 
@@ -118,7 +130,7 @@ const Toggle = ({ hunt, toggle }) => {
       aria-pressed=${!hunt}
       onClick=${toggle}
     >
-      Toggle content between Mystery Hunt and Puzzle Club
+      ${!hunt ? "Show Mystery Hunt content" : "Show Puzzle Club content"}
     </button>
     <img class="${img} ${img1}" src="images/coin.png" />
     <img class="${img} ${img2}" src="images/tools.png" />
