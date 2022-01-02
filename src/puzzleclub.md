@@ -45,7 +45,7 @@ Join our club list: [puzzle-club@mit.edu](https://groups.mit.edu/webmoira/list/p
 </div>
 <div class="exec">
 <h4>Treasurer</h4>
-<div class="container"><img src="images/header-coin.png"></div>
+<div class="container"><img src="images/frontcoin.png"></div>
 <p>Wayne Zhao</p>
 </div>
 <div class="exec">
@@ -55,17 +55,17 @@ Join our club list: [puzzle-club@mit.edu](https://groups.mit.edu/webmoira/list/p
 </div>
 <div class="exec">
 <h4>Webmaster</h4>
-<div class="container"><img src="images/header-coin.png"></div>
+<div class="container"><img src="images/exec/cj.jpg"></div>
 <p>CJ Quines</p>
 </div>
 <div class="exec">
 <h4>Outreach Chair</h4>
-<div class="container"><img src="images/header-coin.png"></div>
+<div class="container"><img src="images/frontcoin.png"></div>
 <p>Mriganka Mandal</p>
 </div>
 <div class="exec">
 <h4>Member-at-Large</h4>
-<div class="container"><img src="images/header-coin.png"></div>
+<div class="container"><img src="images/frontcoin.png"></div>
 <p>Yuru Niu</p>
 </div>
 </div>
