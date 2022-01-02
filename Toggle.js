@@ -1,4 +1,4 @@
-import { html, render, React, css } from "./package.js";
+import { React, html, css } from "./package.js";
 
 const ToggleStatic = () => {
   const toggleCss = css`
@@ -27,8 +27,8 @@ const ToggleStatic = () => {
   `;
 
   return html`<div class=${toggleCss}>
-    <img class="${img} ${img1}" src="images/coin.png" />
-    <img class="${img} ${img2}" src="images/tools.png" />
+    <img class="${img} ${img1}" src="/images/coin.png" />
+    <img class="${img} ${img2}" src="/images/tools.png" />
   </div>`;
 };
 

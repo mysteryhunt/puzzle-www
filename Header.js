@@ -1,4 +1,4 @@
-import { html, render, React, css } from "./package.js";
+import { React, html, css } from "./package.js";
 
 import { Nav } from "./Nav.js";
 import { Title } from "./Title.js";
@@ -6,7 +6,7 @@ import { Title } from "./Title.js";
 const Header = ({ hunt, setHunt }) => {
   const header = css`
     background: radial-gradient(circle, transparent, #1e0808),
-      url("images/woodplank.jpg");
+      url("/images/woodplank.jpg");
     width: 100%;
   `;
 
@@ -26,11 +26,23 @@ const Header = ({ hunt, setHunt }) => {
     }
   `;
 
+  if (hunt && setHunt) {
+    return html`
+      <header class=${header}>
+        <h2 class=${headerH2}>MIT</h2>
+        <${Title} hunt=${hunt} setHunt=${setHunt} />
+        <${Nav} />
+      </header>
+    `;
+  }
+
   return html`
     <header class=${header}>
-      <h2 class=${headerH2}>MIT</h2>
-      <${Title} hunt=${hunt} setHunt=${setHunt} />
-      <${Nav} />
+      <a href="/index.html">
+        <h2 class=${headerH2}>MIT</h2>
+        <${Title} hunt=${hunt} setHunt=${setHunt} />
+        <${Nav} />
+      </a>
     </header>
   `;
 };

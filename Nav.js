@@ -1,4 +1,4 @@
-import { html, render, React, css } from "./package.js";
+import { React, html, css } from "./package.js";
 
 /**
  * parent: name of submenu e.g. "About"
@@ -9,7 +9,7 @@ const Submenu = ({ parent, children }) => {
 
   const submenu = css`
     background: linear-gradient(to bottom, #1f0b0866, #1f0b0866),
-      repeat center / auto auto url("images/headerbackground.jpg");
+      repeat center / auto auto url("/images/headerbackground.jpg");
     box-shadow: 0 0.3em 0.3em 0.3em #1115;
     display: none;
     left: 0;
@@ -46,7 +46,7 @@ const Submenu = ({ parent, children }) => {
 
 const Nav = () => {
   const nav = css`
-    background: repeat center / auto auto url("images/headerbackground.jpg");
+    background: repeat center / auto auto url("/images/headerbackground.jpg");
     box-shadow: 0 0 0.3em 0.3em #1115;
     position: relative;
     top: 1em;
@@ -89,22 +89,22 @@ const Nav = () => {
     <nav class=${nav}>
       <ul class=${menu}>
         <${Submenu} parent="About">
-          <li><a href="#">Next Hunt</a></li>
-          <li><a href="#">Puzzle Club</a></li>
-          <li><a href="#">Hunt History</a></li>
+          <li><a href="/nexthunt.html">Next Hunt</a></li>
+          <li><a href="/puzzleclub.html">Puzzle Club</a></li>
+          <li><a href="/history.html">Hunt History</a></li>
         </${Submenu}>
         <${Submenu} parent="Archives">
-          <li><a href="#">Hunts by Year</a></li>
-          <li><a href="#">Coin Gallery</a></li>
-          <li><a href="#">Hunt Photos</a></li>
-          <li><a href="#">Aquarium Hunt</a></li>
+          <li><a href="/huntsbyyear.html">Hunts by Year</a></li>
+          <li><a href="/coingallery.html">Coin Gallery</a></li>
+          <li><a href="/photos.html">Hunt Photos</a></li>
+          <!-- <li><a href="#">Aquarium Hunt</a></li> -->
         </${Submenu}>
         <${Submenu} parent="Resources">
-          <li><a href="#">For Beginners</a></li>
-          <li><a href="#">Tools</a></li>
-          <li><a href="#">Articles About Hunt</a></li>
+          <li><a href="/resources.html">For Beginners</a></li>
+          <li><a href="/tools.html">Tools</a></li>
+          <li><a href="/articles.html">Articles About Hunt</a></li>
         </${Submenu}>
-        <li><a href="#">Contact</a></li>
+        <li><a href="/contact.html">Contact</a></li>
       </ul>
     </nav>
   `;

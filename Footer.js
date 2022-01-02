@@ -1,4 +1,4 @@
-import { html, render, React, css } from "./package.js";
+import { React, html, css } from "./package.js";
 
 const Footer = () => {
   const footer = css`

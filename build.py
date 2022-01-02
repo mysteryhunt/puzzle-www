@@ -31,7 +31,7 @@ def format_content(title, content):
             elif stripped == "<!--CONTENT-->":
                 output.append(main)
             elif stripped == "<!--SCRIPTS-->":
-                output.append('  <script type="module" src="main.js"></script>\n')
+                output.append('  <script type="module" src="/main.js"></script>\n')
             else:
                 output.append(line)
     return "".join(output)
@@ -44,17 +44,13 @@ def build_file(source, dest):
     title = ""
     contents = []
     with open(source, "r", encoding="utf-8") as file:
-        front_matter = 0
         for line in file:
             stripped = line.strip()
-            if front_matter == 2:
-                contents.append(line)
-            elif front_matter < 2 and stripped.startswith("title:"):
-                title = stripped.split(":")[1].strip()
-            elif stripped == "---":
-                front_matter += 1
-            else:
-                print(f"line ignored: {line}")
+            if stripped.startswith("# "):
+                if title:
+                    print(f"file has two titles: {source}")
+                title = stripped.split("#")[1].strip()
+            contents.append(line)
     if not title:
         print(f"file has no title: {source}")
         return
@@ -89,7 +85,7 @@ def build_index(watch):
                 output.append(content["hunt"])
                 output.append(content["club"])
             elif stripped == "<!--SCRIPTS-->":
-                output.append('  <script type="module" src="FrontPage.js"></script>\n')
+                output.append('  <script type="module" src="/FrontPage.js"></script>\n')
             else:
                 output.append(line)
     with open("index.html", "w", encoding="utf-8") as file:
@@ -100,18 +96,23 @@ def build_files(watch):
     """
     Builds all files, building only updated files if watch = True.
     """
-    for source in glob.iglob("src/*.md}"):
-        base = os.path.basename(source).split(".")[0]
+    for source in glob.iglob("src/**/*.md", recursive=True):
+        dirname, basename = os.path.split(source)
+        base, _ = os.path.splitext(basename)
         # special handling, deal with later:
         if base in ("index_hunt", "index_club"):
             continue
-        dest = f"{base}.html"
+        srcdir = os.path.join(os.curdir, "src")
+        destdir = os.path.relpath(dirname, start=srcdir)
+        dest = os.path.join(destdir, f"{base}.html")
         if (
             watch
             and os.path.exists(dest)
             and os.path.getmtime(source) < os.path.getmtime(dest)
         ):
             continue
+        if not os.path.exists(os.path.dirname(dest)):
+            os.makedirs(os.path.dirname(dest), exist_ok=True)
         build_file(source, dest)
     build_index(watch)
 

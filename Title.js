@@ -1,4 +1,4 @@
-import { html, render, React, css } from "./package.js";
+import { React, html, css } from "./package.js";
 
 import { Toggle } from "./Toggle.js";
 
@@ -53,6 +53,7 @@ const Title = ({ hunt, setHunt }) => {
 
   const header2 = css`
     color: ${!setHunt || !hunt ? "#e1ba9c" : "#ab8061"};
+    text-align: left;
     top: 0;
     right: 0;
   `;

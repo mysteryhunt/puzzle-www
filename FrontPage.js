@@ -1,4 +1,4 @@
-import { html, render, React, css } from "./package.js";
+import { React, html, css, render } from "./package.js";
 
 import { Header } from "./Header.js";
 import { Footer } from "./Footer.js";
