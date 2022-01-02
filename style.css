@@ -83,6 +83,12 @@ main {
   padding: 1.5rem 1rem;
 }
 
+/* prevent layout shift: */
+
+#header {
+  min-height: 8rem;
+}
+
 /* component styles */
 
 a.button,

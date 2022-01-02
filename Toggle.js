@@ -132,8 +132,8 @@ const Toggle = ({ hunt, toggle }) => {
     >
       ${!hunt ? "Show Mystery Hunt content" : "Show Puzzle Club content"}
     </button>
-    <img class="${img} ${img1}" src="images/coin.png" />
-    <img class="${img} ${img2}" src="images/tools.png" />
+    <img class="${img} ${img1}" src="images/coin.png" alt="" />
+    <img class="${img} ${img2}" src="images/tools.png" alt="" />
   </div>`;
 };
 

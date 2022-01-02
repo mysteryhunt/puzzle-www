@@ -81,6 +81,12 @@ def build_index(watch):
             stripped = line.strip()
             if stripped == "<!--TITLE-->":
                 output.append("    <title>MIT Mystery Hunt / Puzzle Club</title>\n")
+            elif stripped == "</head>":
+                # inject styles
+                output.append("  <style>\n")
+                output.append("  #header { min-height: 28rem; }\n")
+                output.append("  </style>\n")
+                output.append(line)
             elif stripped == "<!--CONTENT-->":
                 output.append(content["hunt"])
                 output.append(content["club"])

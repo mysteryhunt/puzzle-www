@@ -95,7 +95,7 @@ const Hunt = () => {
   `;
 
   return html`
-    <img class=${img} src="images/frontcoin.png" />
+    <img class=${img} src="images/frontcoin.png" alt="A penny." />
     <${Countdown} />
     <!-- prettier-ignore -->
     <div class=${action}>
