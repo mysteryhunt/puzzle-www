@@ -14,6 +14,7 @@ If you are just starting as a solver in the MIT Mystery Hunt, some of the resour
     * [Part 4: Meta Puzzles](https://youtu.be/lv0F0kTMBL0)
     * [Part 5: Tech Tools](https://youtu.be/RwMRxM3FngU)
     * [Part 6: Tech Tools cont’d](https://youtu.be/UuSjhAieAbM)
+* [How to Hunt Workshop](https://www.youtube.com/watch?v=z9OHLnIEegI) from One Fish, Two Fish, Random Fish, Blue Fish in 2016
 
 ## Other Readings
 
@@ -23,6 +24,7 @@ If you are just starting as a solver in the MIT Mystery Hunt, some of the resour
 * [The Atlantic's Guide to Solving Cryptic Clues](http://www.theatlantic.com/past/docs/issues/puzzclue.htm), _The Atlantic Monthly_
 * [Sarcone and Waeber's Rules to Puzzle Solving](http://www.archimedes-lab.org/sarcone_rules.html), _Archimedes-lab.org_
 * [betaveros's "Have You Tried"](https://beta.vero.site/try)
+* [teammate Hunt's "Have You Tried"](https://2021.teammatehunt.com/have-you-tried)
 
 ## Selected Puzzles
 

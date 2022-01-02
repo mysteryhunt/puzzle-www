@@ -17,6 +17,11 @@ const Title = ({ hunt, setHunt }) => {
     @media (max-width: 600px) {
       height: 3.3rem;
     }
+
+    @media (max-width: 400px) {
+      height: 5.5rem;
+      top: 1.5rem;
+    }
   `;
 
   const headerH1 = css`
@@ -42,6 +47,14 @@ const Title = ({ hunt, setHunt }) => {
         display: initial;
       }
     }
+
+    @media (max-width: 400px) {
+      width: calc(100vw - 2rem);
+
+      br {
+        display: none;
+      }
+    }
   `;
 
   const header1 = css`
@@ -49,6 +62,12 @@ const Title = ({ hunt, setHunt }) => {
     left: 0;
     text-align: right;
     top: 0;
+
+    @media (max-width: 400px) {
+      left: initial;
+      text-align: center;
+      top: -1.2em;
+    }
   `;
 
   const header2 = css`
@@ -56,6 +75,12 @@ const Title = ({ hunt, setHunt }) => {
     text-align: left;
     top: 0;
     right: 0;
+
+    @media (max-width: 400px) {
+      top: 2em;
+      text-align: center;
+      right: initial;
+    }
   `;
 
   const toggle = (e) => {
