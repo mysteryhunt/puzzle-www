@@ -4,9 +4,8 @@ Code for the MIT Mystery Hunt / Puzzle Club website. On the Puzzle Club Athena l
 
 ## Development
 
-From the folder, run `python3 -m http.server`. By default it opens a server at [http://localhost:8000/](http://localhost:8000/). Open that page in your browser to view the site.
-
-To update the website, just put the whole thing on the server. It works. Note that there's a git repo on the locker, so from the locker, you can just `git pull` the latest version. (If you're daring, you can even `git push` to the locker directly, but make sure to keep the Github version in sync with the website version.)
+- From the folder, run `python3 -m http.server`. By default it opens a server at [http://localhost:8000/](http://localhost:8000/). Open that page in your browser to view the site.
+- To update the website, just put the whole thing on the server. It works. Note that there's a git repo on the locker, so from the locker, you can just `git pull` the latest version. (If you're daring, you can even `git push` to the locker directly, but make sure to keep the Github version in sync with the website version.)
 
 We use [htm](https://github.com/developit/htm), [Preact with preact/compat](https://preactjs.com/), and [goober](https://goober.js.org/). You can pretend that htm+Preact is the same as [JSX+React](https://reactjs.org/docs/introducing-jsx.html), with [some minor differences](https://github.com/developit/htm#syntax-like-jsx-but-also-lit). Oh, and the goober part is basically just a way to put CSS in JS, except there are nice add-ons like nesting.
 

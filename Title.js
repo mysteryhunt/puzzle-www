@@ -20,8 +20,11 @@ const Title = ({ hunt, setHunt }) => {
   `;
 
   const headerH1 = css`
+    border: none;
     display: block;
     font: 1.3rem "Syncopate", sans-serif;
+    margin: 0;
+    padding: 0;
     position: absolute;
     text-transform: uppercase;
     text-shadow: 0 1px 1px black;

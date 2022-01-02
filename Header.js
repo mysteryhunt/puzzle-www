@@ -11,10 +11,12 @@ const Header = ({ hunt, setHunt }) => {
   `;
 
   const headerH2 = css`
+    border: none;
     color: #e1ba9c;
     font-family: inherit;
     font-size: 0.8rem;
     letter-spacing: 0.2em;
+    margin: 0;
     padding: 1rem 0;
     text-align: center;
     text-transform: uppercase;

@@ -17,6 +17,8 @@ dd {
   margin: 0;
 }
 
+/* typography */
+
 html {
   font-family: "PT Serif", serif;
   font-size: 16px;
@@ -29,15 +31,73 @@ body {
   line-height: 1.5;
 }
 
-#wrapper {
-  width: 100%;
+p {
+  margin: 1em 0;
 }
+
+p a {
+  border-bottom: 2px solid #ab8061;
+  color: inherit;
+  text-decoration: none;
+}
+
+p a:hover {
+  border-bottom: 2px solid #e1ba9c;
+}
+
+h1, h2, h3, h4 {
+  border-top: 2px solid #ab8061;
+  font-weight: bold;
+  margin-top: 1.5em;
+  padding-top: 0.5em;
+}
+
+h1, h4 {
+  border-top: none;
+  margin-top: 1em;
+  padding-top: 0;
+}
+
+h1 {
+  font-size: 1.5em;
+}
+
+h2 {
+  font-size: 1.2em;
+}
+
+/* main styles */
 
 main {
   background: center / contain url("images/pagebackground.jpg");
   box-shadow: 0 0 0.2em 0.2em #1112;
-  margin: 0 auto;
-  min-height: 100vh;
+  margin: 1rem auto;
+  min-height: calc(100vh - 8rem);
   max-width: 40rem;
   padding: 1.5rem 1rem;
+}
+
+/* component styles */
+
+a.button,
+button {
+  background: #4a4130;
+  border: none;
+  box-shadow: 0 0 0.2em 0.2em #1112;
+  color: inherit;
+  display: inline-block;
+  font: inherit;
+  min-width: 6rem;
+  padding: 0.25rem 0.5rem;
+  text-align: center;
+  text-decoration: none;
+}
+
+a.button:hover,
+button:hover {
+  background: #5d553e;
+}
+
+img {
+  max-width: 100%;
 }
