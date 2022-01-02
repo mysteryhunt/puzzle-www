@@ -26,7 +26,7 @@ const Header = ({ hunt, setHunt }) => {
     }
   `;
 
-  if (hunt && setHunt) {
+  if (setHunt) {
     return html`
       <header class=${header}>
         <h2 class=${headerH2}>MIT</h2>
