@@ -65,6 +65,7 @@ const Nav = () => {
     }
 
     a {
+      border-bottom: none;
       color: inherit;
       display: inline-block;
       padding: 0.5em 1em;
@@ -73,6 +74,7 @@ const Nav = () => {
 
     a:hover {
       background: #1f0b0888;
+      border-bottom: none;
       box-shadow: inset 0 0.1rem 0.2rem 0.4rem #1f0c0a88;
       text-decoration: underline;
     }

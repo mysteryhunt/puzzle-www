@@ -35,24 +35,28 @@ p {
   margin: 1em 0;
 }
 
-p a {
+a {
   border-bottom: 2px solid #ab8061;
   color: inherit;
   text-decoration: none;
 }
 
-p a:hover {
+a:hover {
   border-bottom: 2px solid #e1ba9c;
 }
 
-h1, h2, h3, h4 {
+h1,
+h2,
+h3,
+h4 {
   border-top: 2px solid #ab8061;
   font-weight: bold;
   margin-top: 1.5em;
   padding-top: 0.5em;
 }
 
-h1, h4 {
+h1,
+h4 {
   border-top: none;
   margin-top: 1em;
   padding-top: 0;
