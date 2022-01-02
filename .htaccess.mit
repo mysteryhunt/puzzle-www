@@ -17,3 +17,6 @@ RedirectMatch permanent ^(/~?puzzle(/www)?)/currhunt-11/ToadsList\.html$ $1/2011
 RedirectMatch permanent ^(/~?puzzle(/www)?)/gamesarticle\.html$ $1/articles/gamesarticle.html
 
 RedirectMatch permanent ^(/~?puzzle(/www)?)/26/lancebishopsqueasyreaction\.png$ $1/2010/puzzles/1926/queasy_reaction/lancebishopsqueasyreaction.png
+
+Redirect 302 /~puzzle http://puzzles.mit.edu
+Redirect 302 /puzzle/www http://puzzles.mit.edu
