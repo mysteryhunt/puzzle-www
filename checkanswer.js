@@ -76,6 +76,11 @@ const ResponseRow = ({ prompt, rows, setFeedback }) => {
     display: flex;
     justify-content: right;
     margin-bottom: 0.5em;
+
+    @media (max-width: 600px) {
+      align-items: flex-start;
+      flex-direction: column;
+    }
   `;
 
   const input = css`
@@ -88,6 +93,10 @@ const ResponseRow = ({ prompt, rows, setFeedback }) => {
     line-height: 1.2;
     margin: 0 0.5em;
     padding: 0.25em 0.5em;
+
+    @media (max-width: 600px) {
+      margin: 0 0 0.25em;
+    }
   `;
 
   const onSubmit = (e) => {
@@ -98,7 +107,7 @@ const ResponseRow = ({ prompt, rows, setFeedback }) => {
       if (correct) {
         setFeedback(
           row.intermediate
-            ? "Correct! View the solution page for the answer."
+            ? "Correct! See the solution page for the answer."
             : `Solved! The answer was ${row.answer}.`
         );
         set = true;
@@ -192,6 +201,10 @@ const CheckButton = ({ prompts }) => {
   const responses = css`
     margin: 0 auto;
     width: fit-content;
+
+    @media (max-width: 600px) {
+      width: auto;
+    }
   `;
 
   const onClick = () => setOpen(!open);
