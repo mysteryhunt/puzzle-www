@@ -43,15 +43,11 @@ const Submenu = ({ parent, children }) => {
     }
   `;
 
-  const mouseover = () => setOpen(true);
-
-  const mouseout = () => setTimeout(() => setOpen(false), 1000);
-
   // keyboard accessibility:
   const click = () => setOpen((open) => !open);
 
   return html`
-    <li class=${open && "open"} onmouseover=${mouseover} onmouseout=${mouseout}>
+    <li class=${open && "open"}>
       <a
         class=${parentCss}
         href="#"
