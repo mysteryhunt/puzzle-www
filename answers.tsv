@@ -1,8 +1,134 @@
 url	answer	prompt	intermediate
-2001/index.html	THE BLOB		
-2001/index.html	BE GOO TO US		
-2001/index.html	SIGMUND FREUD		
-2001/index.html	LIE ON MY COUCH		
+1999/puzzles/1Gumshoe/Barcelona/barcelona.html	DIN		
+1999/puzzles/1Gumshoe/Freetown/freetown.html	BOSTON UNIVERSITY		
+1999/puzzles/1Gumshoe/HoChiMinh/ho_chi_minh_city.html	NET		
+1999/puzzles/1Gumshoe/Istanbul/istanbul.html	TANGLE		
+1999/puzzles/1Gumshoe/Jakarta/jakarta.html	GRADUATE RECORD EXAMINATION		
+1999/puzzles/1Gumshoe/NewOrleans/new_orleans.html	LAST		
+1999/puzzles/1Gumshoe/NewYorkCity/new_york_city.html	HENCE		
+1999/puzzles/1Gumshoe/PhnomPenh/phnom_penh.html	RESIDUAL		
+1999/puzzles/1Gumshoe/Prague/prague.html	ARTIFICIAL INTELLIGENCE		
+1999/puzzles/1Gumshoe/Tbilisi/tbilisi.html	THE		
+1999/puzzles/1Gumshoe/Toronto/toronto.html	INDEPENDENT LIVING GROUP		
+1999/puzzles/1Gumshoe/Warrants1/w1.1/w1.1.html	MUSE		
+1999/puzzles/1Gumshoe/Warrants1/w1.2/w1.2.html	ANIME		
+1999/puzzles/1Gumshoe/Warrants1/w1.3/w1.3.html	STEREO		
+1999/puzzles/2Investigator/CharlotteAmalie/charlotteamalie.html	BILLIARDS		
+1999/puzzles/2Investigator/Chihuahua/chihuahua.html	TIE		
+1999/puzzles/2Investigator/Christchurch/christchurch.html	ORR		
+1999/puzzles/2Investigator/Luxembourg/luxembourg.html	DORIC		
+1999/puzzles/2Investigator/Manila/manila.html	ROSEMARY		
+1999/puzzles/2Investigator/Montevideo/montevideo.html	FREQUENCY		
+1999/puzzles/2Investigator/Sao_Paulo/sao_paulo.html	ACRONYM		
+1999/puzzles/2Investigator/Seoul/seoul.html	ROTC		
+1999/puzzles/2Investigator/Warrants2/w2.1/w2.1.html	DONUTS		
+1999/puzzles/2Investigator/Warrants2/w2.2/w2.2.html	SEVENTY		
+1999/puzzles/3Inspector/Athens/athens.html	ARGO		
+1999/puzzles/3Inspector/Beijing/beijing.html	LEAR		
+1999/puzzles/3Inspector/Bogota/bogota.html	NATIONAL PUBLIC RADIO		
+1999/puzzles/3Inspector/Capetown/capetown.html	JAM		
+1999/puzzles/3Inspector/Colombo/colombo.html	TORY		
+1999/puzzles/3Inspector/Madras/madras.html	CALIFORNIA		
+1999/puzzles/3Inspector/Monterey/monterey.html	ADVANCED PLACEMENT		
+1999/puzzles/3Inspector/Stuttgart/stuttgart.html	DAME		
+1999/puzzles/3Inspector/Taipei/taipei.html	RUNE		
+1999/puzzles/3Inspector/VaticanCity/vatican_city.html	LABOR		
+1999/puzzles/3Inspector/Warrants3/w3.1/w3.1.html	GENERIC		
+1999/puzzles/3Inspector/Warrants3/w3.2/w3.2.html	VALERIE		
+1999/puzzles/4Detective/Beirut/beirut.html	I		
+1999/puzzles/4Detective/Cambridge/cambridge.html	PENULTIMATE MYSTERY HUNT COIN OF THIS MILLENIUM		
+1999/puzzles/4Detective/Copenhagen/copenhagen.html	LOOT		
+1999/puzzles/4Detective/Dublin/dublin.html	NEWTON		
+1999/puzzles/4Detective/Helsinki/helsinki.html	BOTH		
+1999/puzzles/4Detective/Kathmandu/kathmandu.html	CACKLE		
+1999/puzzles/4Detective/Nagoya/nagoya.html	EUROPEAN UNION		
+1999/puzzles/4Detective/Nairobi/nairobi.html	LOW		
+1999/puzzles/4Detective/Paris/paris.html	FAST		
+1999/puzzles/4Detective/Perth/perth.html	HEX		
+1999/puzzles/4Detective/SanFrancisco/san_francisco.html	MODUS OPERANDI		
+1999/puzzles/4Detective/Santiago/santiago.html	RETURNING		
+1999/puzzles/4Detective/Seattle/seattle.html	FUNK		
+1999/puzzles/4Detective/Warrants4/w4.1/w4.1.html	JABIR		
+1999/puzzles/4Detective/Warrants4/w4.2/w4.2.html	RHYTHM		
+1999/puzzles/4Detective/Warrants4/w4.3/w4.3.html	BOK CHOY		
+1999/puzzles/4Detective/Warrants4/w4.4/w4.4.html	INTERACT		
+1999/puzzles/index.html	RAINBOW	Warrant 3.3	
+1999/puzzles/index.html	BUILDING 10	Stuart Dent-Boddy	
+1999/puzzles/index.html	TANG RESIDENCE HALL	Guy Gerr	
+1999/puzzles/index.html	ROCKWELL CAGE	Chuck L. "Evil" Lee	
+1999/puzzles/index.html	HAYDEN MEMORIAL LIBRARY	Tracy Mount	
+1999/puzzles/index.html	THE GREAT SAIL	Lou Neiben	
+1999/puzzles/index.html	TOMB OF THE UNKNOWN TOOL	Pia Nissimo	
+1999/puzzles/index.html	NUCLEAR REACTOR	Roy L. Pain	
+1999/puzzles/index.html	FIFTH EAST	Ling Wi Stik	
+1999/puzzles/index.html	JAPAN PROGRAM	Ty Tanik	
+1999/puzzles/index.html	INFINITE CORRIDOR	Theone and Theotherone Thattoukit	
+1999/puzzles/index.html	FURNITURE EXCHANGE	Polly Titian	
+2000/hints/hint1.txt	CHAINS		
+2000/hints/hint2.gif	TRIGRAMS		
+2000/hints/hint3.txt	LADIES		
+2000/hints/hint4.txt	GROUPS		
+2000/hints/hint5.txt	VON TRAPP		
+2000/set1/	TIN MAN	Username	
+2000/set1/	EMERALD	Password	
+2000/set1/1/Puzzle.html	IGNORANT		
+2000/set1/10/Puzzle.html	EMERGENT		
+2000/set1/11/Puzzle.html	HERALD		
+2000/set1/2/Puzzle.html	ANTHER		
+2000/set1/3/Puzzle.html	GENTLE		
+2000/set1/4/Puzzle.html	GELATIN		
+2000/set1/5/Puzzle.html	AGES		
+2000/set1/6/Puzzle.html	LEAN		
+2000/set1/7/Puzzle.html	SIGNOR		
+2000/set1/8/Puzzle.html	MANAGE		
+2000/set1/9/Puzzle.html	ANGELA		
+2000/set2/	SCARECROW	Username	
+2000/set2/	MONKEY	Password	
+2000/set2/1/Puzzle.html	EXEMPLI GRATIA		
+2000/set2/10/Puzzle.html	627-3773		TRUE
+2000/set2/2/Puzzle.html	COLUMN		
+2000/set2/3/Puzzle.html	ASSOCIATION		
+2000/set2/4/Puzzle.html	BETAMAX		
+2000/set2/5/Puzzle.html	DEPRESSING		
+2000/set2/6/Puzzle.html	E MAJOR		
+2000/set2/7/Puzzle.html	BUTTON		
+2000/set2/8/Puzzle.html	DAY		
+2000/set2/9/Puzzle.html	COMPLEMENT		
+2000/set3/	GLINDA	Username	
+2000/set3/	HOURGLASS	Password	
+2000/set3/1/Puzzle.html	HBO		
+2000/set3/2/Puzzle.html	OCHER		
+2000/set3/3/Puzzle.html	USABLE		
+2000/set3/4/Puzzle.html	RALLY		
+2000/set3/5/Puzzle.html			
+2000/set3/6/Puzzle.html	LEMMA		
+2000/set3/7/Puzzle.html	AROSE		
+2000/set3/8/Puzzle.html	SPAM		
+2000/set3/9/Puzzle.html	SLEIGH		
+2000/set4/	TOTO	Username	
+2000/set4/	RAINBOW	Password	
+2000/set4/1/Puzzle.html	ISOLATION		
+2000/set4/2/Puzzle.html	RISING		
+2000/set4/3/Puzzle.html	HYDRA		
+2000/set4/4/Puzzle.html	DOWN TO EARTH		
+2000/set4/5/Puzzle.html	ON STAGE		
+2000/set4/6/Puzzle.html	TURN BACK		
+2000/set4/7/Puzzle.html	FAHRENHEIT		
+2000/set4/8/Puzzle.html	BENT OUT OF SHAPE		
+2000/set5/	DOROTHY	Username	
+2000/set5/	SOMEWHERE	Password	
+2000/set5/1/Puzzle.html	TITHE		
+2000/set5/2/Puzzle.html	DORADO		
+2000/set5/3/Puzzle.html	FARADAYS		
+2000/set5/4/Puzzle.html	RETRO		
+2000/set5/5/Puzzle.html	SONIC BOOM		
+2000/set5/6/Puzzle.html	DOUBLE DARE		
+2000/set5/7/Puzzle.html	MIRTH		
+2000/set5/8/Puzzle.html	SONIC BOOM		
+2001/index.html	THE BLOB	Phase 1 Entity	
+2001/index.html	BE GOO TO US	Phase 1 Phrase	
+2001/index.html	SIGMUND FREUD	Phase 3 Entity	
+2001/index.html	LIE ON MY COUCH	Phase 3 Phrase	
 2001/phase1/1/index.html	STREAK		
 2001/phase1/10/index.html	BLENCH		
 2001/phase1/11/index.html	COEDIT		
@@ -20,8 +146,8 @@ url	answer	prompt	intermediate
 2001/phase2/10/index.html	BARLEY		
 2001/phase2/11/index.html	TSURIS		
 2001/phase2/12/index.html	WARNING		
-2001/phase2/13/index.html	MARY SHELLEY		
-2001/phase2/13/index.html	THE MODERN PROMETHEUS		
+2001/phase2/13/index.html	MARY SHELLEY	Phase 2 Entity	
+2001/phase2/13/index.html	THE MODERN PROMETHEUS	Phase 2 Phrase	
 2001/phase2/2/index.html	COVER		
 2001/phase2/3/index.html	POPEYE		
 2001/phase2/4/index.html	GHENT		
@@ -42,7 +168,7 @@ url	answer	prompt	intermediate
 2001/phase3/6/index.html	MARILYN MONROE		
 2001/phase3/7/index.html	INSTRUMENTALS		
 2001/phase3/8/index.html	ASTROPHYSICAL		
-2001/phase3/9/index.html	BRING 2 HUNT HEADQUARTERS		
+2001/phase3/9/index.html	BRING 2 HUNT HEADQUARTERS		TRUE
 2001/phase4/01/index.html	SBARRO		
 2001/phase4/02/index.html	DOGMAS		
 2001/phase4/03/index.html	SPIFFY		
@@ -55,43 +181,43 @@ url	answer	prompt	intermediate
 2001/phase4/10/index.html	EASTER		
 2001/phase4/11/index.html	ENGRAM		
 2001/phase4/12/index.html	BAFFLE		
-2001/phase4/13/index.html	JEANNE DIXON		
-2001/phase4/13/index.html	QUE SERA SERA WHATEVER WILL BE WILL BE		
-2002/cyan/A/Puzzle.html	OHMS	Answer	
-2002/cyan/B/Puzzle.html	SHEER	Answer	
-2002/cyan/C/Puzzle.html	ACCOST	Answer	
-2002/cyan/D/Puzzle.html	KIWIS	Answer	
-2002/cyan/X/Puzzle.html	LUXOR	Answer	
-2002/darkblue/A/Puzzle.html	ONE SUN	Answer	
-2002/darkblue/B/Puzzle.html	ALIOTH	Answer	
-2002/darkblue/C/Puzzle.html	ERODE	Answer	
-2002/darkblue/D/Puzzle.html	THRONE	Answer	
-2002/darkblue/X/Puzzle.html	DONORS	Answer	
-2002/green/A/Puzzle.html	REFLEXIVE	Answer	
-2002/green/B/Puzzle.html	ALEXIS	Answer	
-2002/green/C/Puzzle.html	SUBCLAVII	Answer	
-2002/green/D/Puzzle.html	SEXIVALENT	Answer	
-2002/green/X/Puzzle.html	BANKING	Answer	
-2002/magenta/A/Puzzle.html	HIGH SIERRA	Answer	
-2002/magenta/B/Puzzle.html	STRAIN DIAGRAM	Answer	
-2002/magenta/C/Puzzle.html	CZECHOSLOVAKIA	Answer	
-2002/magenta/D/Puzzle.html	DAMN YANKEES	Answer	
-2002/magenta/X/Puzzle.html	MISERLY	Answer	
-2002/orange/A/Puzzle.html	READ A RICH DRAMA FOR US BASED ON ANY OF THE SONG LYRICS	Answer	TRUE
-2002/orange/B/Puzzle.html	JABBERWOCK	Answer	
-2002/orange/C/Puzzle.html	NEEDLESS	Answer	
-2002/orange/D/Puzzle.html	POMPEII	Answer	
-2002/orange/X/Puzzle.html	BILL GATES	Answer	
-2002/purple/A/Puzzle.html	DOLLAR BILL	Answer	
-2002/purple/B/Puzzle.html	CORNSTARCH	Answer	
-2002/purple/C/Puzzle.html	CHEMICAL COMPOUND	Answer	
-2002/purple/D/Puzzle.html	STARRY-EYED	Answer	
-2002/purple/X/Puzzle.html	REALTY	Answer	
-2002/red/A/Puzzle.html	PAYDAY	Answer	
-2002/red/B/Puzzle.html	APPLE DUMPLING	Answer	
-2002/red/C/Puzzle.html	ODYSSEYS	Answer	
-2002/red/D/Puzzle.html	TATAMI	Answer	
-2002/red/X/Puzzle.html	MANSION	Answer	
+2001/phase4/13/index.html	JEANNE DIXON	Phase 4 Entity	
+2001/phase4/13/index.html	QUE SERA SERA WHATEVER WILL BE WILL BE	Phase 4 Phrase	
+2002/cyan/A/Puzzle.html	OHMS		
+2002/cyan/B/Puzzle.html	SHEER		
+2002/cyan/C/Puzzle.html	ACCOST		
+2002/cyan/D/Puzzle.html	KIWIS		
+2002/cyan/X/Puzzle.html	LUXOR		
+2002/darkblue/A/Puzzle.html	ONE SUN		
+2002/darkblue/B/Puzzle.html	ALIOTH		
+2002/darkblue/C/Puzzle.html	ERODE		
+2002/darkblue/D/Puzzle.html	THRONE		
+2002/darkblue/X/Puzzle.html	DONORS		
+2002/green/A/Puzzle.html	REFLEXIVE		
+2002/green/B/Puzzle.html	ALEXIS		
+2002/green/C/Puzzle.html	SUBCLAVII		
+2002/green/D/Puzzle.html	SEXIVALENT		
+2002/green/X/Puzzle.html	BANKING		
+2002/magenta/A/Puzzle.html	HIGH SIERRA		
+2002/magenta/B/Puzzle.html	STRAIN DIAGRAM		
+2002/magenta/C/Puzzle.html	CZECHOSLOVAKIA		
+2002/magenta/D/Puzzle.html	DAMN YANKEES		
+2002/magenta/X/Puzzle.html	MISERLY		
+2002/orange/A/Puzzle.html	READ A RICH DRAMA FOR US BASED ON ANY OF THE SONG LYRICS		TRUE
+2002/orange/B/Puzzle.html	JABBERWOCK		
+2002/orange/C/Puzzle.html	NEEDLESS		
+2002/orange/D/Puzzle.html	POMPEII		
+2002/orange/X/Puzzle.html	BILL GATES		
+2002/purple/A/Puzzle.html	DOLLAR BILL		
+2002/purple/B/Puzzle.html	CORNSTARCH		
+2002/purple/C/Puzzle.html	CHEMICAL COMPOUND		
+2002/purple/D/Puzzle.html	STARRY-EYED		
+2002/purple/X/Puzzle.html	REALTY		
+2002/red/A/Puzzle.html	PAYDAY		
+2002/red/B/Puzzle.html	APPLE DUMPLING		
+2002/red/C/Puzzle.html	ODYSSEYS		
+2002/red/D/Puzzle.html	TATAMI		
+2002/red/X/Puzzle.html	MANSION		
 2002/round1/02/Puzzle.html	BOURBON	Answer	
 2002/round1/02/Puzzle.html	KENTUCKY	Location	
 2002/round1/03/Puzzle.html	GUGGENHEIM	Answer	
@@ -1299,97 +1425,97 @@ url	answer	prompt	intermediate
 2011/puzzles/zelda/the_crypt/	ILIUM		
 2011/puzzles/zelda/the_light_world/	PROGINOSKES		
 2011/puzzles/zelda/the_word/	MIKE SCIOSCIA		
-2012/a_circus_line/	ELEPHANT IN A TUTU		
-2012/a_circus_line/1207_1370/	ENUMERATE		
-2012/a_circus_line/blackout/	PINHEAD		
-2012/a_circus_line/fight_choreography/	BOOKWORM		
-2012/a_circus_line/good_auspicious_hunting/	COSPONSORS		
-2012/a_circus_line/middle_see/	OCTOPOD		
-2012/a_circus_line/potlines/	ENTICING		
-2012/a_circus_line/pure_and_simple/	MEDLEY		
-2012/a_circus_line/revisiting_history/	TORCHWOOD		
-2012/a_circus_line/star_search/	COCOON		
-2012/a_circus_line/the_wicked_switch/	SUBSTITUTE		
-2012/ben_bitdiddle/bad_poetry/	TASTE		
-2012/ben_bitdiddle/blowing_down_the_house/	FABRIC		
-2012/ben_bitdiddle/carb_pool/	SEASON		
-2012/ben_bitdiddle/edge_of_your_seat_fun/	SANDWICH		
-2012/ben_bitdiddle/investigators_report/	THE UNEXPECTED DESTRUCTION OF ELABORATELY ENGINEERED ARTIFACTS		
-2012/ben_bitdiddle/movie_musicals/	PARTY		
-2012/ben_bitdiddle/my_summer_vacation/	MECHANICS		
-2012/ben_bitdiddle/pacific_overtones/	FOOT		
-2012/ben_bitdiddle/panorama/	DONKEY		
-2012/ben_bitdiddle/qed/	HAIRSTYLE		
-2012/betsy_johnson/blinkenlights/	PROTECTORS		
-2012/betsy_johnson/caterpillars/	JOY		
-2012/betsy_johnson/investigators_report/	THROW GRAMMAR OUT THE WINDOW		
-2012/betsy_johnson/jekyll_and_hyde/	HELL		
-2012/betsy_johnson/march_madness/	LEADER		
-2012/betsy_johnson/slash_fiction/	ATTACHED		
-2012/betsy_johnson/the_measure_of_all_things/	POISE		
-2012/charles_lutwidge_dodgson/audio_games/	BIZARRE		
-2012/charles_lutwidge_dodgson/b_j_blazkowicz_in_wintertime_for_hitler/	CARMACK		
-2012/charles_lutwidge_dodgson/freshman_physics/	REYKJAVIK		
-2012/charles_lutwidge_dodgson/gibberish_and_more_gibberish/	CELLULAR		
-2012/charles_lutwidge_dodgson/incredible_edibles/	LIQUEURS		
-2012/charles_lutwidge_dodgson/investigators_report/	DRAWLING		
-2012/charles_lutwidge_dodgson/match_game/	MAXWELL		
-2012/charles_lutwidge_dodgson/odd_voided/	PAINED		
-2012/charles_lutwidge_dodgson/the_undiscovered_underground/	FOGBOUND		
-2012/into_the_woodstock/	RAPUNZEL HAS A FRO		
-2012/into_the_woodstock/20_questions/	KINGS HIGHWAY BRIDGE		
-2012/into_the_woodstock/criss_cross/	REST STOP		
-2012/into_the_woodstock/critical_thinking/	JACK CARDIFF		
-2012/into_the_woodstock/dawn_of_a_new_era/	GO DUTCH		
-2012/into_the_woodstock/equal_billing/	RUSH HOUR		
-2012/into_the_woodstock/fulfilling_puzzle/	BAKING SODA		
-2012/into_the_woodstock/google_bodyslam/	TERRY GENE BOLLEA		
-2012/into_the_woodstock/hang_ten/	CHRIST CHURCH REGATTA		
-2012/into_the_woodstock/keeping_records/	JERRY WEXLER		
-2012/into_the_woodstock/of_course/	JOSH SCHWARTZ		
-2012/into_the_woodstock/sounds_good_to_me/	ARIGATO GOZAIMASU		
-2012/into_the_woodstock/strip_mind/	CARDINAL JULES MAZARIN		
-2012/into_the_woodstock/tax_in_space/	CAPITOL HILL		
-2012/into_the_woodstock/the_answers_are_somehow_connected/	JOHN ADAMS		
-2012/into_the_woodstock/towers/	JAI HO		
-2012/mayan_fair_lady/	HARVEST HEARTS		
-2012/mayan_fair_lady/award_winning_poetry/	FORGET PARIS		
-2012/mayan_fair_lady/eek/	LOVE ETC		
-2012/mayan_fair_lady/evil_influence/	DRUNK TANK		
-2012/mayan_fair_lady/getting_there_is_half_the_fun/	SOUTHWEST AIRLINES		
-2012/mayan_fair_lady/initial_public_offering/	CARSEAT		
-2012/mayan_fair_lady/itinerant_people_of_america/	BUSINESS TRAVELERS		
-2012/mayan_fair_lady/picture_an_acorn/	BATED BREATH		
-2012/mayan_fair_lady/snap_judgment/	VELVET ELVIS		
-2012/mayan_fair_lady/stage_lines/	MARS ROVER		
-2012/mayan_fair_lady/the_rainbow_connection/	START OVER		
-2012/mayan_fair_lady/the_voices_in_your_head/	CASH COW		
-2012/ogre_of_la_mancha/	DONKEY ODS		
-2012/ogre_of_la_mancha/argh/	YOKEL		
-2012/ogre_of_la_mancha/cookin/	ADOBO		
-2012/ogre_of_la_mancha/eight_digits/	SLITS		
-2012/ogre_of_la_mancha/i_ll_teach_you/	OKAPI		
-2012/ogre_of_la_mancha/jfk_shags_a_sad_slim_lass/	COLON		
-2012/ogre_of_la_mancha/letter_head/	EBOOK		
-2012/ogre_of_la_mancha/makefiles/	RACED		
-2012/ogre_of_la_mancha/running_around_in_a_blizzard/	DEPOT		
-2012/okla_holmes_a/	CORNY CLUES		
-2012/okla_holmes_a/crank_it_up_to_7/	STERNO		
-2012/okla_holmes_a/o_blessed_day/	VESTIGE		
-2012/okla_holmes_a/paper_trail/	BYLINE		
-2012/okla_holmes_a/playing_a_part/	CARPAL		
-2012/okla_holmes_a/winning_conditions/	SO CLOSE		
-2012/okla_holmes_a/yo_dawg_i_herd_you_like_puzzle_hunts/	THE SOUTH		
-2012/okla_holmes_a/zugzwaang/	BUFFOON		
-2012/phantom_of_the_operator/	DIAL TONE RECITATIVE		
-2012/phantom_of_the_operator/course_7e/	VIKING		
-2012/phantom_of_the_operator/cross_breeding/	CLINTON		
-2012/phantom_of_the_operator/functions/	TERMINAL		
-2012/phantom_of_the_operator/general_knowledge/	PERSHING		
-2012/phantom_of_the_operator/get_your_dog_back/	CHERRY		
-2012/phantom_of_the_operator/headstones/	MERCURY		
-2012/phantom_of_the_operator/impostors/	VALLEY		
-2012/phantom_of_the_operator/set_theory/	UNION		
+2012/puzzles/a_circus_line/	ELEPHANT IN A TUTU		
+2012/puzzles/a_circus_line/1207_1370/	ENUMERATE		
+2012/puzzles/a_circus_line/blackout/	PINHEAD		
+2012/puzzles/a_circus_line/fight_choreography/	BOOKWORM		
+2012/puzzles/a_circus_line/good_auspicious_hunting/	COSPONSORS		
+2012/puzzles/a_circus_line/middle_see/	OCTOPOD		
+2012/puzzles/a_circus_line/potlines/	ENTICING		
+2012/puzzles/a_circus_line/pure_and_simple/	MEDLEY		
+2012/puzzles/a_circus_line/revisiting_history/	TORCHWOOD		
+2012/puzzles/a_circus_line/star_search/	COCOON		
+2012/puzzles/a_circus_line/the_wicked_switch/	SUBSTITUTE		
+2012/puzzles/ben_bitdiddle/bad_poetry/	TASTE		
+2012/puzzles/ben_bitdiddle/blowing_down_the_house/	FABRIC		
+2012/puzzles/ben_bitdiddle/carb_pool/	SEASON		
+2012/puzzles/ben_bitdiddle/edge_of_your_seat_fun/	SANDWICH		
+2012/puzzles/ben_bitdiddle/investigators_report/	THE UNEXPECTED DESTRUCTION OF ELABORATELY ENGINEERED ARTIFACTS		
+2012/puzzles/ben_bitdiddle/movie_musicals/	PARTY		
+2012/puzzles/ben_bitdiddle/my_summer_vacation/	MECHANICS		
+2012/puzzles/ben_bitdiddle/pacific_overtones/	FOOT		
+2012/puzzles/ben_bitdiddle/panorama/	DONKEY		
+2012/puzzles/ben_bitdiddle/qed/	HAIRSTYLE		
+2012/puzzles/betsy_johnson/blinkenlights/	PROTECTORS		
+2012/puzzles/betsy_johnson/caterpillars/	JOY		
+2012/puzzles/betsy_johnson/investigators_report/	THROW GRAMMAR OUT THE WINDOW		
+2012/puzzles/betsy_johnson/jekyll_and_hyde/	HELL		
+2012/puzzles/betsy_johnson/march_madness/	LEADER		
+2012/puzzles/betsy_johnson/slash_fiction/	ATTACHED		
+2012/puzzles/betsy_johnson/the_measure_of_all_things/	POISE		
+2012/puzzles/charles_lutwidge_dodgson/audio_games/	BIZARRE		
+2012/puzzles/charles_lutwidge_dodgson/b_j_blazkowicz_in_wintertime_for_hitler/	CARMACK		
+2012/puzzles/charles_lutwidge_dodgson/freshman_physics/	REYKJAVIK		
+2012/puzzles/charles_lutwidge_dodgson/gibberish_and_more_gibberish/	CELLULAR		
+2012/puzzles/charles_lutwidge_dodgson/incredible_edibles/	LIQUEURS		
+2012/puzzles/charles_lutwidge_dodgson/investigators_report/	DRAWLING		
+2012/puzzles/charles_lutwidge_dodgson/match_game/	MAXWELL		
+2012/puzzles/charles_lutwidge_dodgson/odd_voided/	PAINED		
+2012/puzzles/charles_lutwidge_dodgson/the_undiscovered_underground/	FOGBOUND		
+2012/puzzles/into_the_woodstock/	RAPUNZEL HAS A FRO		
+2012/puzzles/into_the_woodstock/20_questions/	KINGS HIGHWAY BRIDGE		
+2012/puzzles/into_the_woodstock/criss_cross/	REST STOP		
+2012/puzzles/into_the_woodstock/critical_thinking/	JACK CARDIFF		
+2012/puzzles/into_the_woodstock/dawn_of_a_new_era/	GO DUTCH		
+2012/puzzles/into_the_woodstock/equal_billing/	RUSH HOUR		
+2012/puzzles/into_the_woodstock/fulfilling_puzzle/	BAKING SODA		
+2012/puzzles/into_the_woodstock/google_bodyslam/	TERRY GENE BOLLEA		
+2012/puzzles/into_the_woodstock/hang_ten/	CHRIST CHURCH REGATTA		
+2012/puzzles/into_the_woodstock/keeping_records/	JERRY WEXLER		
+2012/puzzles/into_the_woodstock/of_course/	JOSH SCHWARTZ		
+2012/puzzles/into_the_woodstock/sounds_good_to_me/	ARIGATO GOZAIMASU		
+2012/puzzles/into_the_woodstock/strip_mind/	CARDINAL JULES MAZARIN		
+2012/puzzles/into_the_woodstock/tax_in_space/	CAPITOL HILL		
+2012/puzzles/into_the_woodstock/the_answers_are_somehow_connected/	JOHN ADAMS		
+2012/puzzles/into_the_woodstock/towers/	JAI HO		
+2012/puzzles/mayan_fair_lady/	HARVEST HEARTS		
+2012/puzzles/mayan_fair_lady/award_winning_poetry/	FORGET PARIS		
+2012/puzzles/mayan_fair_lady/eek/	LOVE ETC		
+2012/puzzles/mayan_fair_lady/evil_influence/	DRUNK TANK		
+2012/puzzles/mayan_fair_lady/getting_there_is_half_the_fun/	SOUTHWEST AIRLINES		
+2012/puzzles/mayan_fair_lady/initial_public_offering/	CARSEAT		
+2012/puzzles/mayan_fair_lady/itinerant_people_of_america/	BUSINESS TRAVELERS		
+2012/puzzles/mayan_fair_lady/picture_an_acorn/	BATED BREATH		
+2012/puzzles/mayan_fair_lady/snap_judgment/	VELVET ELVIS		
+2012/puzzles/mayan_fair_lady/stage_lines/	MARS ROVER		
+2012/puzzles/mayan_fair_lady/the_rainbow_connection/	START OVER		
+2012/puzzles/mayan_fair_lady/the_voices_in_your_head/	CASH COW		
+2012/puzzles/ogre_of_la_mancha/	DONKEY ODS		
+2012/puzzles/ogre_of_la_mancha/argh/	YOKEL		
+2012/puzzles/ogre_of_la_mancha/cookin/	ADOBO		
+2012/puzzles/ogre_of_la_mancha/eight_digits/	SLITS		
+2012/puzzles/ogre_of_la_mancha/i_ll_teach_you/	OKAPI		
+2012/puzzles/ogre_of_la_mancha/jfk_shags_a_sad_slim_lass/	COLON		
+2012/puzzles/ogre_of_la_mancha/letter_head/	EBOOK		
+2012/puzzles/ogre_of_la_mancha/makefiles/	RACED		
+2012/puzzles/ogre_of_la_mancha/running_around_in_a_blizzard/	DEPOT		
+2012/puzzles/okla_holmes_a/	CORNY CLUES		
+2012/puzzles/okla_holmes_a/crank_it_up_to_7/	STERNO		
+2012/puzzles/okla_holmes_a/o_blessed_day/	VESTIGE		
+2012/puzzles/okla_holmes_a/paper_trail/	BYLINE		
+2012/puzzles/okla_holmes_a/playing_a_part/	CARPAL		
+2012/puzzles/okla_holmes_a/winning_conditions/	SO CLOSE		
+2012/puzzles/okla_holmes_a/yo_dawg_i_herd_you_like_puzzle_hunts/	THE SOUTH		
+2012/puzzles/okla_holmes_a/zugzwaang/	BUFFOON		
+2012/puzzles/phantom_of_the_operator/	DIAL TONE RECITATIVE		
+2012/puzzles/phantom_of_the_operator/course_7e/	VIKING		
+2012/puzzles/phantom_of_the_operator/cross_breeding/	CLINTON		
+2012/puzzles/phantom_of_the_operator/functions/	TERMINAL		
+2012/puzzles/phantom_of_the_operator/general_knowledge/	PERSHING		
+2012/puzzles/phantom_of_the_operator/get_your_dog_back/	CHERRY		
+2012/puzzles/phantom_of_the_operator/headstones/	MERCURY		
+2012/puzzles/phantom_of_the_operator/impostors/	VALLEY		
+2012/puzzles/phantom_of_the_operator/set_theory/	UNION		
 2012/puzzles/letters_from_max_and_leo/ben_bitdiddle/	L'ORFEO		
 2012/puzzles/letters_from_max_and_leo/betsy_johnson/	PRINCE		
 2012/puzzles/letters_from_max_and_leo/charles_lutwidge_dodgson/	LAKERS		
@@ -1399,33 +1525,33 @@ url	answer	prompt	intermediate
 2012/puzzles/letters_from_max_and_leo/what_ben_bitdiddle_dropped/	TONY UNDER KRESGE POINT		
 2012/puzzles/letters_from_max_and_leo/william_s_bergman/	BOZO LIVE		
 2012/puzzles/phantom_of_the_operator/any_old_puzzle/	FIRESTONE		
-2012/sheila_sunshine/curiouser_and_curiouser/	CHOREOGRAPH		
-2012/sheila_sunshine/disorder_of_operations/	OVERWROUGHT		
-2012/sheila_sunshine/highlights/	SCHRODINGER		
-2012/sheila_sunshine/investigators_report/	WRECK A VW BUG		
-2012/sheila_sunshine/pirates_of_the_tyrrhenian/	STOCKBROKER		
-2012/sheila_sunshine/rats/	ENGINEERING		
-2012/sheila_sunshine/sovereignty/	CONSPIRATOR		
-2012/sheila_sunshine/stand/	EARTHENWARE		
-2012/sheila_sunshine/the_signs_they_are_a_changin/	PREARRANGED		
-2012/watson_2_0/encoded/	HARRY POTTER AND THE ORDER OF THE PHOENIX		
-2012/watson_2_0/how_to_succeed_in_real_estate_without_really_buying/	LUXURY TAX		
-2012/watson_2_0/investigators_report/	ALT F FOUR		
-2012/watson_2_0/now_i_know_my_abcs/	I DREAMED A DREAM		
-2012/watson_2_0/piercing_the_veil/	ARTICLES OF INCORPORATION		
-2012/watson_2_0/r_e_s_p_e_c_t/	ESTEEMED		
-2012/watson_2_0/raw_bar/	HAMBURGER		
-2012/watson_2_0/screen_test/	BUTCH CASSIDY AND THE SUNDANCE KID		
-2012/watson_2_0/written_down/	ADRIAN PETERSON		
-2012/william_s_bergman/25th_annual_putnam_county_debate_tournament/	ZAPHOD BEEBLEBROX		
-2012/william_s_bergman/behave/	COSMO SEX QUIZ		
-2012/william_s_bergman/collect_them_all/	NEVER REMOVED FROM BOX		
-2012/william_s_bergman/coming_to_a_location_near_you/	INFLEXIBLE WILL		
-2012/william_s_bergman/good_neighbors/	BRING DRESSED UP BERGMAN DOLL TO HQ	TRUE	
-2012/william_s_bergman/how_hard_can_it_be/	EXHAUST VALVES		
-2012/william_s_bergman/in_vivo/	VIDKUN QUISLING		
-2012/william_s_bergman/investigators_report/	CAST HUGE TV ACTORS		
-2012/william_s_bergman/twosquare/	DUCKBILL PLATYPUS		
+2012/puzzles/sheila_sunshine/curiouser_and_curiouser/	CHOREOGRAPH		
+2012/puzzles/sheila_sunshine/disorder_of_operations/	OVERWROUGHT		
+2012/puzzles/sheila_sunshine/highlights/	SCHRODINGER		
+2012/puzzles/sheila_sunshine/investigators_report/	WRECK A VW BUG		
+2012/puzzles/sheila_sunshine/pirates_of_the_tyrrhenian/	STOCKBROKER		
+2012/puzzles/sheila_sunshine/rats/	ENGINEERING		
+2012/puzzles/sheila_sunshine/sovereignty/	CONSPIRATOR		
+2012/puzzles/sheila_sunshine/stand/	EARTHENWARE		
+2012/puzzles/sheila_sunshine/the_signs_they_are_a_changin/	PREARRANGED		
+2012/puzzles/watson_2_0/encoded/	HARRY POTTER AND THE ORDER OF THE PHOENIX		
+2012/puzzles/watson_2_0/how_to_succeed_in_real_estate_without_really_buying/	LUXURY TAX		
+2012/puzzles/watson_2_0/investigators_report/	ALT F FOUR		
+2012/puzzles/watson_2_0/now_i_know_my_abcs/	I DREAMED A DREAM		
+2012/puzzles/watson_2_0/piercing_the_veil/	ARTICLES OF INCORPORATION		
+2012/puzzles/watson_2_0/r_e_s_p_e_c_t/	ESTEEMED		
+2012/puzzles/watson_2_0/raw_bar/	HAMBURGER		
+2012/puzzles/watson_2_0/screen_test/	BUTCH CASSIDY AND THE SUNDANCE KID		
+2012/puzzles/watson_2_0/written_down/	ADRIAN PETERSON		
+2012/puzzles/william_s_bergman/25th_annual_putnam_county_debate_tournament/	ZAPHOD BEEBLEBROX		
+2012/puzzles/william_s_bergman/behave/	COSMO SEX QUIZ		
+2012/puzzles/william_s_bergman/collect_them_all/	NEVER REMOVED FROM BOX		
+2012/puzzles/william_s_bergman/coming_to_a_location_near_you/	INFLEXIBLE WILL		
+2012/puzzles/william_s_bergman/good_neighbors/	BRING DRESSED UP BERGMAN DOLL TO HQ	TRUE	
+2012/puzzles/william_s_bergman/how_hard_can_it_be/	EXHAUST VALVES		
+2012/puzzles/william_s_bergman/in_vivo/	VIDKUN QUISLING		
+2012/puzzles/william_s_bergman/investigators_report/	CAST HUGE TV ACTORS		
+2012/puzzles/william_s_bergman/twosquare/	DUCKBILL PLATYPUS		
 2013/coinheist.com/feynman/a_set_of_words/index.html	PRAMS		
 2013/coinheist.com/feynman/call_and_response/index.html	STANCHION		
 2013/coinheist.com/feynman/cambridge_waldo/index.html	SCAMP		
@@ -2018,12 +2144,12 @@ url	answer	prompt	intermediate
 2016/puzzle/ysera_dream_fragment	HEX		
 2016/puzzle/zodiac_quest	AZTECS		
 2016/round/dog_show	SLEEPING DOGS OFTEN LIE		
-2016/round/dreamtime	LAUGH LIKE A CRAZY KOOKABURRA	Day One Meta	
-2016/round/dreamtime	TOMB	Day Two Meta	
-2016/round/dreamtime	SUPERGENE	Day Three Meta	
-2016/round/dreamtime	WHITENED	Day Four Meta	
-2016/round/dreamtime	GANDERED	Day Five Meta	
-2016/round/dreamtime	OUTCOME	Dreamtime Meta	
+2016/round/dreamtime	LAUGH LIKE A CRAZY KOOKABURRA	Dreamtime Meta	
+2016/round/dreamtime	TOMB	Day One Meta	
+2016/round/dreamtime	SUPERGENE	Day Two Meta	
+2016/round/dreamtime	WHITENED	Day Three Meta	
+2016/round/dreamtime	GANDERED	Day Four Meta	
+2016/round/dreamtime	OUTCOME	Day Five Meta	
 2016/round/endymion	RUN OVER A BUMP		
 2016/round/king_arthur	DO COCONUT HOOFBEATS		
 2016/round/limbo	ROUSE THE SLEEPERS NOW USE KICKS AT EXACT SAME TIME		

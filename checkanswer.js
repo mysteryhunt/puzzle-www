@@ -17,6 +17,13 @@ const normalizeAnswer = (answer) => {
 };
 
 /**
+ * Returns the year of the hunt we're in.
+ */
+const getYear = () => {
+  return Number(RegExp(`^.*/([0-9]{4})/.*$`).exec(document.URL)?.[1] ?? 0);
+};
+
+/**
  * Fetches the answers as a list of {url, answer, prompt, intermediate}.
  */
 const getData = async () => {
@@ -147,6 +154,7 @@ const CheckButton = ({ prompts }) => {
   const [feedback, setFeedback] = React.useState("Call in an answer.");
 
   const wrapper = css`
+    font-family: "PT Sans", sans-serif;
     font-size: 16px;
     font-size: clamp(16px, 2.4vw, 21px);
     height: 2.5em;
@@ -156,6 +164,7 @@ const CheckButton = ({ prompts }) => {
       border: none;
       border-radius: 2px;
       color: #fff;
+      cursor: pointer;
       display: inline-block;
       font-size: 1em;
       font-family: "PT Sans", sans-serif;
@@ -170,17 +179,26 @@ const CheckButton = ({ prompts }) => {
     p {
       margin: 0 0 1em;
     }
+
+    a {
+      color: inherit !important;
+    }
   `;
 
+  const btnTop = [2015, 2016].includes(getYear())
+    ? "50px"
+    : [2012].includes(getYear())
+    ? "-2.5em"
+    : "0px";
+
   const button = css`
-    border-radius: 0;
     box-sizing: border-box;
     height: 2.5em;
     left: 0;
-    padding: 0.5em 1em;
     position: absolute;
-    top: 0;
+    top: ${btnTop};
     width: 100%;
+    z-index: 9999;
   `;
 
   const dropdownWrapper = css`
@@ -189,13 +207,15 @@ const CheckButton = ({ prompts }) => {
     left: 0;
     position: absolute;
     right: 0;
-    top: 2.5em;
+    top: calc(2.5em + ${btnTop});
+    z-index: 9999;
   `;
 
   const dropdown = css`
     margin: 0 auto;
     max-width: 40em;
     padding: 1em;
+    z-index: 9999;
   `;
 
   const responses = css`
@@ -209,13 +229,26 @@ const CheckButton = ({ prompts }) => {
 
   const onClick = () => setOpen(!open);
 
-  const body = prompts.map(
-    (group) => html`<${ResponseRow} setFeedback=${setFeedback} ...${group} />`
-  );
+  const body =
+    prompts.length > 0
+      ? prompts.map(
+          (group) =>
+            html`<${ResponseRow} setFeedback=${setFeedback} ...${group} />`
+        )
+      : html`<p>
+          No answers found on this page. Please report this to${" "}
+          <a href="mailto:puzzle@mit.edu">puzzle@mit.edu</a>.
+        </p>`;
 
   return html`
     <style>
       @import url("https://fonts.googleapis.com/css2?family=PT+Sans:wght@400;700&display=swap");
+
+      ${[2015, 2016].includes(getYear()) &&
+      ".navbar-fixed-top { z-index: 10000 }"}
+      ${[2012].includes(getYear()) &&
+      "body { top: 2.5em } #check-answer, #shortcuts { z-index: 10000 !important }"}
+      ${[2006].includes(getYear()) && 'img[alt="Check Answer"] { display: none }'}
     </style>
     <div class=${wrapper}>
       <button class=${button} onClick=${onClick}>
