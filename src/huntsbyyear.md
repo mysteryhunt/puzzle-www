@@ -16,7 +16,7 @@ We are also missing solutions for the Chess Competitions and the hunts from 1981
 
 ## 2021
 
-[Mystery Hunt 2021](https://web.mit.edu/puzzle/www/2021/) asked teams to help Yew Labs retrieve their professor from an alternate universe.
+[Mystery Hunt 2021](2021/) asked teams to help Yew Labs retrieve their professor from an alternate universe.
 
 ## 2020
 
