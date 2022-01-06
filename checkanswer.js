@@ -30,11 +30,11 @@ const getData = async () => {
   const res = await fetch("/answers.tsv");
   const data = await res.text();
   const [header, ...body] = data.split("\n");
-  const headers = header.split("\t");
+  const headers = header.trim().split("\t");
   return body.map((row) => {
     const res = {};
     row.split("\t").forEach((item, i) => {
-      res[headers[i]] = item;
+      res[headers[i]] = item.trim();
     });
     return res;
   });
@@ -113,7 +113,7 @@ const ResponseRow = ({ prompt, rows, setFeedback }) => {
       const correct = normalizeAnswer(row.answer) === normalizeAnswer(response);
       if (correct) {
         setFeedback(
-          row.intermediate
+          row.intermediate?.trim() === "TRUE"
             ? "Correct! See the solution page for the answer."
             : `Solved! The answer was ${row.answer}.`
         );
