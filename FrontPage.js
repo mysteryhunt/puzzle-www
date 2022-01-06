@@ -94,12 +94,26 @@ const Hunt = () => {
     }
   `;
 
+  const firstAction = () => {
+    if (timeLeft().ended) {
+      return html`<a
+        class="button"
+        href="https://mailman.mit.edu/mailman/listinfo/puzzle-hunters"
+        >Subscribe for Hunt updates</a
+      >`;
+    } else {
+      return html`<a class="button" href="https://www.mitmh2022.com/"
+        >Register now</a
+      >`;
+    }
+  };
+
   return html`
     <img class=${img} src="images/frontcoin.png" alt="A penny." />
     <${Countdown} />
     <!-- prettier-ignore -->
     <div class=${action}>
-      <a class="button" href="https://www.mitmh2022.com/">Register now</a>
+      ${firstAction()}
       <a class="button" href="https://giving.mit.edu/form?fundId=2720842"
         >Donate to the Mystery Hunt</a
       >
