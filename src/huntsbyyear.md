@@ -12,7 +12,7 @@ This archive is a work-in-progress: a few hunts are still missing bits and piece
 
 We are also missing solutions for the Chess Competitions and the hunts from 1981-1983, 1985, and 1989-1992. Additionally, during the early years of the Mystery Hunt, there were often two simultaneous hunts (one for individuals and one for teams, or one for small teams and one for large teams, etc). Since we have no way of knowing which years had two hunts, the archive may have gaps of which we are unaware.
 
-[Devjoe](http://devjoe.livejournal.com), a veteran Mystery Hunt participant and puzzler, has created a massive puzzle index of all puzzles between 2000 to now. The index is currently located [here](https://devjoe.appspot.com/huntindex/).
+[Devjoe](http://devjoe.livejournal.com), a veteran Mystery Hunt participant and puzzler, has created a massive puzzle index of all puzzles between 1994 to now. The index is currently located [here](https://devjoe.appspot.com/huntindex/).
 
 ## 2021
 

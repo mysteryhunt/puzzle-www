@@ -2,12 +2,15 @@
 
 Mystery Hunt is often covered by various press outlets and bloggers. We have attempted to collect links to some of that coverage here. Please let us know if any of the links are broken, or if you know of other stories about Mystery Hunt that should be linked from here.
 
+Lewis Chen maintains a [spreadsheet of Hunt writeups](https://docs.google.com/spreadsheets/d/1oSPyd8XZAZOzHluHqDLyCb_toH0EP9EIDJbYL8gAX6U/edit#gid=0).
+
 ## 2020
 
 * [Pancakes, Euphoria, and a Robot Parade: Inside MIT's Grueling Puzzle Competition](https://www.popularmechanics.com/science/math/a31336496/mit-mystery-hunt-puzzle-competition/) by Kate Morgan, _Popular Mechanics, March 2020_
 
 ## 2018
 
+* [Can You Stay Awake For 50 Hours And Solve 150 Puzzles?](https://fivethirtyeight.com/features/can-you-stay-awake-for-50-hours-and-solve-150-puzzles/) by Oliver Roeder, _FiveThirtyEight, January 2018_
 * [Setec Astronomy Wins 2018 Hunt](https://thetech.com/2018/01/17/setec-astronomy-wins-2018-mystery-hunt) by Tu-Lan Vu-Han, _The Tech, January 2018_
 
 ## 2017

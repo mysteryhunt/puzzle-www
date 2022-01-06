@@ -252,7 +252,7 @@ const CheckButton = ({ prompts }) => {
     </style>
     <div class=${wrapper}>
       <button class=${button} onClick=${onClick}>
-        Check your answer spoiler-free
+        Check your answers spoiler-free
       </button>
       ${open &&
       html`

@@ -1,30 +1,64 @@
 # Mystery Hunt Coin Gallery
 
-The goal of each Mystery Hunt is to locate an object hidden somewhere on MIT campus. The first few hunts used an [Indian Head Penny](http://en.wikipedia.org/wiki/Indian_head_cent), and thus this object has become known as a “coin,” even though not all of them have been actual coins. This gallery contains all the coins from the past hunts that we've been able to track down; if you know of the coins we have marked as “unknown,” or have pictures of coins for which we only have sketches, please [contact us](contact.html). Rahul Sridhar maintains [a map of where all coins have been found](https://fortenf.org/mh-coin-map/).
+The goal of each Mystery Hunt is to locate an object hidden somewhere on MIT campus. The first few hunts used an [Indian Head Penny](http://en.wikipedia.org/wiki/Indian_head_cent), and thus this object has become known as a “coin,” even though not all of them have been actual coins. This gallery contains all the coins from the past hunts that we've been able to track down; if you know of the coins we have marked as “unknown,” or have pictures of coins for which we only have sketches, please [contact us](contact.html).
+
+Rahul Sridhar maintains [a map of where all coins have been found](https://fortenf.org/mh-coin-map/).
+
+## 2021
+
+[![](images/coins/2021.jpg)](images/coins/2021.jpg)
+
+_Material: unknown, technique: unknown._
+
+If you have more information about this coin, please [contact us](mailto:puzzle@mit.edu).
 
 ## 2020
 
 [![](images/coins/2020.jpg)](images/coins/2020.jpg)
 
+_Material: unknown, technique: unknown._
+
+If you have more information about this coin, please [contact us](mailto:puzzle@mit.edu).
+
 ## 2019
 
 [![](images/coins/2019-small.jpg)](images/coins/2019-full.jpg)
+
+_Material: unknown, technique: unknown._
+
+If you have more information about this coin, please [contact us](mailto:puzzle@mit.edu).
 
 ## 2018
 
 [![](images/coins/2018-small.jpg)](images/coins/2018-full.jpg)
 
+_Material: unknown, technique: unknown._
+
+If you have more information about this coin, please [contact us](mailto:puzzle@mit.edu).
+
 ## 2017
 
 [![](images/coins/2017.jpg)](images/coins/2017.jpg)
+
+_Material: unknown, technique: unknown._
+
+If you have more information about this coin, please [contact us](mailto:puzzle@mit.edu).
 
 ## 2016
 
 [![](images/coins/2016.jpg)](images/coins/2016.jpg)
 
+_Material: unknown, technique: unknown._
+
+If you have more information about this coin, please [contact us](mailto:puzzle@mit.edu).
+
 ## 2015
 
 [![](images/coins/2015.jpg)](images/coins/2015.jpg)
+
+_Material: unknown, technique: unknown._
+
+If you have more information about this coin, please [contact us](mailto:puzzle@mit.edu).
 
 ## 2014
 
