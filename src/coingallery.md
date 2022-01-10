@@ -8,7 +8,7 @@ Rahul Sridhar maintains [a map of where all coins have been found](https://forte
 
 [![](images/coins/2021.jpg)](images/coins/2021.jpg)
 
-_Material: unknown, technique: unknown. If you have more information about this coin, please [contact us](mailto:puzzle@mit.edu)._
+_Material: silver-plated brass, technique: die stamping, antiquing._
 
 The 2021 Mystery Hunt kicked off with the revelation that MIT Professor Barbara Yew had created a portal to an alternate universe containing the Perpendicular Institute of the World (⊥IW) and had gotten stuck in it. Teams needed to rescue her and fix various problems with the buildings of ⊥IW caused by opening the portal. The coin was a transformed quarter that Professor Yew had left behind in a vending machine in ⊥IW.
 
