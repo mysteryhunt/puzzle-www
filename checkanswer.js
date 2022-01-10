@@ -13,6 +13,15 @@ import { React, html, css, render } from "./package.js";
  * Remove non-alphanumeric characters.
  */
 const normalizeAnswer = (answer) => {
+  if (getYear() === 2003) {
+    if (document.URL.contains("teamGuest/2")) {
+      // Special case: 2003 R2, whose answers are emoji.
+      return answer.trim();
+    } else if (document.URL.contains("6_3")) {
+      // Special case: Answer is literal Greek letter.
+      return answer.trim();
+    }
+  }
   return answer.toUpperCase().replaceAll(/[^A-Z0-9]/g, "");
 };
 
