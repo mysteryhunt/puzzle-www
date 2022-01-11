@@ -2,6 +2,7 @@
 
 ## Puzzles
 
+- [All puzzles](all.pdf)
 - [Introduction](0.pdf)
 - [1 – Alter Rivals](1.pdf)
 - [2 – Parallel Enclosures](2.pdf)

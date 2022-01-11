@@ -2,6 +2,7 @@
 
 ## Puzzles
 
+- [All puzzles](all.pdf)
 - [Introduction](0.pdf)
 - [1 – Duplicitous Identities](1.pdf)
 - [2 – Perfect Hindsight](2.pdf)

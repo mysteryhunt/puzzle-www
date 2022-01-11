@@ -2,12 +2,14 @@
 
 ## Puzzles
 
+- [All puzzles](all.pdf)
 - [Introduction](0.pdf)
 - [1 – Briny University](1.pdf)
 - [2 – Columbuoy University](2.pdf)
 - [3 – Corshell University](3.pdf)
 - [4 – Plankton University](4.pdf)
-- [5 – Sharkmouth University](5.pdf)
+- [5 – Sharkmouth University](5-alt.pdf) (original version)
+- [5 – Sharkmouth University](5.pdf) (easier version that appeared in hunt)
 - [6 – Starboard University](6.pdf)
 - [7 – University of Pearl](7.pdf)
 - [8 – Whale University](8.pdf)

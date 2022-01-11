@@ -2,6 +2,7 @@
 
 ## Puzzles
 
+- [All puzzles](all.pdf)
 - [Introduction](0.pdf)
 - [1 – You Complete Me](1.pdf)
 - [2 – Fact Or Fiction](2.pdf)

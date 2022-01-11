@@ -2,6 +2,7 @@
 
 ## Puzzles
 
+- [All puzzles](all.pdf)
 - [Introduction](0.pdf)
 - [1 – Authoritarian Tunes](1.pdf)
 - [2 – Picture This](2.pdf)

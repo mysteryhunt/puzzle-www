@@ -2,6 +2,7 @@
 
 ## Puzzles
 
+- [All puzzles](all.pdf)
 - [Introduction](0.pdf)
 - [1 – I'm Not a Robot](1.pdf)
 - [2 – Throwing Shade](2.pdf)

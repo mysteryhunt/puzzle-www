@@ -2,6 +2,7 @@
 
 ## Puzzles
 
+- [All puzzles](all.pdf)
 - [Introduction](0.pdf)
 - [1 – Skylight](1.pdf)
 - [2 – Factoids](2.pdf)

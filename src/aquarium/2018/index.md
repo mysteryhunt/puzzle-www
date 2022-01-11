@@ -2,6 +2,7 @@
 
 ## Puzzles
 
+- [All puzzles](all.pdf)
 - [Introduction](0.pdf)
 - [1 – Doctor Weird](1.pdf)
 - [2 – Eagle Ear](2.pdf)

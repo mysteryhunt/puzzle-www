@@ -2,6 +2,7 @@
 
 ## Puzzles
 
+- [All puzzles](all.pdf)
 - [Introduction](0.pdf)
 - [1 – Do Not Cut](1.pdf)
 - [2 – No Letter Left Behind](2.pdf)
