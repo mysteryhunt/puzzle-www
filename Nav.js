@@ -149,7 +149,7 @@ const Nav = () => {
           <li><a href="/huntsbyyear.html">Hunts by Year</a></li>
           <li><a href="/coingallery.html">Coin Gallery</a></li>
           <li><a href="/photos.html">Hunt Photos</a></li>
-          <!-- <li><a href="#">Aquarium Hunt</a></li> -->
+          <li><a href="/aquarium/">Aquarium Hunt</a></li>
         </${Submenu}>
         <${Submenu} parent="Resources">
           <li><a href="/resources.html">For Beginners</a></li>
