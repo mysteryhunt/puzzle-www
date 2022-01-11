@@ -15,8 +15,13 @@ const makeMsg = (body, self) => {
 const ChatWindow = ({ messages }) => {
   const windowEnd = React.useRef(null);
 
+  const firstUpdate = React.useRef(true);
   React.useEffect(() => {
-    windowEnd.current?.scrollIntoView({ behavior: "smooth" });
+    if (firstUpdate.current) {
+      firstUpdate.current = false;
+      return;
+    }
+    windowEnd.current?.scrollIntoView({ behavior: "smooth", block: "nearest" });
   }, [messages]);
 
   const chatWindow = css`
