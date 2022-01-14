@@ -2,7 +2,7 @@
 
 The MIT Aquarium Puzzle Hunt is an annual puzzlehunt written for MIT's incoming first-year undergraduates, intended for solvers with little-to-no experience with puzzles. It takes place on the last day of orientation week at the New England Aquarium.
 
-From 2012 to 2019, the huntrunners were students associated with Safety Third, a wing in Next House. Since 2021, the MIT Mystery Hunt / Puzzle Club writes and runs the Aquarium Puzzle Hunt.
+The hunt began in 2012. From 2012 to 2019, the huntrunners were students associated with Safety Third, a wing in Next House. Since 2021, the MIT Mystery Hunt / Puzzle Club writes and runs the Aquarium Puzzle Hunt.
 
 Are you an MIT student interested in helping with the hunt? We'd always appreciate more help! Check out the [Puzzle Club page](/puzzleclub.html) for more info on joining Puzzle Club.
 
@@ -18,4 +18,3 @@ Are you an MIT student interested in helping with the hunt? We'd always apprecia
 - The [2014 Aquarium Puzzle Hunt](2014/index.html) asked teams to uncover the True and Verified Secret to Happiness by following a mysterious travel log.
 - The [2013 Aquarium Puzzle Hunt](2013/index.html) asked teams to help bring McFly Portal Enterprises's customers back home.
 - The [2012 Aquarium Puzzle Hunt](2012/index.html) asked teams to reverse an apocalypse with the help of the Penguin Federation.
-- We don't know whether the Aquarium Puzzle Hunt existed before this. If you have more information about this, please [contact us](/contact.html).

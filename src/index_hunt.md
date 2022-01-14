@@ -1,3 +1,12 @@
+Greetings from the Institution for the Acquisition and Study of Hyperintelligent Creatures. We will soon be sending representatives to campus to discuss the troubling situation with the super-powered rodents and their assault on Hayden Library. We invite you to a discussion of the matter at 12:00 noon, at the following link:
+
+[https://youtu.be/llmzLHExcnw](https://youtu.be/llmzLHExcnw)
+
+Sincerely,  
+Carlton Sinclair-Jones, Director
+
+---
+
 The MIT Mystery Hunt is a puzzlehunt competition that takes place on the MIT campus every year during the [Martin Luther King, Jr. Day weekend](https://www.wolframalpha.com/input/?i=Friday+before+next+Martin+Luther+King+Day). The hunt challenges each participating team to solve a large number of puzzles which lead to an object (called a "coin") hidden somewhere on campus. The winning team gets to write the subsequent year's hunt.
 
 Mystery Hunt was launched in 1981 and is widely regarded as one of the oldest and most complex puzzlehunts in the world. It attracts more than 2,000 people every year and has inspired similar competitions at universities, companies and cities around the world.

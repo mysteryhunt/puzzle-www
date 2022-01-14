@@ -20,9 +20,13 @@ During the hunt, teams could text a phone number to submit answers. That number 
 
 <div id="simulator"></div>
 
-<!-- ## Contributors -->
+## Contributors
 
-If you have more information about this hunt, please [contact us](/contact.html).
+- abhijitm '19
+- beeshi '22
+- ksmori '18
+- mstang '21
+- nenright '19
 
 <script src="server.js"></script>
 <script src="/aquarium/Simulator.js" type="module"></script>
