@@ -115,7 +115,7 @@ const Hunt = () => {
     <div class=${action}>
       ${firstAction()}
       <a class="button" href="https://giving.mit.edu/form?fundId=2720842"
-        >Donate to the Mystery Hunt</a
+        >Donate to the Mystery Hunt / Puzzle Club</a
       >
     </div>
   `;
