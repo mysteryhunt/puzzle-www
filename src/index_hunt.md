@@ -1,9 +1,9 @@
-Greetings from the Institution for the Acquisition and Study of Hyperintelligent Creatures. We will soon be sending representatives to campus to discuss the troubling situation with the super-powered rodents and their assault on Hayden Library. We invite you to a discussion of the matter at 12:00 noon, at the following link:
+Please join us for the Hunt Wrap-Up tomorrow (Monday, January 17th) starting at 12:00 noon: https://www.youtube.com/watch?v=OQ4qjt35Xk8
 
-[https://youtu.be/llmzLHExcnw](https://youtu.be/llmzLHExcnw)
+It has been a joy to provide you with this Mystery Hunt.
 
-Sincerely,  
-Carlton Sinclair-Jones, Director
+All the best,  
+Team Palindrome
 
 ---
 
