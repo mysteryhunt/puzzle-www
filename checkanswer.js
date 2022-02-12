@@ -14,10 +14,10 @@ import { React, html, css, render } from "./package.js";
  */
 const normalizeAnswer = (answer) => {
   if (getYear() === 2003) {
-    if (document.URL.contains("teamGuest/2")) {
+    if (document.URL.includes("teamGuest/2")) {
       // Special case: 2003 R2, whose answers are emoji.
       return answer.trim();
-    } else if (document.URL.contains("6_3")) {
+    } else if (document.URL.includes("6_3")) {
       // Special case: Answer is literal Greek letter.
       return answer.trim();
     }

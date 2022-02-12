@@ -52,22 +52,24 @@ url	answer	prompt	intermediate
 1999/puzzles/4Detective/Warrants4/w4.2/w4.2.html	RHYTHM		
 1999/puzzles/4Detective/Warrants4/w4.3/w4.3.html	BOK CHOY		
 1999/puzzles/4Detective/Warrants4/w4.4/w4.4.html	INTERACT		
-1999/puzzles/index.html	RAINBOW	Warrant 3.3	
-1999/puzzles/index.html	BUILDING 10	Stuart Dent-Boddy	
-1999/puzzles/index.html	TANG RESIDENCE HALL	Guy Gerr	
-1999/puzzles/index.html	ROCKWELL CAGE	Chuck L. "Evil" Lee	
 1999/puzzles/index.html	HAYDEN MEMORIAL LIBRARY	Tracy Mount	
-1999/puzzles/index.html	THE GREAT SAIL	Lou Neiben	
 1999/puzzles/index.html	TOMB OF THE UNKNOWN TOOL	Pia Nissimo	
-1999/puzzles/index.html	NUCLEAR REACTOR	Roy L. Pain	
-1999/puzzles/index.html	FIFTH EAST	Ling Wi Stik	
-1999/puzzles/index.html	JAPAN PROGRAM	Ty Tanik	
-1999/puzzles/index.html	INFINITE CORRIDOR	Theone and Theotherone Thattoukit	
+1999/puzzles/index.html	TANG RESIDENCE HALL	Guy Gerr	
 1999/puzzles/index.html	FURNITURE EXCHANGE	Polly Titian	
+1999/puzzles/index.html	MEDIA LABORATORY	ACME	
+1999/puzzles/index.html	INFINITE CORRIDOR	Theone and Theotherone Thattoukit	
+1999/puzzles/index.html	NUCLEAR REACTOR	Roy L. Pain	
+1999/puzzles/index.html	ROCKWELL CAGE	Chuck L. "Evil" Lee	
+1999/puzzles/index.html	THE GREAT SAIL	Lou Neiben	
+1999/puzzles/index.html	JAPAN PROGRAM	Ty Tanik	
+1999/puzzles/index.html	BUILDING 10	Stuart Dent-Boddy	
+1999/puzzles/index.html	BUILDING TEN	Stuart Dent-Boddy	
+1999/puzzles/index.html	FIFTH EAST	Ling Wi Stik	
+1999/puzzles/index.html	RAINBOW	Warrant 3.3	
 2000/endgame.html	APPROACH ROOM BAUM COIN BENEATH GREENERY		
+2000/set1/	EMERALD	Password	
 2000/set1/	CHAINS	Hint	
 2000/set1/	TIN MAN	Username	
-2000/set1/	EMERALD	Password	
 2000/set1/1/Puzzle.html	IGNORANT		
 2000/set1/10/Puzzle.html	EMERGENT		
 2000/set1/11/Puzzle.html	HERALD		
@@ -79,12 +81,12 @@ url	answer	prompt	intermediate
 2000/set1/7/Puzzle.html	SIGNOR		
 2000/set1/8/Puzzle.html	MANAGE		
 2000/set1/9/Puzzle.html	ANGELA		
-2000/set2/	TRIGRAMS	Hint	
 2000/set2/	SCARECROW	Username	
+2000/set2/	TRIGRAMS	Hint	
 2000/set2/	MONKEY	Password	
 2000/set2/1/Puzzle.html	EXEMPLI GRATIA		
-2000/set2/10/Puzzle.html	627-3773		TRUE
 2000/set2/10/Puzzle.html	ANACHRONISTIC		
+2000/set2/10/Puzzle.html	627-3773		TRUE
 2000/set2/2/Puzzle.html	COLUMN		
 2000/set2/3/Puzzle.html	ASSOCIATION		
 2000/set2/4/Puzzle.html	BETAMAX		
@@ -93,9 +95,9 @@ url	answer	prompt	intermediate
 2000/set2/7/Puzzle.html	BUTTON		
 2000/set2/8/Puzzle.html	DAY		
 2000/set2/9/Puzzle.html	COMPLEMENT		
+2000/set3/	HOURGLASS	Password	
 2000/set3/	LADIES	Hint	
 2000/set3/	GLINDA	Username	
-2000/set3/	HOURGLASS	Password	
 2000/set3/1/Puzzle.html	HBO		
 2000/set3/2/Puzzle.html	OCHER		
 2000/set3/3/Puzzle.html	USABLE		
@@ -105,9 +107,9 @@ url	answer	prompt	intermediate
 2000/set3/7/Puzzle.html	AROSE		
 2000/set3/8/Puzzle.html	SPAM		
 2000/set3/9/Puzzle.html	SLEIGH		
+2000/set4/	RAINBOW	Password	
 2000/set4/	GROUPS	Hint	
 2000/set4/	TOTO	Username	
-2000/set4/	RAINBOW	Password	
 2000/set4/1/Puzzle.html	ISOLATION		
 2000/set4/2/Puzzle.html	RISING		
 2000/set4/3/Puzzle.html	HYDRA		
@@ -116,9 +118,9 @@ url	answer	prompt	intermediate
 2000/set4/6/Puzzle.html	TURN BACK		
 2000/set4/7/Puzzle.html	FAHRENHEIT		
 2000/set4/8/Puzzle.html	BENT OUT OF SHAPE		
+2000/set5/	SOMEWHERE	Password	
 2000/set5/	VON TRAPP	Hint	
 2000/set5/	DOROTHY	Username	
-2000/set5/	SOMEWHERE	Password	
 2000/set5/1/Puzzle.html	TITHE		
 2000/set5/2/Puzzle.html	DORADO		
 2000/set5/3/Puzzle.html	FARADAYS		
@@ -126,11 +128,11 @@ url	answer	prompt	intermediate
 2000/set5/5/Puzzle.html	SONIC BOOM		
 2000/set5/6/Puzzle.html	DOUBLE DARE		
 2000/set5/7/Puzzle.html	MIRTH		
-2000/set5/8/Puzzle.html	SONIC BOOM		
-2001/index.html	THE BLOB	Phase 1 Entity	
-2001/index.html	BE GOO TO US	Phase 1 Phrase	
+2000/set5/8/Puzzle.html	LAKEFRONT VIEW		
 2001/index.html	SIGMUND FREUD	Phase 3 Entity	
 2001/index.html	LIE ON MY COUCH	Phase 3 Phrase	
+2001/index.html	BE GOO TO US	Phase 1 Phrase	
+2001/index.html	THE BLOB	Phase 1 Entity	
 2001/phase1/1/index.html	STREAK		
 2001/phase1/10/index.html	BLENCH		
 2001/phase1/11/index.html	COEDIT		
@@ -148,8 +150,9 @@ url	answer	prompt	intermediate
 2001/phase2/10/index.html	BARLEY		
 2001/phase2/11/index.html	TSURIS		
 2001/phase2/12/index.html	WARNING		
-2001/phase2/13/index.html	MARY SHELLEY	Phase 2 Entity	
+2001/phase2/13/index.html	DIORAMA OF FAMOUS HORROR STORY	Phase 2 Object	
 2001/phase2/13/index.html	THE MODERN PROMETHEUS	Phase 2 Phrase	
+2001/phase2/13/index.html	MARY SHELLEY	Phase 2 Entity	
 2001/phase2/2/index.html	COVER		
 2001/phase2/3/index.html	POPEYE		
 2001/phase2/4/index.html	GHENT		
@@ -184,8 +187,8 @@ url	answer	prompt	intermediate
 2001/phase4/10/index.html	EASTER		
 2001/phase4/11/index.html	ENGRAM		
 2001/phase4/12/index.html	BAFFLE		
-2001/phase4/13/index.html	JEANNE DIXON	Phase 4 Entity	
 2001/phase4/13/index.html	QUE SERA SERA WHATEVER WILL BE WILL BE	Phase 4 Phrase	
+2001/phase4/13/index.html	JEANNE DIXON	Phase 4 Entity	
 2002/cyan/A/Puzzle.html	OHMS		
 2002/cyan/B/Puzzle.html	SHEER		
 2002/cyan/C/Puzzle.html	ACCOST		
@@ -222,92 +225,94 @@ url	answer	prompt	intermediate
 2002/red/C/Puzzle.html	ODYSSEYS		
 2002/red/D/Puzzle.html	TATAMI		
 2002/red/X/Puzzle.html	MANSION		
-2002/round1/02/Puzzle.html	BOURBON	Answer	
 2002/round1/02/Puzzle.html	KENTUCKY	Location	
+2002/round1/02/Puzzle.html	BOURBON	Answer	
 2002/round1/03/Puzzle.html	GUGGENHEIM	Answer	
 2002/round1/03/Puzzle.html	NEW YORK	Location	
 2002/round1/04/Puzzle.html	HAWAIIAN	Answer	
 2002/round1/04/Puzzle.html	PACIFIC	Location	
-2002/round1/05/Puzzle.html	MONTHLY	Answer	
 2002/round1/05/Puzzle.html	ATLANTIC	Location	
-2002/round1/06/Puzzle.html	CARPET	Answer	
+2002/round1/05/Puzzle.html	MONTHLY	Answer	
 2002/round1/06/Puzzle.html	ORIENTAL	Location	
+2002/round1/06/Puzzle.html	CARPET	Answer	
 2002/round1/07/Puzzle.html	MCMILLAN	Answer	
 2002/round1/07/Puzzle.html	ST JAMES	Location	
-2002/round1/08/Puzzle.html	NUTMEG	Answer	
 2002/round1/08/Puzzle.html	CONNECTICUT	Location	
+2002/round1/08/Puzzle.html	NUTMEG	Answer	
 2002/round1/09/Puzzle.html	BONCHURCH	Answer	
 2002/round1/09/Puzzle.html	VENTNOR	Location	
-2002/round1/10/Puzzle.html	ATHENIAN	Answer	
 2002/round1/10/Puzzle.html	MEDITERRANEAN	Location	
-2002/round1/11/Puzzle.html	DENALI	Answer	
+2002/round1/10/Puzzle.html	ATHENIAN	Answer	
 2002/round1/11/Puzzle.html	PARK PLACE	Location	
-2002/round1/12/Puzzle.html	WILLIAMS	Answer	
+2002/round1/11/Puzzle.html	DENALI	Answer	
 2002/round1/12/Puzzle.html	TENNESSEE	Location	
-2002/round2/02/Puzzle.html	TEXTBOOK	Answer	
+2002/round1/12/Puzzle.html	WILLIAMS	Answer	
 2002/round2/02/Puzzle.html	READING RR	Location	
-2002/round2/03/Puzzle.html	ANDREW CARNEGIE	Answer	
+2002/round2/02/Puzzle.html	TEXTBOOK	Answer	
 2002/round2/03/Puzzle.html	PENNSYLVANIA RAILROAD	Location	
+2002/round2/03/Puzzle.html	ANDREW CARNEGIE	Answer	
 2002/round2/04/Puzzle.html	DES PLAINES	Answer	
 2002/round2/04/Puzzle.html	ILLINOIS	Location	
-2002/round2/05/Puzzle.html	METERLESS	Answer	
 2002/round2/05/Puzzle.html	FREE PARKING	Location	
+2002/round2/05/Puzzle.html	METERLESS	Answer	
 2002/round2/06/Puzzle.html	LATVIAN	Answer	
 2002/round2/06/Puzzle.html	BALTIC	Location	
-2002/round2/07/Puzzle.html	RITA MORENO	Answer	
 2002/round2/07/Puzzle.html	ELECTRIC COMPANY	Location	
+2002/round2/07/Puzzle.html	RITA MORENO	Answer	
 2002/round3/02/Puzzle.html	SIXTEENTH AMENDMENT	Answer	
 2002/round3/02/Puzzle.html	INCOME TAX	Location	
 2002/round3/03/Puzzle.html	WRIGHT BROTHERS	Answer	
 2002/round3/03/Puzzle.html	NORTH CAROLINA	Location	
-2002/round3/04/Puzzle.html	BOOTY	Answer	
 2002/round3/04/Puzzle.html	COMMUNITY CHEST 1	Location	
+2002/round3/04/Puzzle.html	BOOTY	Answer	
 2002/round3/05/Puzzle.html	JASON STAEBLER	Answer	
 2002/round3/05/Puzzle.html	MARVIN GARDENS	Location	
 2002/round3/06/Puzzle.html	EXTRAVAGANCE	Answer	
 2002/round3/06/Puzzle.html	LUXURY TAX	Location	
 2002/round4/__/Puzzle.html	HYDRAULICS	Answer	
 2002/round4/__/Puzzle.html	WATER WORKS	Location	
-2002/round4/04/Puzzle.html	STOWE	Answer	
 2002/round4/04/Puzzle.html	VERMONT	Location	
+2002/round4/04/Puzzle.html	STOWE	Answer	
 2002/round4/06/Puzzle.html	MIKE MULLIGAN	Answer	
 2002/round4/06/Puzzle.html	VIRGINIA	Location	
-2002/round4/08/Puzzle.html	LUCK	Answer	
 2002/round4/08/Puzzle.html	CHANCE 2	Location	
-2002/round5/__/Puzzle.html	JEAN RENO	Answer	
+2002/round4/08/Puzzle.html	LUCK	Answer	
 2002/round5/__/Puzzle.html	JUST VISITING	Location	
+2002/round5/__/Puzzle.html	JEAN RENO	Answer	
 2002/round5/02/Puzzle.html	BRING TO HEADQUARTERS ONE OF: CELEB CHEERLEADER CHEESECAKE FANTOCCINI JAMBALAYA	Answer	TRUE
-2002/round5/02/Puzzle.html	GO TO JAIL	Location	
 2002/round5/02/Puzzle.html	INCARCERATE	Answer	
-2002/round5/03/Puzzle.html	CLIMATES	Answer	
+2002/round5/02/Puzzle.html	GO TO JAIL	Location	
 2002/round5/03/Puzzle.html	STATES AVENUE	Location	
+2002/round5/03/Puzzle.html	CLIMATES	Answer	
 2002/round5/10/Puzzle.html	TERRE HAUTE	Answer	
 2002/round5/10/Puzzle.html	INDIANA	Location	
-2002/round6/04/Puzzle.html	UNDER	Answer	
 2002/round6/04/Puzzle.html	BOARDWALK	Location	
+2002/round6/04/Puzzle.html	UNDER	Answer	
 2002/round6/08/Puzzle.html	OPPORTUNITY	Answer	
 2002/round6/08/Puzzle.html	CHANCE 1	Location	
-2002/round6/12/Puzzle.html	HACHURE	Answer	
 2002/round6/12/Puzzle.html	SHORT LINE RR	Location	
-2002/round7/__/Puzzle.html	BORROMEO	Answer	
+2002/round6/12/Puzzle.html	HACHURE	Answer	
 2002/round7/__/Puzzle.html	ST CHARLES	Location	
-2002/round7/06/Puzzle.html	PUBLIC STORAGE	Answer	
+2002/round7/__/Puzzle.html	BORROMEO	Answer	
 2002/round7/06/Puzzle.html	COMMUNITY CHEST 2	Location	
+2002/round7/06/Puzzle.html	PUBLIC STORAGE	Answer	
 2002/round7/08/Puzzle.html	BALTIMORE	Answer	
 2002/round7/08/Puzzle.html	B&O RR	Location	
-2002/round8/__/Puzzle.html	UNITED WAY	Answer	
 2002/round8/__/Puzzle.html	COMMUNITY CHEST 3	Location	
+2002/round8/__/Puzzle.html	UNITED WAY	Answer	
 2002/round8/02/Puzzle.html	ACCIDENT	Answer	
 2002/round8/02/Puzzle.html	CHANCE 3	Location	
 2002/round8/07/Puzzle.html	DEPART	Answer	
 2002/round8/07/Puzzle.html	GO	Location	
-2002/round8/09/Puzzle.html	SIXTEEN HUNDRED	Answer	
 2002/round8/09/Puzzle.html	PENNSYLVANIA AVENUE	Location	
-2002/yellow/A/Puzzle.html	BRING EATS FOR SOLUTION		
+2002/round8/09/Puzzle.html	SIXTEEN HUNDRED	Answer	
+2002/yellow/A/Puzzle.html	BRING EATS FOR SOLUTION		TRUE
+2002/yellow/A/Puzzle.html	AMERICA ONLINE		
 2002/yellow/B/Puzzle.html	LAKE ONONDAGA		
 2002/yellow/C/Puzzle.html	CANONIZATIONS		
 2002/yellow/D/Puzzle.html	THUJONE		
 2002/yellow/X/Puzzle.html	BENJAMINS		
+2002/endgame/index.html	CASHIERS OFFICE	Tax Puzzle	
 2003/www.acme-corp.com/teamGuest/1/1_1.html	CHALET		
 2003/www.acme-corp.com/teamGuest/1/1_2.html	LABORATORY		
 2003/www.acme-corp.com/teamGuest/1/1_3.html	MORTGAGEES		
@@ -333,14 +338,18 @@ url	answer	prompt	intermediate
 2003/www.acme-corp.com/teamGuest/2/2_8.html	🇺🇸	Enter any single emoji that resembles your guess	TRUE
 2003/www.acme-corp.com/teamGuest/2/2_8.html	🧑‍🚀	Enter any single emoji that resembles your guess	TRUE
 2003/www.acme-corp.com/teamGuest/2/index.html	KRESGE		
+2003/www.acme-corp.com/teamGuest/3/3_1.html	TOM PETTY		
 2003/www.acme-corp.com/teamGuest/3/3_1.html	ECHO		
 2003/www.acme-corp.com/teamGuest/3/3_10.html	SALK		
 2003/www.acme-corp.com/teamGuest/3/3_11.html	SLOT		
 2003/www.acme-corp.com/teamGuest/3/3_2.html	DIRE		
 2003/www.acme-corp.com/teamGuest/3/3_3.html	GALL		
+2003/www.acme-corp.com/teamGuest/3/3_4.html	MOOD		
 2003/www.acme-corp.com/teamGuest/3/3_4.html	FOOD		
 2003/www.acme-corp.com/teamGuest/3/3_5.html	GILA		
+2003/www.acme-corp.com/teamGuest/3/3_6.html	EVIL		
 2003/www.acme-corp.com/teamGuest/3/3_6.html	LEVI		
+2003/www.acme-corp.com/teamGuest/3/3_7.html	LEFT		
 2003/www.acme-corp.com/teamGuest/3/3_7.html	DOWN		
 2003/www.acme-corp.com/teamGuest/3/3_8.html	CARD		
 2003/www.acme-corp.com/teamGuest/3/3_9.html	BALL		
@@ -359,14 +368,14 @@ url	answer	prompt	intermediate
 2003/www.acme-corp.com/teamGuest/4/4_9.html	SQUIRREL		
 2003/www.acme-corp.com/teamGuest/4/4_9.html	SQUIRM		
 2003/www.acme-corp.com/teamGuest/4/index.html	WITCH OF AGNESI		
-2003/www.acme-corp.com/teamGuest/5/5_1.html	SUM		
 2003/www.acme-corp.com/teamGuest/5/5_1.html	GASHLYCRUMB		
+2003/www.acme-corp.com/teamGuest/5/5_1.html	SUM		
 2003/www.acme-corp.com/teamGuest/5/5_2.html	HALO		
 2003/www.acme-corp.com/teamGuest/5/5_2.html	BOYS		
-2003/www.acme-corp.com/teamGuest/5/5_3.html	PACIFIC		
 2003/www.acme-corp.com/teamGuest/5/5_3.html	HAWAIIAN		
-2003/www.acme-corp.com/teamGuest/5/5_4.html	VOWELS		
+2003/www.acme-corp.com/teamGuest/5/5_3.html	PACIFIC		
 2003/www.acme-corp.com/teamGuest/5/5_4.html	CONSONANTS		
+2003/www.acme-corp.com/teamGuest/5/5_4.html	VOWELS		
 2003/www.acme-corp.com/teamGuest/5/5_5.html	LEAF		
 2003/www.acme-corp.com/teamGuest/5/5_5.html	FLEA		
 2003/www.acme-corp.com/teamGuest/5/5_6.html	RHYMES		
@@ -377,11 +386,12 @@ url	answer	prompt	intermediate
 2003/www.acme-corp.com/teamGuest/6/6_1.html	GROTESQUE		
 2003/www.acme-corp.com/teamGuest/6/6_2.html	ORBISON		
 2003/www.acme-corp.com/teamGuest/6/6_2.html	ORISON		
+2003/www.acme-corp.com/teamGuest/6/6_3.html	3		
 2003/www.acme-corp.com/teamGuest/6/6_3.html	OMEGA		
 2003/www.acme-corp.com/teamGuest/6/6_3.html	ω		
-2003/www.acme-corp.com/teamGuest/6/6_3.html	3		
 2003/www.acme-corp.com/teamGuest/6/6_4.html	FERMI		
 2003/www.acme-corp.com/teamGuest/6/6_4.html	DRIVE		
+2003/www.acme-corp.com/teamGuest/6/6_4.html	RAT		
 2003/www.acme-corp.com/teamGuest/6/6_5.html	PAPER HEARTS		
 2003/www.acme-corp.com/teamGuest/6/6_6.html	SCARY MONSTERS		
 2003/www.acme-corp.com/teamGuest/6/6_7.html	NINETY-EIGHT		
@@ -393,18 +403,18 @@ url	answer	prompt	intermediate
 2003/www.acme-corp.com/teamGuest/6/index.html	MAGIC SQUARE		
 2003/www.acme-corp.com/teamGuest/7/7_1.html	LORD ASTOR		
 2003/www.acme-corp.com/teamGuest/7/7_1.html	LADY ASTOR		
-2003/www.acme-corp.com/teamGuest/7/7_2.html	SEMITONAL		
 2003/www.acme-corp.com/teamGuest/7/7_2.html	ONE HUNDRED FIFTY		
-2003/www.acme-corp.com/teamGuest/7/7_3.html	JAYHAWKS		
+2003/www.acme-corp.com/teamGuest/7/7_2.html	SEMITONAL		
 2003/www.acme-corp.com/teamGuest/7/7_3.html	SECOND PERSON PLURAL		
+2003/www.acme-corp.com/teamGuest/7/7_3.html	SECOND PERSON PLURAL		
+2003/www.acme-corp.com/teamGuest/7/7_3.html	JAYHAWKS		
 2003/www.acme-corp.com/teamGuest/7/7_4.html	MENDELEVIUM		
 2003/www.acme-corp.com/teamGuest/7/7_4.html	EINSTEINIUM		
-2003/www.acme-corp.com/teamGuest/7/7_3.html	SECOND PERSON PLURAL		
 2003/www.acme-corp.com/teamGuest/7/7_5.html	JAYHAWKS		
 2003/www.acme-corp.com/teamGuest/7/7_6.html	GROUND LINE		
 2003/www.acme-corp.com/teamGuest/7/7_6.html	FISCAL YEAR		
-2003/www.acme-corp.com/teamGuest/7/7_7.html	NINETY DEGREES		
 2003/www.acme-corp.com/teamGuest/7/7_7.html	FORTY-FIVE DEGREES		
+2003/www.acme-corp.com/teamGuest/7/7_7.html	NINETY DEGREES		
 2003/www.acme-corp.com/teamGuest/7/7_8.html	SOUTH BOSTON		
 2003/www.acme-corp.com/teamGuest/7/7_8.html	HALIFAX		
 2003/www.acme-corp.com/teamGuest/7/index.html	MICKEY FINN		
@@ -519,10 +529,11 @@ url	answer	prompt	intermediate
 2004/timbuktu/rQ6/	PAVE WAYS WITH GOLD		
 2004/timbuktu/TVi/	FOREFRONT		
 2004/timbuktu/TX7/	JUBILEE		
-2004/timbuktu/wVZ/	HQ CALL FOR ABSTRACTS		
+2004/timbuktu/wVZ/	HQ CALL FOR ABSTRACTS		TRUE
+2004/timbuktu/wVZ/	VOLUBLE		
 2004/timbuktu/xaB/	CARACOLLING		
 2004/titanic/1Tq/	PENNSYLVANIA		
-2004/titanic/1Wh/	WINNIPESUAKEE		
+2004/titanic/1Wh/	WINNIPESAUKEE		
 2004/titanic/6US/	OCEAN E HQ		
 2004/titanic/fL7/	HUCKLEBERRY		
 2004/titanic/iS4/	MENAGERIE		
@@ -576,18 +587,18 @@ url	answer	prompt	intermediate
 2004/yukon/T6o/	IO		
 2004/yukon/zMC/	PATRICIA		
 2004/yukon/ZTv/	GAZPACHO		
+2005/setec/	SUPER TACTILE PINKY	Yellow Meta	
+2005/setec/	REPLICATING	Purple Meta	
+2005/setec/	SARAN CAPRIS	Purple Supermeta	
 2005/setec/	POWER OF TEN	Blue Meta	
 2005/setec/	PINK TIGHTS	Blue Supermeta	
 2005/setec/	SNAIL POWER	Green Meta	
-2005/setec/	LOAFERS	Green Supermeta	
-2005/setec/	DIPLOMACY	Orange Meta	
-2005/setec/	TIE	Orange Supermeta	
-2005/setec/	REPLICATING	Purple Meta	
-2005/setec/	SARAN CAPRIS	Purple Supermeta	
 2005/setec/	TIME TRAVEL	Red Meta	
 2005/setec/	CAPE OF FEAR	Red Supermeta	
-2005/setec/	SUPER TACTILE PINKY	Yellow Meta	
+2005/setec/	DIPLOMACY	Orange Meta	
+2005/setec/	LOAFERS	Green Supermeta	
 2005/setec/	LACY BRA	Yellow Supermeta	
+2005/setec/	TIE	Orange Supermeta	
 2005/setec/1_minus_1_equals_2	HBOMB		
 2005/setec/21_equations_to_solve	RIN TIN TIN		
 2005/setec/a_bunch_of_boxes	MONKEYS		
@@ -738,9 +749,9 @@ url	answer	prompt	intermediate
 2006/puzzles/buenos_aires/up_down_and_all_around	ENDOSCOPIC		
 2006/puzzles/buenos_aires/wipe_the_floor_with_him	AJAX		
 2006/puzzles/buenos_aires/xanadu	ESTEVEZ		
+2006/puzzles/cambridge/	CHITTY CHITTY BANG BANG	Cambridge Meta	
 2006/puzzles/cambridge/	DANA SCULLY	Cambridge Ante Agent	
 2006/puzzles/cambridge/	WASHINGTON	Cambridge Ante Location	
-2006/puzzles/cambridge/	CHITTY CHITTY BANG BANG	Cambridge Meta	
 2006/puzzles/cambridge/a_research_puzzle	HAWAII		
 2006/puzzles/cambridge/costume_ball	HYDRIODICACID		
 2006/puzzles/cambridge/counting_your_chickens	EXCLAMATIONPOINT		
@@ -749,9 +760,9 @@ url	answer	prompt	intermediate
 2006/puzzles/cambridge/maths	TELETYPE		
 2006/puzzles/cambridge/punchline	SPEEDOFLIGHT		
 2006/puzzles/cambridge/sound_quality	ZEPHYRMODE		
-2006/puzzles/epcot_center/	STEWIE GRIFFIN	Epcot Center Ante Agent	
 2006/puzzles/epcot_center/	MCMURDO STATION	Epcot Center Ante Location	
 2006/puzzles/epcot_center/	CHOCOLATE MOOSE	Epcot Center Meta	
+2006/puzzles/epcot_center/	STEWIE GRIFFIN	Epcot Center Ante Agent	
 2006/puzzles/epcot_center/american_championship	PARALLELEPIPED		
 2006/puzzles/epcot_center/bring_us_food_yo	TAPIOCAPUDDING		
 2006/puzzles/epcot_center/counterintelligence	COMPOSE HUNT THEME DOUBLE DACTYL		TRUE
@@ -769,8 +780,9 @@ url	answer	prompt	intermediate
 2006/puzzles/epcot_center/the_scrambler	BACCALAUREATES		
 2006/puzzles/epcot_center/wry_ergo_dead	CASHWITHDRAWAL		
 2006/puzzles/kuala_lumpur/	ROSENCRANTZ & GUILDENSTERN	Kuala Lumpur Ante Agent	
-2006/puzzles/kuala_lumpur/	BUENOS AIRES	Kuala Lumpur Ante Location	
+2006/puzzles/kuala_lumpur/	ROSENCRANTZ AND GUILDENSTERN	Kuala Lumpur Ante Agent	
 2006/puzzles/kuala_lumpur/	SQUIRREL TRAP	Kuala Lumpur Meta	
+2006/puzzles/kuala_lumpur/	BUENOS AIRES	Kuala Lumpur Ante Location	
 2006/puzzles/kuala_lumpur/783658	MAXIMUM		
 2006/puzzles/kuala_lumpur/badness_10000	VMLINUX		
 2006/puzzles/kuala_lumpur/do_sa_do	CASTOFF		
@@ -783,10 +795,10 @@ url	answer	prompt	intermediate
 2006/puzzles/kuala_lumpur/some_trolleys_named_lust	WARMTHS		
 2006/puzzles/kuala_lumpur/space_invaders	BATHTUB		
 2006/puzzles/kuala_lumpur/table_for_four	BALFOUR		
-2006/puzzles/mcmurdo_station/	BRAIN	McMurdo Station Ante Agent	
-2006/puzzles/mcmurdo_station/	THE BRAIN	McMurdo Station Ante Agent	
-2006/puzzles/mcmurdo_station/	PARIS	McMurdo Station Ante Location	
 2006/puzzles/mcmurdo_station/	AGENT BUCKWALD	McMurdo Station Meta	
+2006/puzzles/mcmurdo_station/	THE BRAIN	McMurdo Station Ante Agent	
+2006/puzzles/mcmurdo_station/	BRAIN	McMurdo Station Ante Agent	
+2006/puzzles/mcmurdo_station/	PARIS	McMurdo Station Ante Location	
 2006/puzzles/mcmurdo_station/all_work_and_no_play_makes_jack_a_dull_boy	DEREKWALCOTT		
 2006/puzzles/mcmurdo_station/beach_party_mcmurdo	GENTRY		
 2006/puzzles/mcmurdo_station/fusion	CLOCKWATCHERS		
@@ -824,9 +836,9 @@ url	answer	prompt	intermediate
 2006/puzzles/paris/the_quantum_menace	LOLLYGAG		
 2006/puzzles/paris/twenties	REGGAE		
 2006/puzzles/paris/white_noise	ECUADOR		
+2006/puzzles/washington/	STARBUCK	Washington Meta	
 2006/puzzles/washington/	GADGET	Washington Ante Agent	
 2006/puzzles/washington/	MOSCOW	Washington Ante Location	
-2006/puzzles/washington/	STARBUCK	Washington Meta	
 2006/puzzles/washington/1986	BROWN		
 2006/puzzles/washington/advanced_foreign_operations	BARENBLATT		
 2006/puzzles/washington/ask_ye_silly_question	LEMON		
@@ -838,19 +850,19 @@ url	answer	prompt	intermediate
 2007/events/Envy.html	PRINCESS FIONA		
 2007/events/Greed.html	IS THAT YOUR FINAL ANSWER		
 2007/events/Sloth.html	SOMNAMBULIST		
+2007/puzzles/	FASHIONED IN THE MANNER OF A JOINT RESOLUTION, DRAFT A FORMAL DECLARATION OF WAR AGAINST ANOTHER HUNT TEAM. DON'T TELL THEM.	Law and Government Meta	
+2007/puzzles/	ALMOST PLAGIARIZE DAN BROWN WORK	Writing Meta	
+2007/puzzles/	BRING TWO PLAYERS TO THROW A GAME	Sports Meta	
+2007/puzzles/	BEAN DEVIL WITH THIS SNOWBALL	Meta-Meta	
+2007/puzzles/	MAKE A BAD SEQUEL TO WORDPLAY	Performing Arts Meta	
+2007/puzzles/	CREATE A HOCKFIELD CARD	Mass Manipulation Meta	
 2007/puzzles/	THE MIT ALUMNI POOL	Round 1 Meta	
 2007/puzzles/	MIT ALUMNI POOL	Round 1 Meta	
 2007/puzzles/	ALUMNI POOL	Round 1 Meta	
-2007/puzzles/	MAKE A BAD SEQUEL TO WORDPLAY	Performing Arts Meta	
-2007/puzzles/	BRING TWO PLAYERS TO THROW A GAME	Sports Meta	
-2007/puzzles/	A TWINKIE	Crime Meta	
-2007/puzzles/	ALMOST PLAGIARIZE DAN BROWN WORK	Writing Meta	
-2007/puzzles/	FACTOR ME	Getting Rich Quick Meta	
 2007/puzzles/	LEE MAJORS	Finance Meta	
-2007/puzzles/	FASHIONED IN THE MANNER OF A JOINT RESOLUTION, DRAFT A FORMAL DECLARATION OF WAR AGAINST ANOTHER HUNT TEAM. DON'T TELL THEM.	Law and Government Meta	
-2007/puzzles/	CREATE A HOCKFIELD CARD	Mass Manipulation Meta	
 2007/puzzles/	COME QUACK	Advanced World Domination Meta	
-2007/puzzles/	BEAN DEVIL WITH THIS SNOWBALL	Meta-Meta	
+2007/puzzles/	A TWINKIE	Crime Meta	
+2007/puzzles/	FACTOR ME	Getting Rich Quick Meta	
 2007/puzzles/1_1_1	LOVECRAFT		
 2007/puzzles/a_few_good_actors	ACT ONE		
 2007/puzzles/a_midterm_progress_report_to_the_enron_board_of_directors_july_2000	FIGURE EIGHT		
@@ -948,12 +960,12 @@ url	answer	prompt	intermediate
 2007/puzzles/winning_is_everything	PARSONS LAB		
 2007/puzzles/writing_nerds	KNOBBY-KNUCKLED		
 2007/puzzles/you_dont_need_no_stinkin_cue_cards	LAUREN HOLLY		
+2008/	TAKE OUR FAMILY SOME SOUP	Witness 6 Meta	
 2008/	BEAT ANTON SENSELESS	Witness 1 Meta	
 2008/	GET PETER A LARGER PAD	Witness 2 Meta	
-2008/	BANKRUPT NASH	Witness 3 Meta	
 2008/	SALT AL'S STREET	Witness 4 Meta	
+2008/	BANKRUPT NASH	Witness 3 Meta	
 2008/	VOTE FOR J.R.	Witness 5 Meta	
-2008/	TAKE OUR FAMILY SOME SOUP	Witness 6 Meta	
 2008/a_mind_flexing_exercise/	WORDPLAY		
 2008/advisory_boards/	ARCADE GAME		
 2008/alien_species/	POULARD		
@@ -1081,10 +1093,10 @@ url	answer	prompt	intermediate
 2008/x_2/	STANDPAT		
 2008/x_marks_the_spot/	FLORIDA KEYS		
 2009/puzzles/	SLINGSHOTS	Planet Pluto Meta	
-2009/puzzles/	RADIO	ATM Meta	
-2009/puzzles/	METEORS	Hiigara Meta	
 2009/puzzles/	GUITAR SOLO	Castor & Pollux Meta	
 2009/puzzles/	RED SHIRTS	Kronos Meta	
+2009/puzzles/	METEORS	Hiigara Meta	
+2009/puzzles/	RADIO	ATM Meta	
 2009/puzzles/99_cents_a_clue/PUZZLE	MEDS		
 2009/puzzles/a_message_in_space/PUZZLE	RENAISSANCE MAN		
 2009/puzzles/aliotherapy/PUZZLE	PSALM BOOK		
@@ -1268,8 +1280,8 @@ url	answer	prompt	intermediate
 2010/puzzles/1871/	OUI, PAREE'S GAY		
 2010/puzzles/1871/20000_leagues_under_the_sea/	HAL LINDEN		
 2010/puzzles/1871/a_journey_to_the_center_of_the_earth/	CRAYFISH CREEK		
-2010/puzzles/1871/around_the_world_in_80_days/	SPURGELAUREL WILD		
 2010/puzzles/1871/around_the_world_in_80_days/	SPURGELAUREL STREET		
+2010/puzzles/1871/around_the_world_in_80_days/	SPURGELAUREL WILD		
 2010/puzzles/1871/arts_and_letters/	THE BACCHANTE		
 2010/puzzles/1871/correspondence/	HOW LOVE IS SPELT		
 2010/puzzles/1871/dr_oxs_experiment/	BROTHER JUNIPER		
@@ -1334,7 +1346,7 @@ url	answer	prompt	intermediate
 2010/puzzles/2000/the_capricious_type/	S		
 2010/puzzles/2000/the_rainbow/	KIND		
 2010/puzzles/2009/	SETEC ASTRONOMY WINS HUNT BY ACCIDENT		
-2010/puzzles/2009/all-purpose_device/	UWE ROSENBURG		
+2010/puzzles/2009/all-purpose_device/	UWE ROSENBERG		
 2010/puzzles/2009/close_encounterclockwise/	TURN BACK TIME		
 2010/puzzles/2009/computer_games/	ROOT DIRECTORY		
 2010/puzzles/2009/one_day_at_a_time/	STORYTELLERS		
@@ -1342,26 +1354,26 @@ url	answer	prompt	intermediate
 2010/puzzles/2009/seeking_scotchy/	REUNIFICATION		
 2010/puzzles/2009/sightseeing/	KEY WITNESS		
 2010/puzzles/2009/the_zyzzlvarian_holovid_institute/	CINEMA TYCOON		
-2010/puzzles/2010/banner_headline/	PINOT BLANC		
 2010/puzzles/2010/banner_headline/	PINK LEMONADE		
+2010/puzzles/2010/banner_headline/	PINOT BLANC		
 2010/puzzles/2010/confirmed_machine_925/	CLASSIFICATIONS		
 2010/puzzles/2010/confirmed_machine_925/	THE NOBEL PRIZE		
-2010/puzzles/2010/fun_with_numbers/	RUN UP A SCORE		
 2010/puzzles/2010/fun_with_numbers/	FEEL LIKE A MILLION		
+2010/puzzles/2010/fun_with_numbers/	RUN UP A SCORE		
 2010/puzzles/2010/great_minds_think_alike/	KILLING THE AUDIENCE		
 2010/puzzles/2010/great_minds_think_alike/	BODY OF WORK		
-2010/puzzles/2010/making_connections/	COMMERCIAL AT		
 2010/puzzles/2010/making_connections/	HEMIDEMISEMIQUAVER		
+2010/puzzles/2010/making_connections/	COMMERCIAL AT		
 2010/puzzles/2010/meta/	CALL HUNT HEADQUARTERS SAY DROP THE FOOLERY AND ASK ABOUT THE RUNAROUND		
 2010/puzzles/2010/meta/	LOOK AROUND ALL PERIODS AND FILL YOUR CALENDARS MAKE EVERY SECOND COUNT		
 2010/puzzles/2010/puzzles_from_loremipsumstan/	THE EYE OF SAURON		
 2010/puzzles/2010/puzzles_from_loremipsumstan/	GAME WARDENS		
 2010/puzzles/2010/running_in_circles/	MECHANICAL IMPEDANCE		
 2010/puzzles/2010/running_in_circles/	DEPUTY CHIEF ENGINEER		
-2010/puzzles/2010/the_obligatory_dance_video_puzzle/	BAD MOON RISING		
 2010/puzzles/2010/the_obligatory_dance_video_puzzle/	GENUINE ARTICLE		
-2010/puzzles/2010/training_exercise/	METROPOLITANIZED		
+2010/puzzles/2010/the_obligatory_dance_video_puzzle/	BAD MOON RISING		
 2010/puzzles/2010/training_exercise/	WEST FALLS CHURCH VT		
+2010/puzzles/2010/training_exercise/	METROPOLITANIZED		
 2010/puzzles/2010/TUO_YRREJ_PEEK/	SILENCE OF THE LAMBS		
 2010/puzzles/2010/TUO_YRREJ_PEEK/	REMAINS OF THE DAY		
 2010/puzzles/events/acts_of_the_apostles/	NO TEA PARTY		
@@ -1391,7 +1403,7 @@ url	answer	prompt	intermediate
 2011/puzzles/civilization/part_of_speech/	CONRAD		
 2011/puzzles/civilization/puzzle_box/	STOP SIGN		
 2011/puzzles/civilization/racking_your_brains/	TRAFFIC PYLON		
-2011/puzzles/civilization/showcase/	SIX-ANGLED		
+2011/puzzles/civilization/showcase/	HEXAGONAL		
 2011/puzzles/civilization/soooo_cute/	LARGE CRABGRASS		
 2011/puzzles/civilization/space_elevator/	WORLD TOUR		
 2011/puzzles/civilization/st_andrews_links/	FOUR IRON		
@@ -1408,7 +1420,7 @@ url	answer	prompt	intermediate
 2011/puzzles/katamari_damacy/charges/	PRIMORDIAL SOUP		
 2011/puzzles/katamari_damacy/charitable_collection/	FOREIGN DISASTER RELIEF		
 2011/puzzles/katamari_damacy/clues_and_coordinates/	BETELGEUSE		
-2011/puzzles/katamari_damacy/e_pluribus_unum/	SEVEN		
+2011/puzzles/katamari_damacy/e_pluribus_unum/	RAINDROP		
 2011/puzzles/katamari_damacy/efficiency/	MULUGETA WENDIMU		
 2011/puzzles/katamari_damacy/electronic_love/	PROTON		
 2011/puzzles/katamari_damacy/food_for_thought/	TOOTH DECAY		
@@ -1439,7 +1451,7 @@ url	answer	prompt	intermediate
 2011/puzzles/mega_man/genius_test/	DEAD MAN'S CHEST		
 2011/puzzles/mega_man/good_times_in_the_casino/	THE JOY LUCK CLUB		
 2011/puzzles/mega_man/good_vibrations/	AMORES PERROS		
-2011/puzzles/mega_man/life_of_the_party/	ADOLF FREDERICK		
+2011/puzzles/mega_man/life_of_the_party/	KILLER COLD		
 2011/puzzles/mega_man/magnitude/	INEQUALITY		
 2011/puzzles/mega_man/meta_testing/	BACKSOLVER		
 2011/puzzles/mega_man/metrology/	JOSEPH		
@@ -1465,12 +1477,12 @@ url	answer	prompt	intermediate
 2011/puzzles/mega_man/wheres_antoinette/	BOTTOM		
 2011/puzzles/mega_man/you_shall_understand_what_hath_befallen/	SWAYINGS		
 2011/puzzles/outtakes/foreign_information_printing_services/	UPKEEP		
+2011/puzzles/outtakes/pac_man/	FRUITY PEBBLE	Supermeta	
 2011/puzzles/outtakes/pac_man/	FRUCTOSE	Pink	
 2011/puzzles/outtakes/pac_man/	CITYWIDE	Blinky	
 2011/puzzles/outtakes/pac_man/	BEPUZZLE	Clyde	
 2011/puzzles/outtakes/pac_man/	BIG WHEEL	Inky	
 2011/puzzles/outtakes/pac_man/	GOLF TEES	Fruits	
-2011/puzzles/outtakes/pac_man/	FRUITY PEBBLE	Supermeta	
 2011/puzzles/outtakes/signpost/	CUL DE SAC		
 2011/puzzles/world1/another_small_collection_of_immense_integers/	ECHO		
 2011/puzzles/world1/bowsers_castle.html	AIRSHIP		
@@ -1504,31 +1516,31 @@ url	answer	prompt	intermediate
 2011/puzzles/zelda/build_your_own_acrostic/	FOUR QUARTETS		
 2011/puzzles/zelda/build_your_own_acrostic/	CHASTITY		
 2011/puzzles/zelda/build_your_own_acrostic/	PRERINSE		
-2011/puzzles/zelda/counting_the_ways/	FOUR ROOMS		
 2011/puzzles/zelda/counting_the_ways/	COLLIN CHOU		
+2011/puzzles/zelda/counting_the_ways/	FOUR ROOMS		
 2011/puzzles/zelda/counting_the_ways/	WEBISMS		
-2011/puzzles/zelda/execution_grounds/	ST GABRIEL		
 2011/puzzles/zelda/execution_grounds/	KEGELSTATT TRIO		
+2011/puzzles/zelda/execution_grounds/	ST GABRIEL		
 2011/puzzles/zelda/execution_grounds/	FLAG DAY		
 2011/puzzles/zelda/forsaken_fortress/	LAST SONNET		
-2011/puzzles/zelda/forsaken_fortress/	CANADA		
 2011/puzzles/zelda/forsaken_fortress/	DIORAMIC		
+2011/puzzles/zelda/forsaken_fortress/	CANADA		
 2011/puzzles/zelda/ganons_lair.html	NERF SWORD		
 2011/puzzles/zelda/making_the_possible_impossible/	ABSOLUTE AUTHORITY		
-2011/puzzles/zelda/making_the_possible_impossible/	FLOOD		
 2011/puzzles/zelda/making_the_possible_impossible/	THE FIRST NOEL		
+2011/puzzles/zelda/making_the_possible_impossible/	FLOOD		
 2011/puzzles/zelda/song_of_birds/	KEPLER'S THIRD LAW		
-2011/puzzles/zelda/song_of_birds/	BAR ROOM		
 2011/puzzles/zelda/song_of_birds/	ST EDWARD'S CHAIR		
-2011/puzzles/zelda/the_crypt/	ILIUM		
+2011/puzzles/zelda/song_of_birds/	BAR ROOM		
 2011/puzzles/zelda/the_crypt/	PAS DE DEUX		
 2011/puzzles/zelda/the_crypt/	THEODORO		
+2011/puzzles/zelda/the_crypt/	ILIUM		
 2011/puzzles/zelda/the_light_world/	PROGINOSKES		
 2011/puzzles/zelda/the_light_world/	GRANOLA		
 2011/puzzles/zelda/the_light_world/	OCTAVIA		
+2011/puzzles/zelda/the_word/	THE RISE AND FALL OF THE THIRD REICH		
 2011/puzzles/zelda/the_word/	MIKE SCIOSCIA		
 2011/puzzles/zelda/the_word/	GOALIES		
-2011/puzzles/zelda/the_word/	THE RISE AND FALL OF THE THIRD REICH		
 2012/puzzles/a_circus_line/	ELEPHANT IN A TUTU		
 2012/puzzles/a_circus_line/1207_1370/	ENUMERATE		
 2012/puzzles/a_circus_line/blackout/	PINHEAD		
@@ -1585,7 +1597,8 @@ url	answer	prompt	intermediate
 2012/puzzles/letters_from_max_and_leo/ben_bitdiddle/	L'ORFEO		
 2012/puzzles/letters_from_max_and_leo/betsy_johnson/	PRINCE		
 2012/puzzles/letters_from_max_and_leo/charles_lutwidge_dodgson/	LAKERS		
-2012/puzzles/letters_from_max_and_leo/lets_put_on_a_hit/	FREE TIX MAKE NICE GIFTS		
+2012/puzzles/letters_from_max_and_leo/lets_put_on_a_hit/	I DON'T KNOW HOW TO LOVE HIM TURNS OUT HE IS MY BROTHER	Let's Put on a Hit	
+2012/puzzles/letters_from_max_and_leo/lets_put_on_a_hit/	FREE TIX MAKE NICE GIFTS	Occupy Broadway!	
 2012/puzzles/letters_from_max_and_leo/sheila_sunshine/	BURNING MAN		
 2012/puzzles/letters_from_max_and_leo/watson_2_0/	ROFLCON		
 2012/puzzles/letters_from_max_and_leo/what_ben_bitdiddle_dropped/	TONY UNDER KRESGE POINT		
@@ -1651,7 +1664,8 @@ url	answer	prompt	intermediate
 2012/puzzles/william_s_bergman/behave/	COSMO SEX QUIZ		
 2012/puzzles/william_s_bergman/collect_them_all/	NEVER REMOVED FROM BOX		
 2012/puzzles/william_s_bergman/coming_to_a_location_near_you/	INFLEXIBLE WILL		
-2012/puzzles/william_s_bergman/good_neighbors/	BRING DRESSED UP BERGMAN DOLL TO HQ	TRUE	
+2012/puzzles/william_s_bergman/good_neighbors/	BRING DRESSED UP BERGMAN DOLL TO HQ		TRUE
+2012/puzzles/william_s_bergman/good_neighbors/	CRUSHED VELVET TUX		
 2012/puzzles/william_s_bergman/how_hard_can_it_be/	EXHAUST VALVES		
 2012/puzzles/william_s_bergman/in_vivo/	VIDKUN QUISLING		
 2012/puzzles/william_s_bergman/investigators_report/	CAST HUGE TV ACTORS		
@@ -1945,10 +1959,10 @@ url	answer	prompt	intermediate
 2014/round/events/	WHITE RABBIT HAS A WATCH THAT CONTROLS RABBIT HOLES		
 2014/round/humpty_dumpty/	EISOPTROPHOBIC		
 2014/round/knights/	BORED TO PIECES BY GAMES		
-2014/round/mit/	TOBACCO	Clubs Meta	
+2014/round/mit/	THE BEAST IS MS ALICE LIDDELL	Card Deck Meta Meta	
 2014/round/mit/	MANCHEGO	Spades Meta	
 2014/round/mit/	TWIN POPS	Diamonds Meta	
-2014/round/mit/	THE BEAST IS MS ALICE LIDDELL	Card Deck Meta Meta	
+2014/round/mit/	TOBACCO	Clubs Meta	
 2014/round/mock_turtle/	MAKE EDITS TO YOUR TABLE SCHEMA		
 2014/round/tea_party/	GIVE HIM A HAND		
 2014/round/white_queen/	CLEAN WITH IVORY SOAP		
@@ -1966,7 +1980,8 @@ url	answer	prompt	intermediate
 2015/puzzle/back_and_forth	COLORED ICE		
 2015/puzzle/back_on_the_move	NENA		
 2015/puzzle/be_a_star	TRIAGE		
-2015/puzzle/benny_lava	MAKE US ONE OF GANGNAM STYLE	TRUE	
+2015/puzzle/benny_lava	MAKE US ONE OF GANGNAM STYLE		TRUE
+2015/puzzle/benny_lava	ANAL BLEEDING		
 2015/puzzle/beth	PRINCE		
 2015/puzzle/blocks	RUBLE		
 2015/puzzle/blub_blub_pub_trivia	ROOT BEER DEAD MANS FLOAT		
@@ -1976,7 +1991,8 @@ url	answer	prompt	intermediate
 2015/puzzle/captain_agers_puzzling_adventure	GRAPHIC		
 2015/puzzle/captain_planet	RECYCLE CONTENT		
 2015/puzzle/charybdis_charades	SHAKE		
-2015/puzzle/check_out_this_sticked_asiatic_music	USE THIS CODE TO MAKE US SOME TAIKO MUSIC	TRUE	
+2015/puzzle/check_out_this_sticked_asiatic_music	USE THIS CODE TO MAKE US SOME TAIKO MUSIC		TRUE
+2015/puzzle/check_out_this_sticked_asiatic_music	HIDEOUT		
 2015/puzzle/chemistry_lab_meta	COOL FUEL		
 2015/puzzle/choose_your_language	COUP DETAT		
 2015/puzzle/coins	DRESDEN		
@@ -2179,8 +2195,8 @@ url	answer	prompt	intermediate
 2016/puzzle/missed_connections	ABSENTEE		
 2016/puzzle/missing_the_mark	POWDER PUFF		
 2016/puzzle/obstacle_training	INTENTIONLESS FLEABAGS		
-2016/puzzle/obstacle_training	AUSLANDER DINGOES		
 2016/puzzle/obstacle_training	GOOFPROOF BREEDERS		
+2016/puzzle/obstacle_training	AUSLANDER DINGOES		
 2016/puzzle/off_the_leash	PB-FREE		
 2016/puzzle/on_the_road	TRAIPSES		
 2016/puzzle/one_starry_night	PIMPING		
@@ -2193,8 +2209,8 @@ url	answer	prompt	intermediate
 2016/puzzle/pictocryptolists	TEN PM		
 2016/puzzle/prints	BRADFORD PARKINSON		
 2016/puzzle/provision	PLUMPEST		
-2016/puzzle/puzzle_extravaganza	DUEL WITH SANS		TRUE
 2016/puzzle/puzzle_extravaganza	QUICK REACTION		
+2016/puzzle/puzzle_extravaganza	DUEL WITH SANS		TRUE
 2016/puzzle/quantum_minesweeper	PURITY IN DEATH		
 2016/puzzle/quest_for_the_truth	IMPLAUSIBILITIES		
 2016/puzzle/quilt_by_association	CORDLESS		
@@ -2267,11 +2283,11 @@ url	answer	prompt	intermediate
 2016/puzzle/zodiac_quest	AZTECS		
 2016/round/dog_show	SLEEPING DOGS OFTEN LIE		
 2016/round/dreamtime	LAUGH LIKE A CRAZY KOOKABURRA	Dreamtime Meta	
-2016/round/dreamtime	TOMB	Day One Meta	
 2016/round/dreamtime	SUPERGENE	Day Two Meta	
 2016/round/dreamtime	WHITENED	Day Three Meta	
 2016/round/dreamtime	GANDERED	Day Four Meta	
 2016/round/dreamtime	OUTCOME	Day Five Meta	
+2016/round/dreamtime	TOMB	Day One Meta	
 2016/round/endymion	RUN OVER A BUMP		
 2016/round/king_arthur	DO COCONUT HOOFBEATS		
 2016/round/limbo	ROUSE THE SLEEPERS NOW USE KICKS AT EXACT SAME TIME		
