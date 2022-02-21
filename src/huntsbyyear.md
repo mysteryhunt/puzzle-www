@@ -7,7 +7,6 @@ This archive is a work-in-progress: a few hunts are still missing bits and piece
 * 1999: Parts of the Nagoya, Nairobi, and San Francisco puzzles. Solutions to Toronto, Chihuahua, Athens, Colombo, Warrant 3.2, Nagoya, Nairobi, and San Francisco.
 * 1994-1998: The archivists are currently updating these Hunts with new information. Once this is finished, we will list what we are still missing.
 * 1993: The computerized portion of the hunt (accessed by "telnet ninja 3051") and all of the solutions.
-* 1990: Missing everything.
 * 1988: Missing everything.
 
 We are also missing solutions for the Chess Competitions and the hunts from 1981-1983, 1985, and 1989-1992. Additionally, during the early years of the Mystery Hunt, there were often two simultaneous hunts (one for individuals and one for teams, or one for small teams and one for large teams, etc). Since we have no way of knowing which years had two hunts, the archive may have gaps of which we are unaware.
@@ -142,7 +141,7 @@ If there are things in the archive that make solving puzzles after-the-fact part
 
 ## 1990
 
-Have info on this hunt? We'd love to hear from you! Email [us](contact.html)! Puzzles, solutions, anecdotes, photos, themes, we'll take anything!
+[Mystery Hunt '90 (PDF)](1990/mysteryhunt1990.pdf)
 
 ## 1989
 
