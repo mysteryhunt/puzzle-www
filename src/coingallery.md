@@ -26,11 +26,9 @@ The 2020 Mystery Hunt was about Penny Park, a fictional amusement park that had 
 
 [![](images/coins/2019-manhole.png)](images/coins/2019-manhole.png)
 
-_Coin material: unknown, technique: unknown. Manhole material: unknown, technique: unknown._
+_Coin material: silver-plated zinc alloy, technique: casting, antiquing. Manhole material: silver-painted MDF, technique: CNC router._
 
 The 2019 Mystery Hunt took place on the 100th anniversary of the Great Molasses Flood in Boston. In the opening skit, the writing team decided to create "Molasses Awareness Day", a new holiday commemorating the occasion. Once they did this, disaster struck! In a twist inspired by the movie The Nightmare before Christmas, it was revealed that each holiday exists as a town in the Holiday Forest, and that the molasses from Molasses Awareness Day town was quickly spreading and affecting all the other Holiday towns. Teams needed to find a round manhole cover to plug the hole in the molasses tank. The final coin was formed by punching a small hole in the tank, allowing a small—but safe—drip appropriate for remembering the holiday.
-
-_If you have a better image of the manhole cover, or more information about this coin, please [contact us](mailto:puzzle@mit.edu)._
 
 ## 2018
 
