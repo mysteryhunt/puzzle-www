@@ -15,6 +15,10 @@ If there are things in the archive that make solving puzzles after-the-fact part
 
 [Devjoe](http://devjoe.livejournal.com), a veteran Mystery Hunt participant and puzzler, has created a massive puzzle index of all puzzles between 1994 to now. The index is currently located [here](https://devjoe.appspot.com/huntindex/).
 
+## 2022
+
+[Mystery Hunt 2022](2022/) asked teams to save Bookspace, an interdimensional space of all books and their characters, from disappearing.
+
 ## 2021
 
 [Mystery Hunt 2021](2021/) asked teams to help Yew Labs retrieve their professor from an alternate universe.

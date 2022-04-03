@@ -1,12 +1,3 @@
-Please join us for the Hunt Wrap-Up tomorrow (Monday, January 17th) starting at 12:00 noon: https://www.youtube.com/watch?v=OQ4qjt35Xk8
-
-It has been a joy to provide you with this Mystery Hunt.
-
-All the best,  
-Team Palindrome
-
----
-
 The MIT Mystery Hunt is a puzzlehunt competition that takes place on the MIT campus every year during the [Martin Luther King, Jr. Day weekend](https://www.wolframalpha.com/input/?i=Friday+before+next+Martin+Luther+King+Day). The hunt challenges each participating team to solve a large number of puzzles which lead to an object (called a "coin") hidden somewhere on campus. The winning team gets to write the subsequent year's hunt.
 
 Mystery Hunt was launched in 1981 and is widely regarded as one of the oldest and most complex puzzlehunts in the world. It attracts more than 2,000 people every year and has inspired similar competitions at universities, companies and cities around the world.
