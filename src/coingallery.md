@@ -8,9 +8,9 @@ Rahul Sridhar maintains [a map of where all coins have been found](https://forte
 
 [![](images/coins/2022.jpg)](images/coins/2022.jpg)
 
-_Material: unknown, technique: unknown. If you have more information about this coin, please [contact us](mailto:puzzle@mit.edu)._
+_Coin material: gold-plated brass, technique: die stamping, antiquing. Pin material: bronze-plated stamped iron base, technique: soft enamel._
 
-The 2022 Mystery Hunt took place in Bookspace, an interdimensional nexus of all books and all their characters. Teams saw bits of Bookspace flying into the universe through the beginning of the hunt, investigated the causes of Bookspace's gradual destruction, and eventually fixing it. To get home, teams needed to use a tollbooth; but needed to find a coin to use it. The coin was recovered by assembling the team's story of their adventure through Bookspace into a "litcoin".
+The 2022 Mystery Hunt took place in Bookspace, an interdimensional nexus of all books and all their characters. Teams saw bits of Bookspace flying into the universe through the beginning of the hunt, investigated the causes of Bookspace's gradual destruction, and eventually fixing it. To get home, teams needed to use a tollbooth; but needed to find a coin to use it. The coin was recovered by assembling the team's story of their adventure through Bookspace into a "litcoin". The pin was the reward for finishing the first two "acts" of the hunt.
 
 ## 2021
 
