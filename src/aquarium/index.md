@@ -8,6 +8,7 @@ Are you an MIT student interested in helping with the hunt? We'd always apprecia
 
 ### Archive
 
+- The [2022 Aquarium Puzzle Hunt](2022/index.html) asked teams to help Patrick make Spongebob feel better.
 - The [2021 Aquarium Puzzle Hunt](2021/index.html) asked teams to discover the secrets of the Coral League, a group of eight universities.
 - The Aquarium Puzzle Hunt did not run in 2020.
 - The [2019 Aquarium Puzzle Hunt](2019/index.html) asked teams to solve some puzzles written through a cultural scholarship program.
