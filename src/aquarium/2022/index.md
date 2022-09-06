@@ -15,13 +15,13 @@
 - [META – Pump Up](meta.pdf)
 - [Feedback](feedback.pdf)
 
-<!--
 ## Simulator
 
 During the hunt, teams could text a phone number to submit answers. That number is no longer functional, but puzzlers can use the simulator below as a replacement.
 
+(Note that the functionality described in A Warm Feeling does not work.)
+
 <div id="simulator"></div>
--->
 
 ## Contributors
 

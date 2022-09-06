@@ -69,17 +69,13 @@ const Countdown = () => {
   `;
 };
 
-const Hunt = () => {
-  const img = css`
-    height: auto;
-    width: 8rem;
-  `;
-
+const Action = ({ children }) => {
   const action = css`
     align-items: center;
     display: flex;
     justify-content: space-around;
     width: 100%;
+    margin-top: 1rem;
 
     .button {
       width: 15rem;
@@ -92,6 +88,15 @@ const Hunt = () => {
         margin-bottom: 1rem;
       }
     }
+  `;
+
+  return html` <div class=${action}>${children}</div> `;
+};
+
+const Hunt = () => {
+  const img = css`
+    height: auto;
+    width: 8rem;
   `;
 
   const firstAction = () => {
@@ -112,23 +117,32 @@ const Hunt = () => {
     <img class=${img} src="images/frontcoin.png" alt="A penny." />
     <${Countdown} />
     <!-- prettier-ignore -->
-    <div class=${action}>
+    <${Action}>
       ${firstAction()}
       <a class="button" href="https://giving.mit.edu/form?fundId=2720842"
         >Donate to the Mystery Hunt / Puzzle Club</a
       >
-    </div>
+    </${Action}>
   `;
 };
 
 const Club = () => {
+  const img = css`
+    height: auto;
+    width: 20rem;
+  `;
+
   const caption = css`
     color: #fffa;
     margin: 0;
+
+    a {
+      border-bottom: none;
+    }
   `;
 
   return html`
-    <img src="images/club.jpg" alt="A person pieces together paper cutouts." />
+    <img class=${img} src="images/club.jpg" alt="A person pieces together paper cutouts." />
     <!-- prettier-ignore -->
     <p class=${caption}>
       Photo: Dominick Reuter, <a
@@ -136,6 +150,11 @@ const Club = () => {
         CC BY-NC-ND 3.0</a
       >.
     </p>
+    <${Action}>
+      <a class="button" href="https://groups.mit.edu/webmoira/list/puzzle-club-announce"
+        >Subscribe for announcements</a
+      >
+    </${Action}>
   `;
 };
 
