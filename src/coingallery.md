@@ -42,7 +42,7 @@ The 2019 Mystery Hunt took place on the 100th anniversary of the Great Molasses 
 
 [![](images/coins/2018-small.jpg)](images/coins/2018-full.jpg)
 
-_Material: acrylic, technique: casting._
+_Material: cast glass, technique: bubblegram._
 
 The 2018 Mystery Hunt was themed around the Pixar movie "Inside Out." Solvers were inside of the mind of Ms. Terry Hunter, working to recover the core memories of her four personality islands in order to help her team win their own, fake, mystery hunt. The coin was a new core memory orb that was generated in Terry's mind because her team won Mystery Hunt. The orb was colored yellow (Joy) for the winning team, but colored yellow and blue (Joy and Sadness) for all subsequent teams.
 
