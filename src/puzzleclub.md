@@ -35,13 +35,15 @@ Reach us at [puzzle-club-exec@mit.edu](mailto:puzzle-club-exec@mit.edu)!
 Join our event announcement list: [puzzle-club-announce@mit.edu](https://groups.mit.edu/webmoira/list/puzzle-club-announce)  
 Join our club list: [puzzle-club@mit.edu](https://groups.mit.edu/webmoira/list/puzzle-club)
 
+You can also [read our constitution](https://docs.google.com/document/d/e/2PACX-1vSrzFOZPJlqFWHQr8vX2e5csL1xRoMYKiRVMPwolUiNjEOeaxdEj2W8Dfecr-fL91qhYOVoNoMZvXFu/pub).
+
 ## Exec
 
 <div class="grid">
 <div class="exec">
 <h4>President</h4>
-<div class="container"><img src="images/exec/julia.jpg"></div>
-<p>Julia Wagner</p>
+<div class="container"><img src="images/exec/walker.jpg"></div>
+<p>Walker Anderson</p>
 </div>
 <div class="exec">
 <h4>Treasurer</h4>
@@ -50,8 +52,8 @@ Join our club list: [puzzle-club@mit.edu](https://groups.mit.edu/webmoira/list/p
 </div>
 <div class="exec">
 <h4>Secretary</h4>
-<div class="container"><img src="images/exec/walker.jpg"></div>
-<p>Walker Anderson</p>
+<div class="container"><img src="images/frontcoin.jpg"></div>
+<p>Yuru Niu</p>
 </div>
 <div class="exec">
 <h4>Webmaster</h4>
@@ -59,14 +61,9 @@ Join our club list: [puzzle-club@mit.edu](https://groups.mit.edu/webmoira/list/p
 <p>CJ Quines</p>
 </div>
 <div class="exec">
-<h4>Outreach Chair</h4>
-<div class="container"><img src="images/frontcoin.png"></div>
-<p>Mriganka Mandal</p>
-</div>
-<div class="exec">
 <h4>Member-at-Large</h4>
 <div class="container"><img src="images/frontcoin.png"></div>
-<p>Yuru Niu</p>
+<p>Wesley Zhang</p>
 </div>
 </div>
 
