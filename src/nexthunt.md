@@ -1,18 +1,16 @@
-# 2022 MIT Mystery Hunt
+# 2023 MIT Mystery Hunt
 
 ## The Next Hunt
 
 Greetings puzzlers!
 
-MIT Puzzle Club and Palindrome are thrilled to announce that the 42nd annual MIT Mystery Hunt will begin at noon ET on Friday, January 14th, 2022. Wrap-up will take place at noon ET on Monday, January 17th, 2022.
+MIT Puzzle Club and Palindrome are thrilled to announce that the 43nd annual MIT Mystery Hunt will begin at noon ET on Friday, January 13th, 2023. Wrap-up will take place at noon ET on Monday, January 16th, 2023.
 
-Star Rats, the official prologue to the 2022 MIT Mystery Hunt, is now available [here](https://www.starrats.org/). This set of puzzles is purely optional and will not help or hinder your progress in Hunt.
-
-Please view our [official registration site](https://www.mitmh2022.com/) with more details, and feel free to email us at [puzzle@mit.edu](mailto:puzzle@mit.edu) with any additional questions.
+Please view our [official registration site](https://www.mitmh2023.com/) with more details, and feel free to email us at [puzzle@mit.edu](mailto:puzzle@mit.edu) with any additional questions.
 
 ## How to Participate
 
-**_Registration:_** Please view the [registration website](https://www.mitmh2022.com/) for more details.
+**_Registration:_** Please view the [registration website](https://www.mitmh2023.com/) for more details.
 
 ## Contribute To Or Be Involved In Mystery Hunt
 

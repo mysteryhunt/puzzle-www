@@ -5,8 +5,8 @@ import { Footer } from "./Footer.js";
 
 const timeLeft = () => {
   const now = new Date();
-  const huntStart = new Date("14 Jan 2022, 12:00:00 EST");
-  const huntEnd = new Date("17 Jan 2022, 12:00:00 EST");
+  const huntStart = new Date("13 Jan 2023, 12:00:00 EST");
+  const huntEnd = new Date("15 Jan 2023, 12:00:00 EST");
   const started = huntStart < now;
   const ended = huntEnd < now;
   const dSeconds = (started ? huntEnd - now : huntStart - now) / 1000;
@@ -47,7 +47,7 @@ const Countdown = () => {
   `;
 
   const message =
-    "Mystery Hunt 2022 " +
+    "Mystery Hunt 2023 " +
     (count.ended ? "has ended." : count.started ? "ends in" : "begins in");
 
   if (count.ended) return html`<p>${message}</p>`;
@@ -107,7 +107,7 @@ const Hunt = () => {
         >Subscribe for Hunt updates</a
       >`;
     } else {
-      return html`<a class="button" href="https://www.mitmh2022.com/"
+      return html`<a class="button" href="https://www.mitmh2023.com/"
         >Register now</a
       >`;
     }
