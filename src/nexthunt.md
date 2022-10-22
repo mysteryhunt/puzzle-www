@@ -4,7 +4,7 @@
 
 Greetings puzzlers!
 
-MIT Puzzle Club and Palindrome are thrilled to announce that the 43nd annual MIT Mystery Hunt will begin at noon ET on Friday, January 13th, 2023. Wrap-up will take place at noon ET on Monday, January 16th, 2023.
+MIT Puzzle Club and teammate are thrilled to announce that the 43nd annual MIT Mystery Hunt will begin at noon ET on Friday, January 13th, 2023. Wrap-up will take place at noon ET on Monday, January 16th, 2023.
 
 Please view our [official registration site](https://www.mitmh2023.com/) with more details, and feel free to email us at [puzzle@mit.edu](mailto:puzzle@mit.edu) with any additional questions.
 
@@ -28,4 +28,4 @@ If you would like to receive email updates about Hunt, join the puzzle-hunters m
 
 Thanks, and we look forward to seeing you in January!
 
-Puzzle Club & Palindrome
+Puzzle Club & teammate
