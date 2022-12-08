@@ -25,7 +25,7 @@ const Footer = () => {
         Mystery Hunt / Puzzle Club
       </p>
       <p>
-        <a href="contact.html">Contact</a> · <a href="https://accessibility.mit.edu/">Accessibility</a>
+        <a href="/contact.html">Contact</a> · <a href="https://accessibility.mit.edu/">Accessibility</a>
       </p>
     </footer>
   `;
