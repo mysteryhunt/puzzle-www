@@ -3,7 +3,6 @@
 This archive is a work-in-progress: a few hunts are still missing bits and pieces, and we would like to make them as complete as possible. If you have any of the following, please [let us know](contact.html):
 
 * 2008: The physical exhibit for Dossier 7
-* 2007: The videos that accompany Metas 2 though 10
 * 1999: Parts of the Nagoya, Nairobi, and San Francisco puzzles. Solutions to Toronto, Chihuahua, Athens, Colombo, Warrant 3.2, Nagoya, Nairobi, and San Francisco.
 * 1994-1998: The archivists are currently updating these Hunts with new information. Once this is finished, we will list what we are still missing.
 * 1993: The computerized portion of the hunt (accessed by "telnet ninja 3051") and all of the solutions.
