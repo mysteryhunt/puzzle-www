@@ -58,9 +58,9 @@ The 2017 Mystery Hunt was based on Dungeons and Dragons, the role-playing game. 
 
 [![](images/coins/2016.jpg)](images/coins/2016.jpg)
 
-_Material: unknown, technique: unknown. If you have more information about this coin, please [contact us](mailto:puzzle@mit.edu)._
+_Material: unknown, technique: cast, plated detailing. If you have more information about this coin, please [contact us](mailto:puzzle@mit.edu)._
 
-The 2016 Mystery Hunt was themed around the movie Inception. Teams were trapped in several layers of dreams and needed to wake a series of notable sleepers in order to escape. Once all 10 sleepers were awakened simultaneously, teams completed 10 mini-runarounds ending up in 4 different locations. Each location provided 1/4th of a small puzzle. After reconvening in Lobby 7 to put it together, teams learned that the ultimate dreamer was The Alchemist. The coin was found within the Alchemist sculpture by Setec Astronomy at 6:53 PM on Sunday.
+The 2016 Mystery Hunt was themed around the movie Inception. Teams that finished the opening round found a "lead" version of the center part of the coin, just the "top" section, as they had been named "Top Dog" of the dog show. It's revealed that teams were trapped in several layers of dreams and needed to wake a series of notable sleepers in order to escape. Once all 10 sleepers were awakened simultaneously, teams completed a final runaround to learn that the ultimate dreamer was The Alchemist. The smaller coin has turned into gold, per the successful inception of the Alchemist's secrets.
 
 ## 2015
 
