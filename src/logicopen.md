@@ -1,11 +1,23 @@
 # Logic Puzzle Open
 
-April 22, room number, starting blah
+The competition will take place in 3-270 on April 22 from 10 AM to 5 PM.
 
-Event will last several hours!
+Prizes will be given to top solvers!
 
-Join Puzzle Club for an afternoon full of logic puzzles! From more familiar Sudoku to the depths of Japanese genres, you'll be sure to find your next puzzle obsession.
+<div style="font-size: 3em; text-align: center;">
+<a href="https://forms.gle/dxvCa7d85RZKKRKC7">Register now!</a>
+</div>
 
-Prizes will be awarded to top solvers!
+We're planning to have several rounds of competition, each with a variety of logic puzzle genres. If you're unfamiliar with logic puzzles, https://www.gmpuzzles.com/blog/ is a good place to start; it has a long backlog of puzzles, and some of the recent puzzles have solving videos. The list of specific puzzle types in the competition will appear later. Puzzles in the competition are written by puzzle constructors djmathman, jkittykitkat, and ft029.
 
-[Register now!](https://docs.google.com/forms/d/1fCF8_aloOlYk2cGCUgDztgyBrN4Vf1vPyEymAI2spK4/edit)
+We're planning the following schedule:
+
+- Round 1: 10 - 10:50
+- Round 2: 11 - 11:50
+- Lunch Break: 12 - 1
+- Round 3: 1 - 1:50
+- Round 4: 2 - 2:50
+- Fun Event: 3 - 3:50
+- Award Ceremony: 4 - 4:15
+
+If you have any questions, feel free to email us at puzzle-club-exec@mit.edu!
