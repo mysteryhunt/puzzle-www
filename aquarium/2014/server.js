@@ -18,7 +18,7 @@ const ANSWERS = {
   META: "HARMONIZING",
 };
 
-const STORYLINE = {
+const LINEAR_STORYLINE = {
   1: "By the way, R1=13",
   2: "By the way, R2=19",
   3: "By the way, R3=25",
@@ -27,13 +27,12 @@ const STORYLINE = {
   6: "By the way, W3=18",
   7: "By the way, B1=26",
   8: "By the way, B2=0",
-  9: "",
 };
 
 const SPECIAL_MESSAGES = {
   4: {
     HEALTHKIOSK:
-      "Sorry, HEALTH KIOSK is on the right track but not the final answer. Look at the puzzle again.",
+      "Sorry, HEALTHKIOSK is on the right track but not the final answer. Look at the puzzle again.",
   },
   1: {
     DIAGONAL:
@@ -41,7 +40,6 @@ const SPECIAL_MESSAGES = {
   },
   9: {
     MITMASCOT: "MITMASCOT is not the final answer. Keep thinking.",
-    "MIT MASCOT": "MIT MASCOT is not the final answer. Keep thinking.",
     TIM: "TIM is the MIT mascot, but what kind of animal is he?",
   },
   7: {
@@ -102,9 +100,9 @@ window.getReply = (message) => {
   if (answered.has(puzzle)) {
     return template(STOCK_MESSAGES.already_answered, { puzzle_number: puzzle });
   }
-  const storyline = STORYLINE[puzzle] ?? "";
   if (answer === normalize(ANSWERS[puzzle])) {
     answered.add(puzzle);
+    const storyline = LINEAR_STORYLINE[answered.size] ?? "";
     const num_solved = answered.size;
     if (num_solved >= N_GATE) {
       return template(STOCK_MESSAGES.final_puzzle, {

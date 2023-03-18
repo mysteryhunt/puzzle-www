@@ -8,7 +8,7 @@ const N_GATE = 8;
 const ANSWERS = {
   1: "DCCOMICS",
   2: "MUSTERED",
-  3: "AIRBORNE",
+  3: "PRETTIER",
   4: "HEADACHE",
   5: "DECANTER",
   6: "RANCHERO",
@@ -17,19 +17,25 @@ const ANSWERS = {
   META: "FLATLAND",
 };
 
-const STORYLINE = {
-  1: "Your additional clue is DIABOLIC",
-  2: "Your additional clue is MENORAHS",
-  3: "Your additional clue is MEANDER",
-  4: "Your additional clue is HYDRANTS",
-  5: "Your additional clue is UPDRAFTS",
-  6: "Your additional clue is GRAVITON",
-  7: "Your additional clue is TELEPATH",
+const LINEAR_STORYLINE = {
+  1: "Apparently someone in customer support taped DIABOLIC to their back.",
+  2: "What were MENORAHS doing there? Remind me to ask Peter about them...",
+  3: "Looks like someone pretty knowledgeable messed with the DEFAULTS on the piffy.",
+  4: "Turns out this customer has the same favorite brand of HYDRANTS as you!.",
+  5: "The customer must have been from the company, they mentioned the UPDRAFTS in the support offices.",
+  6: "GRAVITON. Remember that one time you became obsessed over them for a week and ...",
+  7: "The customer was a TELEPATH or something, mentioned and thanked you by name!"
 };
 
 const SPECIAL_MESSAGES = {
   1: {
     DC: "Close! The answer has two words.",
+  },
+  2: {
+    MUSTARD: "Close! Take a closer look.",
+  },
+  4: {
+    NINTENDO: "Close! Take a closer look.",
   },
 };
 
@@ -85,9 +91,9 @@ window.getReply = (message) => {
   if (answered.has(puzzle)) {
     return template(STOCK_MESSAGES.already_answered, { puzzle_number: puzzle });
   }
-  const storyline = STORYLINE[puzzle] ?? "";
   if (answer === normalize(ANSWERS[puzzle])) {
     answered.add(puzzle);
+    const storyline = LINEAR_STORYLINE[answered.size] ?? "";
     const num_solved = answered.size;
     if (num_solved >= N_GATE) {
       return template(STOCK_MESSAGES.final_puzzle, {
