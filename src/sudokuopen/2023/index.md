@@ -10,3 +10,14 @@
 - [Beginner Team Puzzles](b-team-puzzles.pdf)
 - [Experienced Team Rules](a-team-rules.pdf)
 - [Experienced Team Puzzles](a-team-puzzles.pdf)
+
+## Contributors
+
+- Clover Moon
+- Phoebe Wang
+- Rebecca Chang
+- Tim Miller
+- Tyler Chen
+- Tom Collyer
+- Walker Anderson
+- Wayne Zhao
