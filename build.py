@@ -100,7 +100,7 @@ def build_index(watch):
 
 def build_files(watch):
     """
-    Builds all files, building only updated files if watch = True.
+    Builds all files ending with .md, building only updated files if watch = True.
     """
     for source in glob.iglob("src/**/*.md", recursive=True):
         dirname, basename = os.path.split(source)

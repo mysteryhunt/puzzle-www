@@ -6,6 +6,8 @@ Code for the MIT Mystery Hunt / Puzzle Club website. On the Puzzle Club Athena l
 
 To edit a page, **do not edit the HTML directly**. Instead, edit the markdown file under the `src` directory.
 
+The `src` directory should never have any non-markdown files. It should all go in the top-level directory.
+
 - To install dependencies, run `pip install markdown`.
 - To build the site, run `python3 build.py`.
 - To test the site on your computer, run `python3 build.py watch`. It will open a server at [http://localhost:8000/](http://localhost:8000/), which you can open in your browser to view the site. The script will update the files of the website every second.

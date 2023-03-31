@@ -20,5 +20,3 @@ RedirectMatch permanent ^(/~?puzzle(/www)?)/26/lancebishopsqueasyreaction\.png$ 
 
 Redirect permanent /~puzzle https://puzzles.mit.edu
 Redirect permanent /puzzle/www https://puzzles.mit.edu
-
-RedirectTemp /logicopen https://puzzles.mit.edu/logicopen.html

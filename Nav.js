@@ -140,16 +140,16 @@ const Nav = () => {
         >Menu</a
       >
       <ul class=${menu}>
-        <${Submenu} parent="About">
+        <${Submenu} parent="Mystery Hunt">
           <li><a href="/nexthunt.html">Next Hunt</a></li>
-          <li><a href="/puzzleclub.html">Puzzle Club</a></li>
           <li><a href="/history.html">Hunt History</a></li>
-        </${Submenu}>
-        <${Submenu} parent="Archives">
           <li><a href="/huntsbyyear.html">Hunts by Year</a></li>
           <li><a href="/coingallery.html">Coin Gallery</a></li>
-          <li><a href="/photos.html">Hunt Photos</a></li>
+        </${Submenu}>
+        <${Submenu} parent="Puzzle Club">
           <li><a href="/aquarium/">Aquarium Hunt</a></li>
+          <li><a href="/logicopen/">Logic Puzzle Open</a></li>
+          <li><a href="/sudokuopen/">MIT Sudoku Open</a></li>
         </${Submenu}>
         <${Submenu} parent="Resources">
           <li><a href="/resources.html">For Beginners</a></li>
