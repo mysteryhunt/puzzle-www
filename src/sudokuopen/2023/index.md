@@ -10,7 +10,7 @@
 - [Beginner Team Puzzles](b-team-puzzles.pdf)
 - [Experienced Team Rules](a-team-rules.pdf)
 - [Experienced Team Puzzles](a-team-puzzles.pdf)
-  - Erratum: For the 6x6 A grid, digits may repeat in each cage.
+    - Erratum: For the 6x6 A grid, digits may repeat in each cage.
 
 ## Contributors
 
