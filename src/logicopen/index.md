@@ -16,3 +16,13 @@ Prizes will be given to top solvers!
 If you're interested in practicing puzzles before the competition, two good sources are [puzz.link](https://puzz.link/), where you can search for specific genres, and [gmpuzzles.com](https://www.gmpuzzles.com/blog/), which features fewer genres but has video walkthroughs for many of its recent puzzles.
 
 If you have any questions, feel free to email us at puzzle-club-exec@mit.edu!
+
+## Schedule
+
+- Round 1: 10 - 10:50
+- Round 2: 11 - 11:50
+- Lunch Break: 12 - 1
+- Round 3: 1 - 1:50
+- Round 4: 2 - 2:50
+- Fun Event: 3 - 3:50
+- Award Ceremony: 4 - 4:15
