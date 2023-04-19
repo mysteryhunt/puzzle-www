@@ -20,6 +20,11 @@ If you have any questions, feel free to email us at puzzle-club-exec@mit.edu!
 
 ### Changes
 
+Changes made on April 19, 12:10 PM:
+
+- Swapped point values of Choco Banana 2 and 3.
+- Swapped point values of FourCells 2 and 3.
+
 Changes made on April 18, 11:40 PM:
 
 - Updated 3:00 PM – 3:50 PM event in schedule
