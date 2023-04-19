@@ -10,12 +10,22 @@ Prizes will be given to top solvers!
 
 ## Links
 
-- <a href="instructions.pdf">Instruction Booklet</a></li>
-- <a href="https://tim-tickets.atlas-apps.mit.edu/9JMHHDeTnM9vdqCF8">Tim Tickets</a></li>
+- <a href="instructions.pdf">Instruction Booklet</a>
+- <a href="points.pdf">Problem Booklet covers, with point values</a>
+- <a href="https://tim-tickets.atlas-apps.mit.edu/9JMHHDeTnM9vdqCF8">Tim Tickets</a>
 
 If you're interested in practicing puzzles before the competition, two good sources are [puzz.link](https://puzz.link/), where you can search for specific genres, and [gmpuzzles.com](https://www.gmpuzzles.com/blog/), which features fewer genres but has video walkthroughs for many of its recent puzzles.
 
 If you have any questions, feel free to email us at puzzle-club-exec@mit.edu!
+
+### Instruction Booklet Changes
+
+Changes made on April 18, 11:40 PM:
+
+- Updated 3:00 PM – 3:50 PM event in schedule
+- Added paragraph about points in Competition Rules
+- Added Division and Prizes section in page 2
+- Clarified Midloop rules
 
 ## Schedule
 
@@ -24,5 +34,5 @@ If you have any questions, feel free to email us at puzzle-club-exec@mit.edu!
 - Lunch Break: 12 - 1
 - Round 3: 1 - 1:50
 - Round 4: 2 - 2:50
-- Fun Event: 3 - 3:50
+- Constructor Q&A and Contestant Social: 3 - 3:50
 - Award Ceremony: 4 - 4:15
