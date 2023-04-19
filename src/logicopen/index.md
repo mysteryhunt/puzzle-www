@@ -18,7 +18,7 @@ If you're interested in practicing puzzles before the competition, two good sour
 
 If you have any questions, feel free to email us at puzzle-club-exec@mit.edu!
 
-### Instruction Booklet Changes
+### Changes
 
 Changes made on April 18, 11:40 PM:
 
@@ -26,6 +26,7 @@ Changes made on April 18, 11:40 PM:
 - Added paragraph about points in Competition Rules
 - Added Division and Prizes section in page 2
 - Clarified Midloop rules
+- Uploaded Problem Booklet covers
 
 ## Schedule
 
