@@ -10,9 +10,10 @@ Prizes will be given to top solvers!
 
 ## Links
 
-- <a href="instructions.pdf">Instruction Booklet</a>
-- <a href="points.pdf">Problem Booklet covers, with point values</a>
-- <a href="https://tim-tickets.atlas-apps.mit.edu/9JMHHDeTnM9vdqCF8">Tim Tickets</a>
+- [Instruction Booklet](instructions.pdf)
+- [Problem Booklet covers, with point values](points.pdf)
+- [Tim Tickets](https://tim-tickets.atlas-apps.mit.edu/9JMHHDeTnM9vdqCF8)
+- [Map](https://drive.google.com/file/d/1lYjAItf5PBJEXtffmPz5nQ0_3QCW9J6I/view?usp=sharing)
 
 If you're interested in practicing puzzles before the competition, two good sources are [puzz.link](https://puzz.link/), where you can search for specific genres, and [gmpuzzles.com](https://www.gmpuzzles.com/blog/), which features fewer genres but has video walkthroughs for many of its recent puzzles.
 
