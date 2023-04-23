@@ -16,6 +16,8 @@
 - [Experienced Team Puzzles](a-team-puzzles.pdf)
     - Erratum: For the 6x6 A grid, digits may repeat in each cage.
 
+See you all in 2024!
+
 ## 2023 Contributors
 
 - Clover Moon

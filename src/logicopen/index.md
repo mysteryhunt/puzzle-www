@@ -15,6 +15,8 @@
 - [Solutions](solutions.pdf)
 - [Awards](awards.pdf)
 
+See you all in 2024!
+
 ## 2023 Information
 
 The competition will take place in 3-270 on April 22 from 10 AM to 5 PM.
