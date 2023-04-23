@@ -6,14 +6,14 @@
 
 ## 2023 Puzzles
 
-- [Instruction Booklet](instructions.pdf)
-- [Classics](classics.pdf)
-- [Variants I](variants-i.pdf)
-- [Variants II](variants-ii.pdf)
-- [Beginner Team Rules](b-team-rules.pdf)
-- [Beginner Team Puzzles](b-team-puzzles.pdf)
-- [Experienced Team Rules](a-team-rules.pdf)
-- [Experienced Team Puzzles](a-team-puzzles.pdf)
+- [Instruction Booklet](2023/instructions.pdf)
+- [Classics](2023/classics.pdf)
+- [Variants I](2023/variants-i.pdf)
+- [Variants II](2023/variants-ii.pdf)
+- [Beginner Team Rules](2023/b-team-rules.pdf)
+- [Beginner Team Puzzles](2023/b-team-puzzles.pdf)
+- [Experienced Team Rules](2023/a-team-rules.pdf)
+- [Experienced Team Puzzles](2023/a-team-puzzles.pdf)
     - Erratum: For the 6x6 A grid, digits may repeat in each cage.
 
 See you all in 2024!
