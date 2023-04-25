@@ -14,6 +14,10 @@ If there are things in the archive that make solving puzzles after-the-fact part
 
 [Devjoe](http://devjoe.livejournal.com), a veteran Mystery Hunt participant and puzzler, has created a massive puzzle index of all puzzles between 1994 to now. The index is currently located [here](https://devjoe.appspot.com/huntindex/).
 
+## 2023
+
+[Mystery Hunt 2023](2023/) started with teams working through a museum-themed round, written by a new AI, MATE, before inadvertently discovering a hidden factory. Within the factory, teams found several more "rejected" AIs, whose rounds they had to complete to build a new and improved factory.
+
 ## 2022
 
 [Mystery Hunt 2022](2022/) asked teams to save Bookspace, an interdimensional space of all books and their characters, from disappearing.
