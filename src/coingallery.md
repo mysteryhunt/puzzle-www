@@ -4,6 +4,13 @@ The goal of each Mystery Hunt is to locate an object hidden somewhere on MIT cam
 
 Rahul Sridhar maintains [a map of where all coins have been found](https://fortenf.org/mh-coin-map/).
 
+## 2023
+[![](images/coins/2023.png)](images/coins/2023.png)
+
+_Coin material: silver-plated brass. Technique: die stamping, antiquing._
+
+The 2023 Mystery Hunt began with teammate kicking off a museum-themed hunt entirely written by their new puzzle-writing AI, MATE. Over the weekend, teams went behind the scenes and explored The Puzzle Factory, where all Mystery Hunt puzzles are made. After teams reactivated a set of rejected puzzle-writing AIs, teammate shut everything down and it was up to teams to save Mystery Hunt by restoring the factory with their new AI friends. When they finished, teams assembled one final machine in the revived puzzle factory and used it to crank out a new puzzle of their own: the coin.
+
 ## 2022
 
 [![](images/coins/2022.jpg)](images/coins/2022.jpg)
