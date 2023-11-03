@@ -37,28 +37,23 @@ We would love to have you join! Please reach out with any questions. If you're a
 <div class="grid">
 <div class="exec">
 <h4>President</h4>
-<div class="container"><img src="images/exec/walker.jpg"></div>
-<p>Walker Anderson</p>
-</div>
-<div class="exec">
-<h4>Treasurer</h4>
-<div class="container"><img src="images/frontcoin.png"></div>
-<p>Wayne Zhao</p>
-</div>
-<div class="exec">
-<h4>Secretary</h4>
 <div class="container"><img src="images/frontcoin.png"></div>
 <p>Lumia Neyo</p>
 </div>
 <div class="exec">
-<h4>Webmaster</h4>
-<div class="container"><img src="images/exec/cj.jpg"></div>
-<p>CJ Quines</p>
+<h4>Treasurer</h4>
+<div class="container"><img src="images/frontcoin.png"></div>
+<p>Rachel Ai</p>
 </div>
 <div class="exec">
-<h4>Member-at-Large</h4>
+<h4>Webmaster</h4>
+<div class="container"><img src="images/exec/adal.png"></div>
+<p>Adalbert Zollern</p>
+</div>
+<div class="exec">
+<h4>Event Planner</h4>
 <div class="container"><img src="images/frontcoin.png"></div>
-<p>Wesley Zhang</p>
+<p>Rebecca Chang</p>
 </div>
 </div>
 
