@@ -5,8 +5,8 @@ import { Footer } from "./Footer.js";
 
 const timeLeft = () => {
   const now = new Date();
-  const huntStart = new Date("13 Jan 2023, 12:00:00 EST");
-  const huntEnd = new Date("16 Jan 2023, 10:00:00 EST");
+  const huntStart = new Date("12 Jan 2024, 12:00:00 EST");
+  const huntEnd = new Date("15 Jan 2024, 10:00:00 EST");
   const started = huntStart < now;
   const ended = huntEnd < now;
   const dSeconds = (started ? huntEnd - now : huntStart - now) / 1000;
@@ -47,7 +47,7 @@ const Countdown = () => {
   `;
 
   const message =
-    "Mystery Hunt 2023 " +
+    "Mystery Hunt 2024 " +
     (count.ended ? "has ended." : count.started ? "ends in" : "begins in");
 
   if (count.ended) return html`<p>${message}</p>`;

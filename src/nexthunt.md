@@ -1,16 +1,16 @@
-# 2023 MIT Mystery Hunt
+# 2024 MIT Mystery Hunt
 
 ## The Next Hunt
 
 Greetings puzzlers!
 
-MIT Puzzle Club and teammate are thrilled to announce that the 43nd annual MIT Mystery Hunt will begin at noon ET on Friday, January 13th, 2023. Wrap-up will take place at noon ET on Monday, January 16th, 2023.
+MIT Puzzle Club and The Team Formerly Known As The Team Formerly Known As The Team Formerly Known As The Team Formerly Known As The Team Formerly Known As The Team Formerly Known As The Team To Be Named Later are thrilled to announce that the 44th annual MIT Mystery Hunt will begin at noon ET on Friday, January 12th, 2024. Wrap-up will take place at noon ET on Monday, January 15th, 2024.
 
-Please view our [official registration site](https://www.mitmh2023.com/) with more details, and feel free to email us at [puzzle@mit.edu](mailto:puzzle@mit.edu) with any additional questions.
+Please view our [official registration site](https://www.mitmh2024.com/) with more details, and feel free to email us at [puzzle@mit.edu](mailto:puzzle@mit.edu) with any additional questions.
 
 ## How to Participate
 
-**_Registration:_** Please view the [registration website](https://www.mitmh2023.com/) for more details.
+**_Registration:_** Please view the [registration website](https://www.mitmh2024.com/) for more details.
 
 ## Contribute To Or Be Involved In Mystery Hunt
 
