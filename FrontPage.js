@@ -107,7 +107,7 @@ const Hunt = () => {
         >Subscribe for Hunt updates</a
       >`;
     } else {
-      return html`<a class="button" href="https://www.mitmh2023.com/"
+      return html`<a class="button" href="https://www.mitmh2024.com/"
         >Register now</a
       >`;
     }
