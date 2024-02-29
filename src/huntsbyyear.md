@@ -2,17 +2,22 @@
 
 This archive is a work-in-progress: a few hunts are still missing bits and pieces, and we would like to make them as complete as possible. If you have any of the following, please [let us know](contact.html):
 
-* 2008: The physical exhibit for Dossier 7
-* 1999: Parts of the Nagoya, Nairobi, and San Francisco puzzles. Solutions to Toronto, Chihuahua, Athens, Colombo, Warrant 3.2, Nagoya, Nairobi, and San Francisco.
-* 1994-1998: The archivists are currently updating these Hunts with new information. Once this is finished, we will list what we are still missing.
-* 1993: The computerized portion of the hunt (accessed by "telnet ninja 3051") and all of the solutions.
-* 1988: Missing everything.
+- 2008: The physical exhibit for Dossier 7
+- 1999: Parts of the Nagoya, Nairobi, and San Francisco puzzles. Solutions to Toronto, Chihuahua, Athens, Colombo, Warrant 3.2, Nagoya, Nairobi, and San Francisco.
+- 1994-1998: The archivists are currently updating these Hunts with new information. Once this is finished, we will list what we are still missing.
+- 1993: The computerized portion of the hunt (accessed by "telnet ninja 3051") and all of the solutions.
+- 1988: Missing everything.
 
 We are also missing solutions for the Chess Competitions and the hunts from 1981-1983, 1985, and 1989-1992. Additionally, during the early years of the Mystery Hunt, there were often two simultaneous hunts (one for individuals and one for teams, or one for small teams and one for large teams, etc). Since we have no way of knowing which years had two hunts, the archive may have gaps of which we are unaware.
 
 If there are things in the archive that make solving puzzles after-the-fact particularly bad (either because the puzzle page reveals information that would not have existed during the hunt proper, or because the information needed to solve the puzzle exists only in the solution page), please [let us know](mailto:puzzle@mit.edu).
 
 [Devjoe](http://devjoe.livejournal.com), a veteran Mystery Hunt participant and puzzler, has created a massive puzzle index of all puzzles between 1994 to now. The index is currently located [here](https://devjoe.appspot.com/huntindex/).
+
+<!--
+## 2024
+
+[Mystery Hunt 2024](2024/) first tasked teams with escaping Hades after being banished there by the Greco-Roman pantheon for killing the god Pluto, then asked teams to revive Pluto by finding his "shades" scattered across the US.-->
 
 ## 2023
 

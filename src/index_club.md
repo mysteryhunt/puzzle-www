@@ -48,7 +48,7 @@ We would love to have you join! Please reach out with any questions. If you're a
 <div class="exec">
 <h4>Webmaster</h4>
 <div class="container"><img src="images/exec/adal.png"></div>
-<p>Adalbert Zollern</p>
+<p>Wesley "Adalbert Zollern" Zhang</p>
 </div>
 <div class="exec">
 <h4>Event Planner</h4>
