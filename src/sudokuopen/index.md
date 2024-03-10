@@ -1,6 +1,15 @@
 # MIT Sudoku Open
 
-## 2024 Information
+## Information
+
+The 2024 MIT Sudoku Open has concluded.
+
+## Archives
+
+- [2024 MIT Sudoku Open](2024/index.html)
+- [2023 MIT Sudoku Open](2023/index.html)
+
+<!--Saving this text for next time
 
 The competition will take place in 36-112 on March 2 from 10 AM to 4 PM.
 
@@ -14,8 +23,4 @@ We are planning on having a couple individual competition rounds (solving on you
 
 We're designing this contest to accommodate a wide range of different sudoku solving proficiencies. As such, you can sign up for the "beginner" division or the "experienced" division -- which will factor into different placements/scoring.
 
-If you have any questions, feel free to email us at puzzle-club-exec@mit.edu!
-
-## Archives
-
-- [2023 MIT Sudoku Open](2023/index.html)
+If you have any questions, feel free to email us at puzzle-club-exec@mit.edu! -->
