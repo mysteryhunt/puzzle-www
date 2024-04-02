@@ -4,6 +4,8 @@
 
 The competition will take place in 45-102 on April 6 from 10 AM to 5 PM.
 
+The [Instruction Booklet](ib.pdf) is now available.
+
 Prizes will be given to top solvers!
 
 <div style="font-size: 3em; text-align: center;">
