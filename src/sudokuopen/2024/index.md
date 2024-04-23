@@ -12,7 +12,7 @@
 
 ## Contributors
 
-- DJ Altizio
+- David Altizio
 - Walker Anderson
 - Alexander Angelov
 - Rebecca Chang

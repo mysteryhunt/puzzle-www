@@ -38,7 +38,7 @@ We would love to have you join! Please reach out with any questions. If you're a
 <div class="exec">
 <h4>President</h4>
 <div class="container"><img src="images/frontcoin.png"></div>
-<p>Lumia Neyo</p>
+<p>Rebecca Chang</p>
 </div>
 <div class="exec">
 <h4>Treasurer</h4>
@@ -51,9 +51,19 @@ We would love to have you join! Please reach out with any questions. If you're a
 <p>Wesley "Adalbert Zollern" Zhang</p>
 </div>
 <div class="exec">
+<h4>Publicity Chair</h4>
+<div class="container"><img src="images/frontcoin.png"></div>
+<p>Ella Sheffield</p>
+</div>
+<div class="exec">
 <h4>Event Planner</h4>
 <div class="container"><img src="images/frontcoin.png"></div>
-<p>Rebecca Chang</p>
+<p>Aloysius Ng</p>
+</div>
+<div class="exec">
+<h4>Event Planner</h4>
+<div class="container"><img src="images/frontcoin.png"></div>
+<p>Riley Kong</p>
 </div>
 </div>
 
