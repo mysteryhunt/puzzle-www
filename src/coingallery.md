@@ -4,15 +4,13 @@ The goal of each Mystery Hunt is to locate an object hidden somewhere on MIT cam
 
 Rahul Sridhar maintains [a map of where all coins have been found](https://fortenf.org/mh-coin-map/).
 
-<!--## 2024
+## 2024
 
-[![](images/coins/2024.png)](images/coins/2024.png)
+[![](images/coins/2024o.jpg)](images/coins/2024o.jpg)[![](images/coins/2024r.jpg)](images/coins/2024r.jpg)
 
 _Coin material: silver-plated zinc alloy, copper. Technique: die stamping, antiquing._
 
 The 2024 Mystery Hunt began as a space conference; during the opening ceremony, the board voted to demote Pluto to "unimportant space debris", which killed the Greek god Pluto and resulted in the rest of the Greco-Roman pantheon banishing the entire conference to the Underworld. After escaping the Underworld, teams were then tasked with reviving the god by finding "shades" (representations of things he was worshipped for) across the US. Once Pluto was fixed, the teams got the board to reverse their decision on Pluto; as a reward, Pluto gave them a coin: an obol to use for the _next_ time they had to go to the Underworld.
-
--->
 
 ## 2023
 

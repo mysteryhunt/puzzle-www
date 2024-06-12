@@ -14,10 +14,9 @@ If there are things in the archive that make solving puzzles after-the-fact part
 
 [Devjoe](http://devjoe.livejournal.com), a veteran Mystery Hunt participant and puzzler, has created a massive puzzle index of all puzzles between 1994 to now. The index is currently located [here](https://devjoe.appspot.com/huntindex/).
 
-<!--
 ## 2024
 
-[Mystery Hunt 2024](2024/) first tasked teams with escaping Hades after being banished there by the Greco-Roman pantheon for killing the god Pluto, then asked teams to revive Pluto by finding his "shades" scattered across the US.-->
+[Mystery Hunt 2024](2024/) first tasked teams with escaping Hades after being banished there by the Greco-Roman pantheon for killing the god Pluto, then asked teams to revive Pluto by finding his "shades" scattered across the US.
 
 ## 2023
 
@@ -121,7 +120,7 @@ If there are things in the archive that make solving puzzles after-the-fact part
 
 ## 1998
 
-[Mystery Hunt '98 (mostly missing)](1998/index.html) was about getting a degree in Enigmatology.
+[Mystery Hunt '98](1998/index.html) was about getting a degree in Enigmatology.
 
 ## 1997
 
