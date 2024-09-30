@@ -1,19 +1,14 @@
-# 2024 MIT Mystery Hunt
+# 2025 MIT Mystery Hunt
 
 ## The Next Hunt
 
-Greetings puzzlers!
+MIT Puzzle Club and Death and Mayhem are thrilled to announce that the 45th annual MIT Mystery Hunt will begin at noon ET on Friday, January 17th, 2025. Wrap-up will take place at noon ET on Monday, January 20th, 2025.
 
-Congratulations to Death & Mayhem for winning the 44th annual MIT Mystery Hunt! They will be writing the next hunt; more details to come in the future.
+Please view our [official registration site](https://www.mitmh2025.com/) with more details, and feel free to email us at [puzzle@mit.edu](mailto:puzzle@mit.edu) with any additional questions.
 
-<!--The below is for when hunt is officially announced. Details assume the standard of MLK day; replace as needed.-->
-<!--MIT Puzzle Club and [insert whatever name D&M will use here] are thrilled to announce that the 45th annual MIT Mystery Hunt will begin at noon ET on Friday, January 17th, 2025. Wrap-up will take place at noon ET on Monday, January 20th, 2025.
+## How to Participate
 
-Please view our [official registration site](https://www.mitmh2024.com/) with more details, and-->Feel free to email us at [puzzle@mit.edu](mailto:puzzle@mit.edu) with any additional questions.
-
-<!--## How to Participate
-
-**_Registration:_** Please view the [registration website](https://www.mitmh2024.com/) for more details.-->
+**_Registration:_** Registration will open in December. Please view the [registration website](https://www.mitmh2025.com/) for more details.
 
 ## Contribute To Or Be Involved In Mystery Hunt
 
