@@ -6,6 +6,8 @@ This site serves as a record of the Mystery Hunt's [history](history.html) and a
 
 If you are just starting as a puzzle solver, welcome! Check out the "[Resources For Beginners](resources.html)" to read about the art of puzzle solving and get started with a few hand-selected puzzles, and take a look at "[Puzzle tools and how-tos](tools.html)" for links to various tools that make the process easier.
 
+If you'd like to receive updates about the MIT Mystery Hunt, you can subscribe to the [puzzle-hunters@mit.edu mailing list](https://mailman.mit.edu/mailman/listinfo/puzzle-hunters).
+
 ## Support the MIT Mystery Hunt
 
 The Mystery Hunt is an ASA-recognized group (reach the student club at [puzzle-club-exec@mit.edu](mailto:puzzle-club-exec@mit.edu)) which receives some funding from Finboard, the Large Events Fund, and other sources at MIT. The group also typically fundraises annually to help cover the costs associated with creating, producing, and running an activity of this size and scope. With your support, we can put the Mystery Hunt in a more stable financial position for the future.
