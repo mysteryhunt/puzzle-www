@@ -6,6 +6,8 @@ MIT Puzzle Club and Death &amp; Mayhem are thrilled to announce that the 45th
 annual MIT Mystery Hunt will begin at noon ET on Friday, January 17th, 2025.
 Wrap-up will take place at noon ET on Monday, January 20th, 2025.
 
+Please find your formal invitation [here](/resources/2025-Invitation.pdf).
+
 Please view our [official registration site](https://www.mitmh2025.com/) with more details, and feel free to email us at [puzzle@mit.edu](mailto:puzzle@mit.edu) with any additional questions.
 
 ## How to Participate
