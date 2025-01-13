@@ -1,0 +1,3 @@
+# Data Use Policy
+
+Individual authors retain the copyrights to puzzles and solutions in the MIT Mystery Hunt archive, which we reproduce with permission. Usage of puzzles and solutions without permission of each individual author can consistute copyright infringement. Limited usage subject to fair use is allowed; for example, you can print the puzzles for a non-commercial puzzle event, provided that you give appropriate credit. Transformative usage, such as data mining for commercial purposes or for assembling training material, requires permission. The Mystery Hunt / Puzzle Club cannot grant this permission, nor can we release the contact information of the authors for any given puzzle.
