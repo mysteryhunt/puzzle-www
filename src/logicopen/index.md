@@ -24,7 +24,7 @@ If you have any questions, feel free to email us at puzzle-club-exec@mit.edu!
 - Round 3: 1 - 1:50
 - Round 4: 2 - 2:50
 - Team Round: 3:10 - 4
-- Constructor Q&A and Contestant Social: 4 - 4:50
+- Contestant Social: 4 - 4:50
 - Award Ceremony: 5 - 5:15
 
 ## Archives
