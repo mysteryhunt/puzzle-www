@@ -2,6 +2,9 @@
 
 ## 2025 Information
 
+The 2025 Sudoku Open has concluded. Check back next year!
+
+<!--- Saving this for next year
 The competition will take place in TBD on March 15 from 10 AM to 4 PM.
 
 Prizes will be given to top solvers!
@@ -26,8 +29,10 @@ Schedule:
 - 1:20-2:00: Team Round 1
 - 2:15-3:15: Team Round 2
 - 3:30-4:00: Awards/Wrap-up
+--->
 
 ## Archives
 
+- [2025 MIT Sudoku Open](2025/index.html)
 - [2024 MIT Sudoku Open](2024/index.html)
 - [2023 MIT Sudoku Open](2023/index.html)
