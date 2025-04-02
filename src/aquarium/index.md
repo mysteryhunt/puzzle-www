@@ -8,6 +8,7 @@ Are you an MIT student interested in helping with the hunt? We'd always apprecia
 
 ### Archive
 
+- The [2024 Aquarium Puzzle Hunt](2024/index.html) asked teams to discover a new species in the aquarium.
 - The [2023 Aquarium Puzzle Hunt](2023/index.html) asked teams to help Ariel's friends think of a gift to give her.
 - The [2022 Aquarium Puzzle Hunt](2022/index.html) asked teams to help Patrick make Spongebob feel better.
 - The [2021 Aquarium Puzzle Hunt](2021/index.html) asked teams to discover the secrets of the Coral League, a group of eight universities.
