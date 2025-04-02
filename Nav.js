@@ -149,6 +149,7 @@ const Nav = () => {
         </${Submenu}>
         <${Submenu} parent="Puzzle Club">
           <li><a href="/aquarium/">Aquarium Hunt</a></li>
+          <li><a href="/brassrat/">Brass Rat Hunt</a></li>
           <li><a href="/logicopen/">Logic Puzzle Open</a></li>
           <li><a href="/sudokuopen/">Sudoku Open</a></li>
         </${Submenu}>
