@@ -1,5 +1,7 @@
 # 2025 MIT Sudoku Open
 
+The 2025 MIT Sudoku Open was held on Saturday, March 15th.
+
 ## Puzzles
 
 - [Instruction Booklet](ib.pdf)
