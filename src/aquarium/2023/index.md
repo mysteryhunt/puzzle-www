@@ -8,7 +8,12 @@
 
 ## Simulator
 
-During the hunt, teams could text a phone number to submit answers. That number is no longer functional, but puzzlers can use the simulator below as a replacement.
+For previous aquarium hunts, teams could text a phone number to submit answers. 
+That number is no longer functional, but puzzlers can use the simulator below as a replacement.
+
+To submit an answer, enter it in the format \[puzzle number\] \[puzzle answer\].
+For example, if your answer to the fourth puzzle was EXAMPLE,
+enter 4 EXAMPLE. For the metapuzzle, use META instead of the puzzle number.
 
 <div id="simulator"></div>
 

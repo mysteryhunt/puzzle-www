@@ -13,13 +13,11 @@ The 2025 MIT Sudoku Open was held on Saturday, March 15th.
 
 ## Contributors
 
-- David Altizio
-- Walker Anderson
-- Alexander Angelov
 - Rebecca Chang
 - Tyler Chen
 - Can Erturan
-- John Kwon
-- Victor Larsen
-- Tim Miller
-- Wayne Zhao
+- Sinchai Rungsantrattanakul
+- Prasanna Seshadri
+- Wessel Strijkstra
+- Tawan Sunathvanichkul
+- Anderson Wang

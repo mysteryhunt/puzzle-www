@@ -1,6 +1,6 @@
 import { React, html, css } from "./package.js";
 
-import { Nav } from "./Nav.js";
+import { Nav } from "./Nav.js?2";
 import { Title } from "./Title.js";
 
 const Header = ({ hunt, setHunt }) => {

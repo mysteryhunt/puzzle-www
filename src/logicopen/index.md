@@ -2,7 +2,7 @@
 
 ## 2025 Information
 
-The competition will take place in TBD on April 26 from 10 AM to 5:15 PM.
+The competition will take place in Building 26 on April 26 from 10 AM to 5:15 PM.
 
 <!-- The [Instruction Booklet](ib.pdf) is now available. -->
 
