@@ -4,7 +4,7 @@
 
 The competition will take place in Building 26 on April 26 from 10 AM to 5:15 PM.
 
-<!-- The [Instruction Booklet](ib.pdf) is now available. -->
+The [Instruction Booklet](ib.pdf) is now available.
 
 Prizes will be given to top solvers!
 
@@ -16,16 +16,16 @@ If you're interested in practicing puzzles before the competition, two good sour
 
 If you have any questions, feel free to email us at puzzle-club-exec@mit.edu!
 
-(Tentative) Schedule:
+Schedule:
 
 - Round 1: 10 - 10:50
 - Round 2: 11 - 11:50
-- Lunch Break: 12 - 1
+- Lunch Break: 12 - 12:50
 - Round 3: 1 - 1:50
 - Round 4: 2 - 2:50
 - Team Round: 3:10 - 4
 - Contestant Social: 4 - 4:50
-- Award Ceremony: 5 - 5:15
+- Awards: 5 - 5:15
 
 ## Archives
 
