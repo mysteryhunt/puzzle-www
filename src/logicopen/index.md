@@ -1,5 +1,16 @@
 # MIT Logic Puzzle Open
 
+## Information
+
+The 2025 MIT Logic Puzzle Open has concluded.
+
+## Archives
+
+- [2025 MIT Logic Puzzle Open](2025/index.html)
+- [2024 MIT Logic Puzzle Open](2024/index.html)
+- [2023 MIT Logic Puzzle Open](2023/index.html)
+
+<!--
 ## 2025 Information
 
 The competition will take place in Building 26 on April 26 from 10 AM to 5:15 PM.
@@ -26,8 +37,4 @@ Schedule:
 - Team Round: 3:10 - 4
 - Contestant Social: 4 - 4:50
 - Awards: 5 - 5:15
-
-## Archives
-
-- [2024 MIT Logic Puzzle Open](2024/index.html)
-- [2023 MIT Logic Puzzle Open](2023/index.html)
+-->
