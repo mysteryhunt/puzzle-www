@@ -4,6 +4,16 @@ The goal of each Mystery Hunt is to locate an object hidden somewhere on MIT cam
 
 Rahul Sridhar maintains [a map of where all coins have been found](https://fortenf.org/mh-coin-map/).
 
+## 2025
+
+[![](images/coins/2025.jpg)](images/coins/2025.jpg)
+
+_Coin material: silver-plated zinc alloy. Technique: die stamping, antiquing._
+
+The 2025 MIT Mystery Hunt began with the disappearance of the famed Shadow Diamond, plunging into the middle of a noir mystery. As teams joined up with the local gumshoe, they investigated each of the major characters, culimating with cracking into the vault of MITropolis's notorious Finster crime family. Nobody was able to recover the Shadow Diamond, but they instead received a stash of surprisingly coin-like counterfeit jewelry manufactured by one of the characters.
+
+More information about the coin design is available in the [2025 Hunt archives](/2025/extras/coin)
+
 ## 2024
 
 [![](images/coins/2024o.jpg)](images/coins/2024o.jpg)[![](images/coins/2024r.jpg)](images/coins/2024r.jpg)

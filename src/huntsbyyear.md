@@ -16,6 +16,10 @@ If there are things in the archive that make solving puzzles after-the-fact part
 
 [Devjoe](http://devjoe.livejournal.com), a veteran Mystery Hunt participant and puzzler, has created a massive puzzle index of all puzzles between 1994 to now. The index is currently located [here](https://devjoe.appspot.com/huntindex/).
 
+## 2025
+
+[Mystery Hunt 2025](2025/)’s epic Gala celebrating the engagement of two of MITropolis's leading personas was supposed to begin with the unveiling of the historic Shadow Diamond, but when the diamond was found missing, teams were plunged into a noir mystery involving a shady cast of characters each hiding their own secret.
+
 ## 2024
 
 [Mystery Hunt 2024](2024/) first tasked teams with escaping Hades after being banished there by the Greco-Roman pantheon for killing the god Pluto, then asked teams to revive Pluto by finding his "shades" scattered across the US.
