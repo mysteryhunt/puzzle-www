@@ -53,7 +53,6 @@ The tools below are useful when solving various types of puzzles. Be cautious wh
 * [Shazam](https://www.shazam.com/)
 * [Midmoi](https://www.midomi.com/)
 * [Musipedia](https://www.musipedia.org/)
-* [Classical Music Tune Lookup](http://bestclassicaltunes.com/DictionaryPiano.aspx)
 
 ## Libraries
 
@@ -61,10 +60,12 @@ The tools below are useful when solving various types of puzzles. Be cautious wh
 * [solvertools](https://github.com/rspeer/solvertools)
 * [puzzle-tools](https://github.com/dgulotta/puzzle-tools)
 
-## Other Tools
+## Other Resources
 
 * [/dev/joe's MIT Mystery Hunt Puzzle Index](https://devjoe.appspot.com/huntindex/)
-* [Noq](https://www.mstang.xyz/noq), logic puzzle solver
+* [Noq](https://noq.solutions/), logic puzzle solver
+* [Nikoli Puzzle Solver](https://util.in:8102/), for grid logic puzzles
 * [tools.qhex.org](https://tools.qhex.org/) has some logic puzzle tools
 * [Sets of Things](https://phenomist.wordpress.com/storage/sets/)
 * [Dropquote solver](https://cjquines.com/dropquote/)
+* [Google Sheets Puzzle Tricks](https://docs.google.com/spreadsheets/d/1mTVD0KtjbU6-wp1mvYU_abrjdCmnP9focRa1qp36rrY/edit?gid=547492841#gid=547492841)
