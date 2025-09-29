@@ -1,18 +1,14 @@
-# 2025 MIT Mystery Hunt
+# 2026 MIT Mystery Hunt
 
 ## The Next Hunt
 
-MIT Puzzle Club and Death &amp; Mayhem are thrilled to announce that the 45th
-annual MIT Mystery Hunt will begin at noon ET on Friday, January 17th, 2025.
-Wrap-up will take place at noon ET on Monday, January 20th, 2025.
+MIT Puzzle Club and Cardinality are thrilled to announce that the 46th annual MIT Mystery Hunt will begin at noon ET on Friday, January 16th, 2026.
 
-Please find your formal invitation [here](/resources/2025-Invitation.pdf).
-
-Please view our [official registration site](https://www.mitmh2025.com/) with more details, and feel free to email us at [puzzle@mit.edu](mailto:puzzle@mit.edu) with any additional questions.
+Please view our [official registration site](https://mitmh2026.com/) with more details, and feel free to email us at [mitmh2026@mit.edu](mailto:mitmh2026@mit.edu) with any additional questions.
 
 ## How to Participate
 
-**_Registration:_** Registration will open in December. Please view the [registration website](https://www.mitmh2025.com/) for more details.
+**_Registration:_** Registration will open in November. Please see the [registration website](https://mitmh2026.com/) for more details.
 
 ## Contribute To Or Be Involved In Mystery Hunt
 
