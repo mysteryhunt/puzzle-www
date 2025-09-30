@@ -47,7 +47,7 @@ const Countdown = () => {
   `;
 
   const message =
-    "Mystery Hunt 2025 " +
+    "Mystery Hunt 2026 " +
     (count.ended ? "has ended." : count.started ? "ends in" : "begins in");
 
   if (count.ended) return html`<p>${message}</p>`;
@@ -107,7 +107,7 @@ const Hunt = () => {
         >Subscribe for Hunt updates</a
       >`;
     } else {
-      return html`<a class="button" href="https://www.mitmh2025.com/"
+      return html`<a class="button" href="https://www.mitmh2026.com/"
         >More Information</a
       >`;
     }
