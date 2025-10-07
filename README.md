@@ -2,6 +2,8 @@
 
 Code for the MIT Mystery Hunt / Puzzle Club website. On the Puzzle Club Athena locker at `/mit/puzzle/www`.
 
+(Access via `ssh <kerb>@athena.dialup.mit.edu`, run `attach puzzle`, navigate with `cd /mit/puzzle/www`.)
+
 ## Development
 
 To edit a page, **do not edit the HTML directly**. Instead, edit the markdown file under the `src` directory.
