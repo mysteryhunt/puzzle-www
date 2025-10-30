@@ -1,4 +1,4 @@
-# MIT Logic Puzzle Open
+# MIT Crossword Open
 
 <!-- ## Information
 
