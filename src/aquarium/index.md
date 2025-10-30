@@ -4,7 +4,7 @@ The MIT Aquarium Puzzle Hunt is an annual puzzlehunt written for MIT's incoming 
 
 The hunt began in 2012. From 2012 to 2019, the huntrunners were students associated with Safety Third, a wing in Next House. Since 2021, the MIT Mystery Hunt / Puzzle Club writes and runs the Aquarium Puzzle Hunt.
 
-Are you an MIT student interested in helping with the hunt? We'd always appreciate more help! Check out the [Puzzle Club page](/puzzleclub.html) for more info on joining Puzzle Club.
+Are you an MIT student interested in helping with the hunt? We'd always appreciate more help! Reach out to us at puzzle-club-exec@mit.edu for info on joining.
 
 ### Archive
 

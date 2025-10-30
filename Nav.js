@@ -152,7 +152,8 @@ const Nav = () => {
           <li><a href="/brassrat/">Brass Rat Hunt</a></li>
           <li><a href="/logicopen/">Logic Puzzle Open</a></li>
           <li><a href="/sudokuopen/">Sudoku Open</a></li>
-        </${Submenu}>
+          <li><a href="/crosswordopen/">Crossword Open</a></li>
+          </${Submenu}>
         <${Submenu} parent="Resources">
           <li><a href="/resources.html">For Beginners</a></li>
           <li><a href="/tools.html">Tools</a></li>
