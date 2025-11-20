@@ -16,9 +16,9 @@ Solutions and interactive solvers will be added soon!
 - [Team Round 2: ???](team2.pdf)
 <!--    - [1A](../solver/index.html?file=../2025/1A.ipuz) -->
 - Extra puzzles
+    - [Froot Loops](frootloops.pdf)
 <!--    - [Bonus 1](bonus1.pdf)
     - [Bonus 2](bonus2.pdf) -->
-    - [Froot Loops](frootloops.pdf)
 - [Awards](https://docs.google.com/presentation/d/19OmUGP7C0jAwkHaA9AEZVguX-9hqorNIPqALPElSq1s/edit)
 
 ## Contributors
