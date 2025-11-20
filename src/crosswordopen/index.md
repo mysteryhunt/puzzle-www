@@ -1,16 +1,14 @@
 # MIT Crossword Open
 
-<!-- ## Information
+## Information
 
-The 2025 MIT Logic Puzzle Open has concluded.
+The 2025 MIT Crossword Open has concluded.
 
 ## Archives
 
-- [2025 MIT Logic Puzzle Open](2025/index.html)
-- [2024 MIT Logic Puzzle Open](2024/index.html)
-- [2023 MIT Logic Puzzle Open](2023/index.html)
--->
+- [2025 MIT Crossword Open](2025/index.html)
 
+<!--
 ## 2025 Information
 
 Puzzle Club is excited to announce the inaugural MIT Crossword Open! The competition will take place in Building 32 (Stata Center) on Saturday, November 15th, from 10am to 4pm.
@@ -28,3 +26,4 @@ Please meet at 32-141. Prizes will be given to top solvers!
 If you're interested in practicing puzzles before the competition, a good source is [Daily Crossword Links](https://dailycrosswordlinks.com/).
 
 If you have any questions, feel free to email us at puzzle-club-exec@mit.edu!
+-->
