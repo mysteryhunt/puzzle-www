@@ -66,7 +66,7 @@ We would love to have you join! Please reach out with any questions. If you're a
 <p>Aloysius Ng</p>
 </div>
 <div class="exec">
-<h4>Treasure</h4>
+<h4>Treasurer</h4>
 <div class="container"><img src="images/frontcoin.png"></div>
 <p>Alex Stoneman</p>
 </div>
