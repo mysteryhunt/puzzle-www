@@ -37,7 +37,7 @@
     - [Sashigane A3](https://puzz.link/p?sashigane/15/15/hpipim6q5t4r4m5mgm4qgk5sgqhqjo4ngk5n6n6kgn3oiq4q4sgkjq6mjm6mgr5tjq5mjpjp4)
     - [Second Corner B1](https://tinyurl.com/2bhtjva7)
     - [Second Corner B2/A1](https://tinyurl.com/22o5u2zb)
-    - [Second Corner B3/A2](https://tinyurl.com/2cg8ulx5)
+    - [Second Corner B3/A2](https://tinyurl.com/mrjn9e7h)
     - [Second Corner A3](https://tinyurl.com/3m464mma)
     - [Arrow Flow B1](https://tinyurl.com/2377wok2)
     - [Arrow Flow B2/A1](https://tinyurl.com/23a9cdhs)
@@ -70,6 +70,7 @@
     - [Kakuro B3/A2](https://tinyurl.com/2837vjfc)
     - [Kakuro A3](https://tinyurl.com/23wlhenh)
 - Round 4: Over the Horizon ([Beginner](div4b.pdf), [Advanced](div4a.pdf))
+    - **NOTE:** The Tumbleweed Loop A3 is incorrect in the PDF.
     - [Multiplication Link B1](https://tinyurl.com/2y2v8mhb)
     - [Multiplication Link B2/A1](https://tinyurl.com/2cane2r4)
     - [Multiplication Link B3/A2](https://tinyurl.com/276qd7q7)
@@ -89,7 +90,7 @@
     - [Tumbleweed Loop B1](https://tinyurl.com/24rpd3ov)
     - [Tumbleweed Loop B2/A1](https://tinyurl.com/2bo39akz)
     - [Tumbleweed Loop B3/A2](https://tinyurl.com/28ss465g)
-    - [Tumbleweed Loop A3](https://tinyurl.com/2y826l6g)
+    - [Tumbleweed Loop A3](https://tinyurl.com/28ss465g)
 - Round 5: [Team Round](team.pdf)
 - Solutions:
     - [Beginner](solb.pdf)
