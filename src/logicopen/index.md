@@ -26,6 +26,16 @@ Schedule:
 - Round 5?: 3 - 4
 - Award Ceremony: 4 - 4:30
 
+### Silicon Valley Mirror
+
+New this year, we will have a second site in Silicon Valley! 
+
+<div style="font-size: 2em; text-align: center;">
+<a href="https://docs.google.com/forms/d/e/1FAIpQLSejzIW09KUXy9SIv-x9erk1qBi_OsuULesh5FcCp7GB1edUiQ/viewform">Register for the Silicon Valley Site!</a>
+</div>
+
+It will be hosted at the Courtyard by Marriott San Jose Cupertino; more detailed information is available at the [Google Forms link](https://docs.google.com/forms/d/e/1FAIpQLSejzIW09KUXy9SIv-x9erk1qBi_OsuULesh5FcCp7GB1edUiQ/viewform).
+
 ## Archives
 
 - [2025 MIT Logic Puzzle Open](2025/index.html)
