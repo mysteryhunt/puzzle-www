@@ -10,7 +10,7 @@ Rahul Sridhar maintains [a map of where all coins have been found](https://forte
 
 _Coin material: gold-plated brass, technique: die stamping, antiquing._
 
-The 2026 Mystery Hunt began at a cryptid conference, where the unveiling of a mysterious egg was interrupted by the Monster Investigation Team (M.I.T.) attempting to confiscate it. In the chaos, the egg hatched into a puzzle monster, or Puzzmon, opening a portal to the Puzzmon kingdom and threatening to destabilize reality. Teams solved puzzles to befriend Puzzmon across multiple dimensions in order to figure out how to close the portal and save both worlds. For their hard work and success in doing so, they are awared the Big Nobel Prize.git push -u origin
+The 2026 Mystery Hunt began at a cryptid conference, where the unveiling of a mysterious egg was interrupted by the Monster Investigation Team (M.I.T.) attempting to confiscate it. In the chaos, the egg hatched into a puzzle monster, or Puzzmon, opening a portal to the Puzzmon kingdom and threatening to destabilize reality. Teams solved puzzles to befriend Puzzmon across multiple dimensions in order to figure out how to close the portal and save both worlds. For their hard work and success in doing so, they are awared the Big Nobel Prize.
 
 
 ## 2025
