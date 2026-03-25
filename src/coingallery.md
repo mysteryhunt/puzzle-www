@@ -4,6 +4,15 @@ The goal of each Mystery Hunt is to locate an object hidden somewhere on MIT cam
 
 Rahul Sridhar maintains [a map of where all coins have been found](https://fortenf.org/mh-coin-map/).
 
+## 2026
+
+[![](images/coins/2026.jpg)](images/coins/2026.jpg)
+
+_Coin material: gold-plated brass, technique: die stamping, antiquing._
+
+The 2026 Mystery Hunt began at a cryptid conference, where the unveiling of a mysterious egg was interrupted by the Monster Investigation Team (M.I.T.) attempting to confiscate it. In the chaos, the egg hatched into a puzzle monster, or Puzzmon, opening a portal to the Puzzmon kingdom and threatening to destabilize reality. Teams solved puzzles to befriend Puzzmon across multiple dimensions in order to figure out how to close the portal and save both worlds. For their hard work and success in doing so, they are awared the Big Nobel Prize.
+
+
 ## 2025
 
 [![](images/coins/2025.jpg)](images/coins/2025.jpg)
