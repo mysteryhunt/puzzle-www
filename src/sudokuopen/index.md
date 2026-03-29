@@ -1,13 +1,16 @@
 # MIT Sudoku Open
 
+<!-- Saving this for next year
 The competition will take place in-person on Saturday, March 7. As usual, it will take place at MIT, but this year we will also have a second location in the Bay Area! See below for more details.
+-->
 
 ## 2026 Information
 
-<!--- Saving this for next year
-The 2025 Sudoku Open has concluded. Check back next year!
---->
 
+The 2026 Sudoku Open has concluded. Check back next year!
+
+
+<!-- Saving this for next year
 The competition will take place in-person on MIT campus, room 45-102 on Saturday, March 7 from 10 AM to 4 PM.
 
 Prizes will be given to top solvers!
@@ -24,7 +27,6 @@ If you have any questions, feel free to email us at puzzle-club-exec@mit.edu!
 
 Schedule:
 
-<!-- - 9:30-10:00: Check-in -->
 - 10:00-10:30: Individual: Classics
 - 10:40-11:20: Individual: Variants Part I
 - 11:30-12:15: Individual: Variants Part II
@@ -46,9 +48,12 @@ This event will take place at Courtyard by Marriott San Jose Cupertino, 10605 N 
 </div>
 
 If you have any questions, feel free to email us at puzzle-club-exec@mit.edu!
+-->
+
 
 ## Archives
 
+- [2026 MIT Sudoku Open](2026/index.html)
 - [2025 MIT Sudoku Open](2025/index.html)
 - [2024 MIT Sudoku Open](2024/index.html)
 - [2023 MIT Sudoku Open](2023/index.html)
