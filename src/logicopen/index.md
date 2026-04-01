@@ -4,7 +4,7 @@
 
 The competition will take place in 32-141 on April 4 from 10 AM to 4:30 PM.
 
-<!-- The [Instruction Booklet](ib.pdf) is now available. -->
+The [Instruction Booklet](ib.pdf) is now available.
 
 Prizes will be given to top solvers!
 
