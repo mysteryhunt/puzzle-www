@@ -2,7 +2,9 @@
 
 ## 2026 Information
 
-The competition will take place in 32-141 on April 4 from 10 AM to 4:30 PM.
+The 2026 MIT Logic Puzzle Open has concluded. Check back next year!
+
+<!-- The competition will take place in 32-141 on April 4 from 10 AM to 4:30 PM.
 
 The [Instruction Booklet](ib.pdf) is now available.
 
@@ -34,10 +36,11 @@ New this year, we will have a second site in Silicon Valley!
 <a href="https://docs.google.com/forms/d/e/1FAIpQLSejzIW09KUXy9SIv-x9erk1qBi_OsuULesh5FcCp7GB1edUiQ/viewform">Register for the Silicon Valley Site!</a>
 </div>
 
-It will be hosted at the Courtyard by Marriott San Jose Cupertino; more detailed information is available at the [Google Forms link](https://docs.google.com/forms/d/e/1FAIpQLSejzIW09KUXy9SIv-x9erk1qBi_OsuULesh5FcCp7GB1edUiQ/viewform).
+It will be hosted at the Courtyard by Marriott San Jose Cupertino; more detailed information is available at the [Google Forms link](https://docs.google.com/forms/d/e/1FAIpQLSejzIW09KUXy9SIv-x9erk1qBi_OsuULesh5FcCp7GB1edUiQ/viewform). -->
 
 ## Archives
 
+- [2026 MIT Logic Puzzle Open](2026/index.html)
 - [2025 MIT Logic Puzzle Open](2025/index.html)
 - [2024 MIT Logic Puzzle Open](2024/index.html)
 - [2023 MIT Logic Puzzle Open](2023/index.html)

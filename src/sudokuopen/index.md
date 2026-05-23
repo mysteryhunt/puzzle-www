@@ -7,7 +7,7 @@ The competition will take place in-person on Saturday, March 7. As usual, it wil
 ## 2026 Information
 
 
-The 2026 Sudoku Open has concluded. Check back next year!
+The 2026 MIT Sudoku Open has concluded. Check back next year!
 
 
 <!-- Saving this for next year
